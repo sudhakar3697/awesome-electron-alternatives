@@ -24,3 +24,5 @@ List of alternatives to [electron](https://electronjs.org)
 
 # C++
 * [Qt](https://www.qt.io)
+
+* [sciter](https://sciter.com)
