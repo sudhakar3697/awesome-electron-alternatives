@@ -1,6 +1,8 @@
 # electron-alternatives
 List of alternatives to [electron](https://electronjs.org)
 
+Consider Progressive Web Apps [(PWA)](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions.
+
 # JS
 * [carlo](https://github.com/GoogleChromeLabs/carlo)
 * [NW.js](https://nwjs.io)
