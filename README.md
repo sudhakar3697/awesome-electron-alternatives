@@ -18,3 +18,6 @@ List of alternatives to [electron](https://electronjs.org)
 
 # Java
 * [Swing](https://en.wikipedia.org/wiki/Swing_(Java))
+
+# Python
+* [PyQt](https://en.wikipedia.org/wiki/PyQt)
