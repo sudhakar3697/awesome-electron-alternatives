@@ -21,3 +21,6 @@ List of alternatives to [electron](https://electronjs.org)
 
 # Python
 * [PyQt](https://en.wikipedia.org/wiki/PyQt)
+
+# C++
+* [Qt](https://www.qt.io)
