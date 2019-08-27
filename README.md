@@ -15,3 +15,6 @@ List of alternatives to [electron](https://electronjs.org)
 
 # C#
 * [Avalonia](https://avaloniaui.net)
+
+# Java
+* [Swing](https://en.wikipedia.org/wiki/Swing_(Java))
