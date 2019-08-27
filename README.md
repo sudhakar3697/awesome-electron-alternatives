@@ -1,5 +1,5 @@
 # electron-alternatives
-List of alternatives to electron
+List of alternatives to [electron](https://electronjs.org)
 
 * [carlo](https://github.com/GoogleChromeLabs/carlo)
 * [NW.js](https://nwjs.io)
