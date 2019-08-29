@@ -15,7 +15,7 @@ Consider Progressive Web Apps [(PWA)](https://developers.google.com/web/progress
 # Dart
 * [flutter](https://flutter.dev)
 
-# C#
+# C# (.Net)
 * [Avalonia](https://avaloniaui.net)
 
 # Java
