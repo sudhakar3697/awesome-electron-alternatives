@@ -11,6 +11,8 @@ Consider Progressive Web Apps [(PWA)](https://developers.google.com/web/progress
 * [Proton Native](https://proton-native.js.org)
 * [React Native Desktop](https://github.com/status-im/react-native-desktop)
 * [Vuido](https://github.com/mimecorg/vuido)
+* [NodeGui](https://github.com/nodegui/nodegui)
+* [NodeGui-React](https://github.com/nodegui/react-nodegui)
 
 # Dart
 * [flutter](https://flutter.dev)
