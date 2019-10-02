@@ -1,7 +1,18 @@
 # electron-alternatives
+
+## [electron](https://electronjs.org)
+* Lets you write cross-platform desktop applications using JavaScript, HTML and CSS.
+* It is based on [Node.js](https://nodejs.org) & [Chromium](https://www.chromium.org).
+
+## Why electron-alternatives?
+
+* Large size
+* Resource (RAM) hogging
+* Source code protection
+
 List of alternatives to [electron](https://electronjs.org)
 
-Consider Progressive Web Apps [(PWA)](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions.
+Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions.
 
 # JS
 * [carlo](https://github.com/GoogleChromeLabs/carlo) (Requires Node & Google Chrome to be installed on the system to run)
