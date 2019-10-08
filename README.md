@@ -8,7 +8,8 @@
 
 * Large size
 * Resource (RAM) hogging
-* Source code protection
+* Source code protection (https://www.contextis.com/en/blog/basic-electron-framework-exploitation)
+* We would have a web component in the system that can be used.
 
 List of alternatives to [electron](https://electronjs.org)
 
