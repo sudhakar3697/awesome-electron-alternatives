@@ -41,3 +41,6 @@ Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/prog
 * [Qt](https://www.qt.io)
 
 * [sciter](https://sciter.com)
+
+* TODO
+Add [reactxp](https://github.com/microsoft/reactxp), [quasar](https://quasar.dev)
