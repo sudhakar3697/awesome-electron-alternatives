@@ -53,6 +53,7 @@ Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/prog
 * [Xojo](https://www.xojo.com)
 * [LambdaNative](http://www.lambdanative.org)
 * [REVERY](https://www.outrunlabs.com/revery)
+* [8th](https://8th-dev.com/index.html)
 
 # TODO
 Add [reactxp](https://github.com/microsoft/reactxp), [quasar](https://quasar.dev)
