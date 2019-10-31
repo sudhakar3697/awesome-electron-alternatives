@@ -44,6 +44,9 @@ Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/prog
 * [sciter](https://sciter.com)
 * [Ultralight](https://ultralig.ht)
 
+# Go
+* [lorca](https://github.com/zserge/lorca)
+
 # Others
 * [Xojo](https://www.xojo.com)
 
