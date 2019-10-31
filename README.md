@@ -24,6 +24,7 @@ Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/prog
 * [React Native Desktop](https://github.com/status-im/react-native-desktop) (Cross-platform React Native Desktop port based on Qt framework)
 * [Vuido](https://github.com/mimecorg/vuido) (creating native desktop applications based on Vue.js, based on https://github.com/parro-it/libui-node)
 * [NodeGui](https://github.com/nodegui/nodegui) (powered by Qt5, [NodeGui-React](https://github.com/nodegui/react-nodegui))
+* [tint2](https://github.com/trueinteractions/tint2)
 
 # Dart
 * [flutter](https://flutter.dev)
