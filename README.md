@@ -51,6 +51,7 @@ Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/prog
 # Others
 * [Qt](https://www.qt.io)
 * [Xojo](https://www.xojo.com)
+* [LambdaNative](http://www.lambdanative.org)
 
 # TODO
 Add [reactxp](https://github.com/microsoft/reactxp), [quasar](https://quasar.dev)
