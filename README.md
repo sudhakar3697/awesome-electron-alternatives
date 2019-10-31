@@ -41,7 +41,7 @@ Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/prog
 
 # C++
 * [Qt](https://www.qt.io)
-
+* [wxWidgets](https://wxwidgets.org)
 * [sciter](https://sciter.com)
 * [Ultralight](https://ultralig.ht)
 
@@ -49,6 +49,7 @@ Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/prog
 * [lorca](https://github.com/zserge/lorca)
 
 # Others
+* [Qt](https://www.qt.io)
 * [Xojo](https://www.xojo.com)
 
 # TODO
