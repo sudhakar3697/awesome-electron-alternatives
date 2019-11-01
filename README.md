@@ -25,6 +25,8 @@ Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/prog
 * [Vuido](https://github.com/mimecorg/vuido) (creating native desktop applications based on Vue.js, based on https://github.com/parro-it/libui-node)
 * [NodeGui](https://github.com/nodegui/nodegui) (powered by Qt5, [NodeGui-React](https://github.com/nodegui/react-nodegui))
 * [tint2](https://github.com/trueinteractions/tint2)
+* [reactxp](https://github.com/microsoft/reactxp) (library for cross-platform app development using React and React Native)
+* [quasar](https://quasar.dev) (Vue.js based framework, which lets web developer to quickly create responsive websites/apps)
 
 # Dart
 * [flutter](https://flutter.dev)
@@ -56,6 +58,3 @@ Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/prog
 * [REVERY](https://www.outrunlabs.com/revery)
 * [8th](https://8th-dev.com/index.html)
 * [CEF](https://bitbucket.org/%7Bdc443723-7652-4c63-b340-033e522146db%7D/)
-
-# TODO
-Add [reactxp](https://github.com/microsoft/reactxp), [quasar](https://quasar.dev)
