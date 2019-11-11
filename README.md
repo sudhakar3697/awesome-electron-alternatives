@@ -44,6 +44,10 @@ Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/prog
 # Python
 * [PyQt](https://en.wikipedia.org/wiki/PyQt)
 * [Kivy](https://kivy.org/#home)
+* [PyGUI](http://www.cosc.canterbury.ac.nz/greg.ewing/python_gui)
+* [wxPython](https://wxpython.org/)
+* [Tkinter](https://docs.python.org/2/library/tkinter.html)
+
 
 # C++
 * [Qt](https://www.qt.io)
