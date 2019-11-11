@@ -37,6 +37,7 @@ Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/prog
 # C# (.Net)
 * [Orleans](https://github.com/dotnet/Orleans)
 * [Avalonia](https://avaloniaui.net)
+* [Electron.NET](https://github.com/ElectronNET/Electron.NET)
 
 # Java
 * [Swing](https://en.wikipedia.org/wiki/Swing_(Java))
@@ -66,6 +67,7 @@ Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/prog
 * [8th](https://8th-dev.com/index.html)
 * [CEF](https://bitbucket.org/%7Bdc443723-7652-4c63-b340-033e522146db%7D/)
 * [yue](https://github.com/yue/yue)
+* [Chromely](https://github.com/chromelyapps/Chromely)
 
 # TO DO
 * https://github.com/jscherer92/Quark
