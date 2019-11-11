@@ -71,4 +71,6 @@ Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/prog
 
 # TO DO
 * https://github.com/jscherer92/Quark
-* 
+
+# Watch
+* Blazor (https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx)
