@@ -27,6 +27,9 @@ Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/prog
 * [tint2](https://github.com/trueinteractions/tint2)
 * [reactxp](https://github.com/microsoft/reactxp) (library for cross-platform app development using React and React Native)
 * [quasar](https://quasar.dev) (Vue.js based framework, which lets web developer to quickly create responsive websites/apps)
+* [nidium](https://www.nidium.com)
+* [electrino](https://github.com/pojala/electrino)
+
 
 # Dart
 * [flutter](https://flutter.dev)
@@ -58,3 +61,8 @@ Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/prog
 * [REVERY](https://www.outrunlabs.com/revery)
 * [8th](https://8th-dev.com/index.html)
 * [CEF](https://bitbucket.org/%7Bdc443723-7652-4c63-b340-033e522146db%7D/)
+* [yue](https://github.com/yue/yue)
+
+# TO DO
+* https://github.com/jscherer92/Quark
+* 
