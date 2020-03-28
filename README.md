@@ -75,3 +75,4 @@ Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/prog
 
 # Watch
 * Blazor (https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx)
+* ElectronCGI (https://www.npmjs.com/package/electron-cgi)
