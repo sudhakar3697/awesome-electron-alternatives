@@ -16,6 +16,10 @@ List of alternatives to [electron](https://electronjs.org)
 
 Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions.
 
+"Progressive Web Apps might not be able to replace every kind of native application, but they can be viable replacements for some apps written with the Electron web wrapper technology". For more info
+https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now-a-progressive-web-app/
+
+
 # JS
 * [carlo](https://github.com/GoogleChromeLabs/carlo) (Requires Node & Google Chrome to be installed on the system to run)
 * [NW.js](https://nwjs.io) (Similar to electron, [provides Source code protection](https://nwjs.io/blog/js-src-protect-perf/))
