@@ -35,6 +35,7 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [nidium](https://www.nidium.com)
 * [electrino](https://github.com/pojala/electrino)
 * [graffiti](https://github.com/cztomsik/graffiti)
+* [Tauri](https://github.com/tauri-apps/tauri)
 
 # Dart
 * [flutter](https://flutter.dev)
