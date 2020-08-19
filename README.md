@@ -44,6 +44,7 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [Orleans](https://github.com/dotnet/Orleans)
 * [Avalonia](https://avaloniaui.net)
 * [Electron.NET](https://github.com/ElectronNET/Electron.NET)
+* [Uno](https://platform.uno) (Pixel-Perfect Multi-Platform Applications with C# and WinUI)
 
 # Java
 * [Swing](https://en.wikipedia.org/wiki/Swing_(Java))
