@@ -45,6 +45,7 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [Avalonia](https://avaloniaui.net)
 * [Electron.NET](https://github.com/ElectronNET/Electron.NET)
 * [Uno](https://platform.uno) (Pixel-Perfect Multi-Platform Applications with C# and WinUI)
+* [Chromely](https://github.com/chromelyapps/Chromely) (Build HTML Desktop Apps on .NET/.NET Core/.NET 5 using native GUI, HTML5, JavaScript, CSS)
 
 # Java
 * [Swing](https://en.wikipedia.org/wiki/Swing_(Java))
@@ -75,7 +76,6 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [8th](https://8th-dev.com/index.html)
 * [CEF](https://bitbucket.org/%7Bdc443723-7652-4c63-b340-033e522146db%7D/)
 * [yue](https://github.com/yue/yue)
-* [Chromely](https://github.com/chromelyapps/Chromely)
 
 # TO DO
 * https://github.com/jscherer92/Quark
