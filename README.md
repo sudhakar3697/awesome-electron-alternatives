@@ -36,6 +36,7 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [electrino](https://github.com/pojala/electrino)
 * [graffiti](https://github.com/cztomsik/graffiti)
 * [Tauri](https://github.com/tauri-apps/tauri)
+* [Sciter.JS](https://github.com/c-smile/sciter-js-sdk) (Is a 5MB HTML/CSS/JS (ES6) runtime aimed as a direct Electorn replacement)
 
 # Dart
 * [flutter](https://flutter.dev)
