@@ -21,7 +21,6 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 
 
 # JS
-* [carlo](https://github.com/GoogleChromeLabs/carlo) (Requires Node & Google Chrome to be installed on the system to run)
 * [NW.js](https://nwjs.io) (Similar to electron, [provides Source code protection](https://nwjs.io/blog/js-src-protect-perf/))
 * [DeskGap](https://deskgap.com) (bundles a Node.js runtime and leaves the HTML rendering to the operating system‘s webview)
 * [Neutralinojs](https://neutralino.js.org) (chromium module is replaced with either user’s web browser or built-in browser component. Node run-time is replaced with a lightweight web server which exposes native OS functionality)
