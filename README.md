@@ -78,6 +78,7 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [CEF](https://bitbucket.org/%7Bdc443723-7652-4c63-b340-033e522146db%7D/)
 * [yue](https://github.com/yue/yue)
 * [Godot](https://godotengine.org/) (Godot Engine – Multi-platform 2D and 3D game engine)
+* [Red](https://www.red-lang.org/p/about.html) (Full-stack lightweight language with [native GUI](https://github.com/red/docs/blob/master/en/view.adoc), [layout](https://github.com/red/docs/blob/master/en/vid.adoc) and [drawing](https://github.com/red/docs/blob/master/en/draw.adoc) DSLs)
 
 # TO DO
 * https://github.com/jscherer92/Quark
