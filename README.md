@@ -69,6 +69,7 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [wails](https://github.com/wailsapp/wails)
 
 # Others
+* [Livecode](https://livecode.com) (Lightweight language with [native GUI], integrated IDE, and visual interface builder) 
 * [Qt](https://www.qt.io)
 * [Xojo](https://www.xojo.com)
 * [LambdaNative](http://www.lambdanative.org)
