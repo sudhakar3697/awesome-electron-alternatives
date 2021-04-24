@@ -42,7 +42,6 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 # C# (.Net)
 * [Orleans](https://github.com/dotnet/Orleans)
 * [Avalonia](https://avaloniaui.net)
-* [Electron.NET](https://github.com/ElectronNET/Electron.NET)
 * [Uno](https://platform.uno) (Pixel-Perfect Multi-Platform Applications with C# and WinUI)
 * [Chromely](https://github.com/chromelyapps/Chromely) (Build HTML Desktop Apps on .NET/.NET Core/.NET 5 using native GUI, HTML5, JavaScript, CSS)
 
