@@ -57,6 +57,14 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [Tkinter](https://docs.python.org/2/library/tkinter.html)
 * [pywebview](https://github.com/r0x0r/pywebview)
 
+# Ruby
+* [Glimmer](https://github.com/AndyObtiva/glimmer) (A Domain-Specific Language & metaframework for building GUI apps using Ruby, with bindings for various GUI libraries and also Web)
+* [qtbindings](https://github.com/ryanmelt/qtbindings) (Ruby bindings for Qt)
+* [tk](https://github.com/ruby/tk) (Ruby bindings for Tcl/Tk)
+* [ruby-gnome](https://github.com/ruby-gnome/ruby-gnome) (Ruby bindings from GNOME/GTK3)
+* [JRubyFX](https://github.com/jruby/jrubyfx) (JRuby wrapper on JavaFX)
+* [traveling-ruby](https://github.com/phusion/traveling-ruby) (Runtime to bundle Ruby applications into executables)
+
 # C++
 * [Qt](https://www.qt.io)
 * [wxWidgets](https://wxwidgets.org)
