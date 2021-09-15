@@ -20,6 +20,29 @@ Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/prog
 https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now-a-progressive-web-app/
 
 
+# C# (.Net)
+* [Orleans](https://github.com/dotnet/Orleans)
+* [Avalonia](https://avaloniaui.net)
+* [Uno](https://platform.uno) (Pixel-Perfect Multi-Platform Applications with C# and WinUI)
+* [Chromely](https://github.com/chromelyapps/Chromely) (Build HTML Desktop Apps on .NET/.NET Core/.NET 5 using native GUI, HTML5, JavaScript, CSS)
+
+# C++
+* [Qt](https://www.qt.io)
+* [wxWidgets](https://wxwidgets.org)
+* [sciter](https://sciter.com)
+* [Ultralight](https://ultralig.ht)
+
+# Dart
+* [flutter](https://flutter.dev)
+
+# Go
+* [lorca](https://github.com/zserge/lorca)
+* [wails](https://github.com/wailsapp/wails)
+
+# Java
+* [Swing](https://en.wikipedia.org/wiki/Swing_(Java))
+* [JavaFX](https://openjfx.io/)
+
 # JS
 * [NW.js](https://nwjs.io) (Similar to electron, [provides Source code protection](https://nwjs.io/blog/js-src-protect-perf/))
 * [DeskGap](https://deskgap.com) (bundles a Node.js runtime and leaves the HTML rendering to the operating system‘s webview)
@@ -36,19 +59,6 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [Tauri](https://github.com/tauri-apps/tauri)
 * [Sciter.JS](https://github.com/c-smile/sciter-js-sdk) (Is a 5MB HTML/CSS/JS (ES6) runtime aimed as a direct Electron replacement)
 
-# Dart
-* [flutter](https://flutter.dev)
-
-# C# (.Net)
-* [Orleans](https://github.com/dotnet/Orleans)
-* [Avalonia](https://avaloniaui.net)
-* [Uno](https://platform.uno) (Pixel-Perfect Multi-Platform Applications with C# and WinUI)
-* [Chromely](https://github.com/chromelyapps/Chromely) (Build HTML Desktop Apps on .NET/.NET Core/.NET 5 using native GUI, HTML5, JavaScript, CSS)
-
-# Java
-* [Swing](https://en.wikipedia.org/wiki/Swing_(Java))
-* [JavaFX](https://openjfx.io/)
-
 # Python
 * [PyQt](https://en.wikipedia.org/wiki/PyQt)
 * [Kivy](https://kivy.org/#home)
@@ -64,16 +74,6 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [ruby-gnome](https://github.com/ruby-gnome/ruby-gnome) (Ruby bindings from GNOME/GTK3)
 * [JRubyFX](https://github.com/jruby/jrubyfx) (JRuby wrapper on JavaFX)
 * [traveling-ruby](https://github.com/phusion/traveling-ruby) (Runtime to bundle Ruby applications into executables)
-
-# C++
-* [Qt](https://www.qt.io)
-* [wxWidgets](https://wxwidgets.org)
-* [sciter](https://sciter.com)
-* [Ultralight](https://ultralig.ht)
-
-# Go
-* [lorca](https://github.com/zserge/lorca)
-* [wails](https://github.com/wailsapp/wails)
 
 # Others
 * [Livecode](https://livecode.com) (Lightweight language with [native GUI], integrated IDE, and visual interface builder) 
