@@ -75,6 +75,9 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [JRubyFX](https://github.com/jruby/jrubyfx) (JRuby wrapper on JavaFX)
 * [traveling-ruby](https://github.com/phusion/traveling-ruby) (Runtime to bundle Ruby applications into executables)
 
+# Rust
+* [gtk-rs](https://github.com/gtk-rs)(Rust bindings for GTK)
+
 # Others
 * [Livecode](https://livecode.com) (Lightweight language with [native GUI], integrated IDE, and visual interface builder) 
 * [Qt](https://www.qt.io)
