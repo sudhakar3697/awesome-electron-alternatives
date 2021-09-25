@@ -59,6 +59,13 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [Tauri](https://github.com/tauri-apps/tauri)
 * [Sciter.JS](https://github.com/c-smile/sciter-js-sdk) (Is a 5MB HTML/CSS/JS (ES6) runtime aimed as a direct Electron replacement)
 
+# Perl
+* [Gtk](https://metacpan.org/pod/Gtk3)
+* [Prima](https://metacpan.org/pod/Prima)
+* [Tk](https://metacpan.org/dist/Tk)
+* [Tkx](https://metacpan.org/pod/Tkx)
+* [Wx](https://metacpan.org/pod/Wx)
+
 # Python
 * [PyQt](https://en.wikipedia.org/wiki/PyQt)
 * [Kivy](https://kivy.org/#home)
