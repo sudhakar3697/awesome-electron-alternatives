@@ -26,11 +26,15 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [Uno](https://platform.uno) (Pixel-Perfect Multi-Platform Applications with C# and WinUI)
 * [Chromely](https://github.com/chromelyapps/Chromely) (Build HTML Desktop Apps on .NET/.NET Core/.NET 5 using native GUI, HTML5, JavaScript, CSS)
 
-# C++
+# C/C++
 * [Qt](https://www.qt.io)
 * [wxWidgets](https://wxwidgets.org)
 * [sciter](https://sciter.com)
 * [Ultralight](https://ultralig.ht)
+* [Webview](https://github.com/webview/webview) (Tiny cross-platform webview library which uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and Edge on Windows 10)
+
+# Crystal
+* [Crystal Webview](https://github.com/naqvis/webview) (Crystal language bindings for [webview](https://github.com/webview/webview), a tiny cross-platform webview library which uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and Edge on Windows 10)
 
 # Dart
 * [flutter](https://flutter.dev)
