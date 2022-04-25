@@ -91,6 +91,7 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 
 # Rust
 * [gtk-rs](https://github.com/gtk-rs)(Rust bindings for GTK)
+* [tauri](https://github.com/tauri-apps/tauri)
 
 # Others
 * [Livecode](https://livecode.com) (Lightweight language with [native GUI], integrated IDE, and visual interface builder) 
