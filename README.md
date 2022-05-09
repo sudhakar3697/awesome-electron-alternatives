@@ -65,6 +65,9 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [Sciter.JS](https://github.com/c-smile/sciter-js-sdk) (Is a 5MB HTML/CSS/JS (ES6) runtime aimed as a direct Electron replacement)
 * [Avernakis](https://github.com/qber-soft/Ave-Nodejs) (Nodejs addon for Avernakis SDK, use TypeScript to develop modern desktop app with powerful UI kits.)
 
+# Kotlin
+* [Compose Multiplatform](https://www.jetbrains.com/lp/compose-mpp)
+
 # Perl
 * [Gtk](https://metacpan.org/pod/Gtk3)
 * [Prima](https://metacpan.org/pod/Prima)
