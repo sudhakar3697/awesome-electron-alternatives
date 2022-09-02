@@ -60,7 +60,6 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [React Native Desktop](https://github.com/status-im/react-native-desktop) (Cross-platform React Native Desktop port based on Qt framework)
 * [Vuido](https://github.com/mimecorg/vuido) (creating native desktop applications based on Vue.js, based on https://github.com/parro-it/libui-node)
 * [NodeGui](https://github.com/nodegui/nodegui) (powered by Qt5, [NodeGui-React](https://github.com/nodegui/react-nodegui), [Vue NodeGui](https://github.com/nodegui/vue-nodegui), [Svelte-NodeGui](https://github.com/nodegui/svelte-nodegui))
-* [reactxp](https://github.com/microsoft/reactxp) (library for cross-platform app development using React and React Native)
 * [quasar](https://quasar.dev) (Vue.js based framework, which lets web developer to quickly create responsive websites/apps)
 * [nidium](https://www.nidium.com)
 * [electrino](https://github.com/pojala/electrino)
