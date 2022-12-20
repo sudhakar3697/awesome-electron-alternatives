@@ -69,6 +69,7 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [Tauri](https://github.com/tauri-apps/tauri)
 * [Sciter.JS](https://github.com/c-smile/sciter-js-sdk) (Is a 5MB HTML/CSS/JS (ES6) runtime aimed as a direct Electron replacement)
 * [Avernakis](https://github.com/qber-soft/Ave-Nodejs) (Nodejs addon for Avernakis SDK, use TypeScript to develop modern desktop app with powerful UI kits.)
+* [Gluon](https://github.com/gluon-framework/gluon) (uses normal system installed browsers (not webviews) and NodeJS, also supports Firefox)
 
 # Kotlin
 * [Compose Multiplatform](https://www.jetbrains.com/lp/compose-mpp)
