@@ -7,11 +7,13 @@
   "MD041": false
 } -->
 
+# Awesome [Electron.js](https://electronjs.org/) Alternatives [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-# [electron](https://electronjs.org)-alternatives
-List of alternatives to [electron](https://electronjs.org)
+> A curated list of awesome [electronjs](https://electronjs.org) alternatives.
 
-## What is [electron](https://electronjs.org)?
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by contributing!
+
+## ***What is [electron](https://electronjs.org)?***
 * Lets you write cross-platform desktop applications using JavaScript, HTML and CSS.
 * It is based on [Node.js](https://nodejs.org) & [Chromium](https://www.chromium.org).
 * Electron embeds Chromium and Node.js to enable web developers to create desktop applications.
@@ -24,7 +26,7 @@ List of alternatives to [electron](https://electronjs.org)
 * Electron apps cannot be submitted to the Apple store (https://news.ycombinator.com/item?id=21437255)
 * Minimal resources
 
-## What are the alternatives to the electron?
+## Alternatives
 
 ### C#(.Net)
 * [Orleans](https://github.com/dotnet/Orleans)
