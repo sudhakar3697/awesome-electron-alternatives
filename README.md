@@ -26,8 +26,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * Electron apps cannot be submitted to the Apple store (https://news.ycombinator.com/item?id=21437255)
 * Minimal resources
 
-<br/>
-
 ## What are the alternatives to the [electron](https://electronjs.org)?
 
 ### C#(.Net)
