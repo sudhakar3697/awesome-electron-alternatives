@@ -14,6 +14,7 @@ List of alternatives to [electron](https://electronjs.org)
 ## What is [electron](https://electronjs.org)?
 * Lets you write cross-platform desktop applications using JavaScript, HTML and CSS.
 * It is based on [Node.js](https://nodejs.org) & [Chromium](https://www.chromium.org).
+* Electron embeds Chromium and Node.js to enable web developers to create desktop applications.
 
 ## Why electron-alternatives?
 * Large size
