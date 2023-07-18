@@ -13,10 +13,14 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by contributing!
 
+<br/>
+
 ## ***What is [electron](https://electronjs.org)?***
 * Lets you write cross-platform desktop applications using JavaScript, HTML and CSS.
 * It is based on [Node.js](https://nodejs.org) & [Chromium](https://www.chromium.org).
 * Electron embeds Chromium and Node.js to enable web developers to create desktop applications.
+
+<br/>
 
 ## Why electron-alternatives?
 * Large size
@@ -25,6 +29,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * We would already have a web component in the system that can be used.
 * Electron apps cannot be submitted to the Apple store (https://news.ycombinator.com/item?id=21437255)
 * Minimal resources
+
+<br/>
 
 ## Alternatives
 
