@@ -13,14 +13,10 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by contributing!
 
-<br/>
-
 ## ***What is [electron](https://electronjs.org)?***
 * Lets you write cross-platform desktop applications using JavaScript, HTML and CSS.
 * It is based on [Node.js](https://nodejs.org) & [Chromium](https://www.chromium.org).
 * Electron embeds Chromium and Node.js to enable web developers to create desktop applications.
-
-<br/>
 
 ## Why electron-alternatives?
 * Large size
