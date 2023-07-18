@@ -18,7 +18,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * It is based on [Node.js](https://nodejs.org) & [Chromium](https://www.chromium.org).
 * Electron embeds Chromium and Node.js to enable web developers to create desktop applications.
 
-## Why electron-alternatives?
+## Why [electron](https://electronjs.org)-alternatives?
 * Large size
 * Resource (RAM) hogging
 * Source code protection (https://www.contextis.com/en/blog/basic-electron-framework-exploitation)
@@ -28,7 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 <br/>
 
-## Alternatives
+## What are the alternatives to the [electron](https://electronjs.org)?
 
 ### C#(.Net)
 * [Orleans](https://github.com/dotnet/Orleans)
