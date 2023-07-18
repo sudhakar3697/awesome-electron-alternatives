@@ -7,7 +7,7 @@
   "MD041": false
 } -->
 
-# Awesome [Electron.js](https://electronjs.org/) Alternatives [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# [Electron.js](https://electronjs.org/) Alternatives [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of awesome [electronjs](https://electronjs.org) alternatives.
 
