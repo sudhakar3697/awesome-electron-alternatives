@@ -113,7 +113,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [gtk-rs](https://github.com/gtk-rs)(Rust bindings for GTK)
 * [tauri](https://github.com/tauri-apps/tauri)
 
-## Others
+### Others
 * [Livecode](https://livecode.com) (Lightweight language with [native GUI], integrated IDE, and visual interface builder) 
 * [Qt](https://www.qt.io)
 * [Xojo](https://www.xojo.com)
