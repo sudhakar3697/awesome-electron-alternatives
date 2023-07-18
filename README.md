@@ -11,6 +11,10 @@
 # [electronjs](https://electronjs.org)-alternatives
 List of alternatives to [electron](https://electronjs.org)
 
+## What is electronjs?
+* Lets you write cross-platform desktop applications using JavaScript, HTML and CSS.
+* It is based on [Node.js](https://nodejs.org) & [Chromium](https://www.chromium.org).
+
 ## Why electron-alternatives?
 * Large size
 * Resource (RAM) hogging
