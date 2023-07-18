@@ -1,5 +1,5 @@
 # Code of Conduct
-awesome-electron-alternatives is open for contribution from all people around the world. Whoever your are and whatever your background: nationality, gender, religion, we welcome you. Things to keep in mind:
+electron-alternatives is open for contribution from all people around the world. Whoever your are and whatever your background: nationality, gender, religion, we welcome you. Things to keep in mind:
 - Show empathy
 - Be patient
 - Accept constructive feedback
