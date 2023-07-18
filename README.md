@@ -27,6 +27,7 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [Chromely](https://github.com/chromelyapps/Chromely) (Build HTML Desktop Apps on .NET/.NET Core/.NET 5 using native GUI, HTML5, JavaScript, CSS)
 * [SpiderEye](https://github.com/JBildstein/SpiderEye)
 * [Photino.NET](https://github.com/tryphotino/photino.NET)
+* [foton](https://github.com/integrativesoft/foton) (Prototype for an Electron alternative written in C# by Integrative Software LLC and contributors)
 
 # C/C++
 * [Qt](https://www.qt.io)
@@ -97,9 +98,6 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [ruby-gnome](https://github.com/ruby-gnome/ruby-gnome) (Ruby bindings from GNOME/GTK3)
 * [JRubyFX](https://github.com/jruby/jrubyfx) (JRuby wrapper on JavaFX)
 * [traveling-ruby](https://github.com/phusion/traveling-ruby) (Runtime to bundle Ruby applications into executables)
-
-# Csharp
-* [foton](https://github.com/integrativesoft/foton) (Prototype for an Electron alternative written in C# by Integrative Software LLC and contributors)
 
 # Rust
 * [gtk-rs](https://github.com/gtk-rs)(Rust bindings for GTK)
