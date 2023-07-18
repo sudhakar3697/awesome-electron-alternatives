@@ -11,6 +11,7 @@
 * Source code protection (https://www.contextis.com/en/blog/basic-electron-framework-exploitation)
 * We would already have a web component in the system that can be used.
 * Electron apps cannot be submitted to the Apple store (https://news.ycombinator.com/item?id=21437255)
+* Minimal resources
 
 List of alternatives to [electron](https://electronjs.org)
 
