@@ -85,7 +85,7 @@ Developed by JetBrains and open-source contributors.
 
 ### Perl
 * [Gtk](https://metacpan.org/pod/Gtk3): Gtk3 - Perl interface to the 3.x series of the gtk+ toolkit
-* [Prima](https://metacpan.org/pod/Prima)
+* [Prima](https://metacpan.org/pod/Prima): Prima - a perl graphic toolkit
 * [Tk](https://metacpan.org/dist/Tk)
 * [Tkx](https://metacpan.org/pod/Tkx)
 * [Wx](https://metacpan.org/pod/Wx)
