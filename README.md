@@ -80,7 +80,8 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Gluon](https://github.com/gluon-framework/gluon) Uses normal system installed browsers (not webviews) and NodeJS, also supports Firefox
 
 ### Kotlin
-* [Compose Multiplatform](https://www.jetbrains.com/lp/compose-mpp)
+* [Compose Multiplatform](https://www.jetbrains.com/lp/compose-mpp): Declarative framework for sharing UIs across multiple platforms. Based on Kotlin and Jetpack Compose.
+Developed by JetBrains and open-source contributors.
 
 ### Perl
 * [Gtk](https://metacpan.org/pod/Gtk3): Gtk3 - Perl interface to the 3.x series of the gtk+ toolkit
