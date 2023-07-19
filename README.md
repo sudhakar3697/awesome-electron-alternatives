@@ -86,7 +86,7 @@ Developed by JetBrains and open-source contributors.
 ### Perl
 * [Gtk](https://metacpan.org/pod/Gtk3): Gtk3 - Perl interface to the 3.x series of the gtk+ toolkit
 * [Prima](https://metacpan.org/pod/Prima): Prima - a perl graphic toolkit
-* [Tk](https://metacpan.org/dist/Tk)
+* [Tk](https://metacpan.org/dist/Tk): Perl/Tk is an extension for writing Perl programs with a Graphical User Interface (GUI) on both Unix and Windows 95/NT. Tk was originally developed as an extension to the Tcl language, for use with the X Window System on Unix.
 * [Tkx](https://metacpan.org/pod/Tkx)
 * [Wx](https://metacpan.org/pod/Wx)
 
