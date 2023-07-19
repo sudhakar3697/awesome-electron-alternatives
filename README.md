@@ -50,7 +50,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [flutter](https://flutter.dev): Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
 
 ### Go
-* [lorca](https://github.com/zserge/lorca):
+* [lorca](https://github.com/zserge/lorca): Build cross-platform modern desktop apps in Go + HTML5
 * [wails](https://github.com/wailsapp/wails): Create beautiful applications using Go
 * [muon](https://github.com/ImVexed/muon): Lightweight alternative to Electron written in Golang in about ~300 LoC, using Ultralight instead of Chromium.
 
