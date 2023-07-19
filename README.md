@@ -127,9 +127,7 @@ Developed by JetBrains and open-source contributors.
 * [HaxeUI](http://haxeui.org/) [Haxe](https://haxe.org) based cross platform (desktop, mobile, web) UI framework
 
 # Notes
-See this: [Blazor](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx), [ElectronCGI](https://www.npmjs.com/package/electron-cgi)
-
-Consider **Progressive Web Apps** [PWA](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions. 
+See this: [Blazor](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx), [ElectronCGI](https://www.npmjs.com/package/electron-cgi). Consider **Progressive Web Apps** [PWA](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions. 
 
 > "Progressive Web Apps might not be able to replace every kind of native application, but they can be viable replacements for some apps written with the Electron web wrapper technology". For more info:
 https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now-a-progressive-web-app/
