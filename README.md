@@ -7,11 +7,16 @@
   "MD041": false
 } -->
 
-# [Electron.js](https://electronjs.org/) Alternatives [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# [Electron.js](https://electronjs.org/) Alternatives [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome [electronjs](https://electronjs.org) alternatives.
+[<img src="electron-logo.svg" align="right" width="100">](https://electronjs.org)
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by contributing!
+> A curated list of awesome [Electron](https://electronjs.org) alternatives.
+
+Electron is an open-source framework for creating desktop apps using web technologies. It combines the Chromium rendering engine and the Node.js runtime.
+
+<br>
+
 
 ## ***What is [electron](https://electronjs.org)?***
 * Lets you write cross-platform desktop applications using JavaScript, HTML and CSS.
@@ -139,10 +144,12 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 ## Contributions
 electron-alternatives is open to contributions, but I recommend creating an issue or replying in a comment to let me know what you are working on first that way we don't overwrite each other.
 
-Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on this project. If you have any questions, feel free to open an issue.
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on this project. If you have any questions, feel free to open an issue. And feel free to improve this list by contributing! 
+
 
 ## License
-Electron-alternatives is licensed with MIT by sudhakar3697 and contributors
+* Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
+* Electron-alternatives is licensed with MIT by sudhakar3697 and contributors
 
 ## Contributors
 <a href="https://github.com/sudhakar3697/electron-alternatives/graphs/contributors">
