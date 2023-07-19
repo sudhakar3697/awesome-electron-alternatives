@@ -116,7 +116,7 @@ Developed by JetBrains and open-source contributors.
 * [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder
 * [Qt](https://www.qt.io)
 * [jscherer92/Quark](https://github.com/jscherer92/Quark): Create Applications with browser technologies using the native engine in your OS.
-* [Xojo](https://www.xojo.com)
+* [Xojo](https://www.xojo.com): Build Native, Cross-Platform Apps.Rapid application development for Desktop, Web, Mobile & Raspberry Pi
 * [LambdaNative](http://www.lambdanative.org)
 * [REVERY](https://www.outrunlabs.com/revery)
 * [8th](https://8th-dev.com/index.html)
