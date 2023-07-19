@@ -90,7 +90,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Wx](https://metacpan.org/pod/Wx)
 
 ### Python
-* [fbs](https://build-system.fman.io)
+* [fbs](https://build-system.fman.io): Python and Qt are great for writing lightweight desktop apps. But packaging, installers, code signing and automatic updates are a pain. fbs solves these problems and saves you months of development.
 * [PyQt](https://en.wikipedia.org/wiki/PyQt)
 * [Kivy](https://kivy.org/#home)
 * [PyGUI](http://www.cosc.canterbury.ac.nz/greg.ewing/python_gui)
