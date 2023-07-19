@@ -39,7 +39,7 @@ There are a number of good reasons to avoid Electron or consider something other
 ### C/C++
 * [Qt](https://www.qt.io)
 * [wxWidgets](https://wxwidgets.org): wxWidgets is a C++ library that lets developers create applications for Windows, macOS, Linux and other platforms with a single code base. It has popular language bindings for Python, Ruby, Lua, Perl and several other languages
-* [sciter](https://sciter.com)
+* [sciter](https://sciter.com): Embeddable HTML/CSS/JavaScript engine for modern UI development
 * [Ultralight](https://ultralig.ht)
 * [Webview](https://github.com/webview/webview): Tiny cross-platform webview library which uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and Edge on Windows 10
 
