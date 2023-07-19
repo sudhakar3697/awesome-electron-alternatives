@@ -15,9 +15,7 @@
 
 [Electron](https://electronjs.org/) is an open-source framework for creating desktop apps using web technologies as JavaScript, HTML and CSS. It combines the [Chromium](https://www.chromium.org) rendering engine and the [Node.js](https://nodejs.org) runtime.
 
-<br>
-
-## Why [electron](https://electronjs.org)-alternatives?
+There are a number of good reasons to avoid Electron or consider something other than Electron:
 * Large size
 * Resource (RAM) hogging
 * [Source code protection](https://www.contextis.com/en/blog/basic-electron-framework-exploitation)
