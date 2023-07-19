@@ -113,7 +113,7 @@ There are a number of good reasons to avoid Electron or consider something other
 ### Others
 * [tiny](https://github.com/Rafi993/tiny): This is a tiny alternative to electron
 * [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder
-* [Qt](https://www.qt.io)
+* [Qt](https://www.qt.io): Qt (pronounced "cute") is free and open-source cross-platform software for creating graphical user interfaces as well as cross-platform applications
 * [jscherer92/Quark](https://github.com/jscherer92/Quark): Create Applications with browser technologies using the native engine in your OS.
 * [Xojo](https://www.xojo.com): Build Native, Cross-Platform Apps.Rapid application development for Desktop, Web, Mobile & Raspberry Pi
 * [LambdaNative](http://www.lambdanative.org): LambdaNative is freely available under the BSD license, extensively documented, and hosted on GitHub. LambdaNative builds native applications on a wide range of platforms including iOS, Android, Blackberry, OS X, Linux, Windows, OpenBSD, NetBSD, FreeBSD and OpenWrt, from a single source code.
