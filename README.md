@@ -71,7 +71,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Vuido](https://github.com/mimecorg/vuido): Creating native desktop applications based on Vue.js, based on [libui-node](https://github.com/parro-it/libui-node)
 * [NodeGui](https://github.com/nodegui/nodegui): Powered by Qt5, [NodeGui-React](https://github.com/nodegui/react-nodegui), [Vue NodeGui](https://github.com/nodegui/vue-nodegui), [Svelte-NodeGui](https://github.com/nodegui/svelte-nodegui)
 * [quasar](https://quasar.dev): Vue.js based framework, which lets web developer to quickly create responsive websites/apps
-* [nidium](https://www.nidium.com)
+* [nidium](https://www.nidium.com): A powerful rendering engine for modern mobile applications. Unlike many solution, nidium doesn't rely on webviews or native OS widgets. Instead, it uses its own high-performance rendering engine to draw custom widgets.
 * [electrino](https://github.com/pojala/electrino)
 * [graffiti](https://github.com/cztomsik/graffiti)
 * [Tauri](https://github.com/tauri-apps/tauri)
