@@ -121,7 +121,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [REVERY](https://www.outrunlabs.com/revery)
 * [8th](https://8th-dev.com/index.html)
 * [CEF](https://bitbucket.org/%7Bdc443723-7652-4c63-b340-033e522146db%7D/)
-* [yue/jscherer92/Quark](https://github.com/yue/yue)
+* [yue/yue](https://github.com/yue/yue): A library for creating native cross-platform GUI apps
 * [Godot](https://godotengine.org/): Godot Engine – Multi-platform 2D and 3D game engine
 * [Red](https://www.red-lang.org/p/about.html): Full-stack lightweight language with [native GUI](https://github.com/red/docs/blob/master/en/view.adoc), [layout](https://github.com/red/docs/blob/master/en/vid.adoc) and [drawing](https://github.com/red/docs/blob/master/en/draw.adoc) DSLs
 * [HaxeUI](http://haxeui.org/) [Haxe](https://haxe.org) based cross platform (desktop, mobile, web) UI framework
