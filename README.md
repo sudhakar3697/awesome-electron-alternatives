@@ -96,8 +96,8 @@ Developed by JetBrains and open-source contributors.
 * [Kivy](https://kivy.org/#home): The Open Source Python App Development Framework. Build and distribute beautiful Python cross-platform GUI apps with ease. Kivy runs on Android, iOS, Linux, macOS and Windows.
 * [PyGUI](http://www.cosc.canterbury.ac.nz/greg.ewing/python_gui): An project to develop a cross-platform pythonic GUI API.
 * [wxPython](https://wxpython.org/): Cross-platform GUI toolkit for the Python language. With wxPython software developers can create truly native user interfaces for their Python applications, that run with little or no modifications on Windows, Macs and Linux or other unix-like systems.
-* [Tkinter](https://docs.python.org/2/library/tkinter.html): The Tkinter module (“Tk interface”) is the standard Python interface to the Tk GUI toolkit. Both Tk and Tkinter are available on most Unix platforms, as well as on Windows systems. (Tk itself is not part of Python; it is maintained at ActiveState.)
-* [pywebview](https://github.com/r0x0r/pywebview)
+* [Tkinter](https://docs.python.org/2/library/tkinter.html): The Tkinter module or "Tk interface" is the standard Python interface to the Tk GUI toolkit. Both Tk and Tkinter are available on most Unix platforms, as well as on Windows systems. Tk itself is not part of Python; it is maintained at ActiveState.
+* [pywebview](https://github.com/r0x0r/pywebview): Build GUI for your Python program with JavaScript, HTML, and CSS
 
 ### Ruby
 * [Glimmer](https://github.com/AndyObtiva/glimmer): A Domain-Specific Language & metaframework for building GUI apps using Ruby, with bindings for various GUI libraries and also Web
