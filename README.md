@@ -119,7 +119,7 @@ Developed by JetBrains and open-source contributors.
 * [Xojo](https://www.xojo.com): Build Native, Cross-Platform Apps.Rapid application development for Desktop, Web, Mobile & Raspberry Pi
 * [LambdaNative](http://www.lambdanative.org)
 * [REVERY](https://www.outrunlabs.com/revery)
-* [8th](https://8th-dev.com/index.html)
+* [8th](https://8th-dev.com/index.html): 8th lets you use your preferred platform to write and test your code. With one click, you generate the executables for any platform 8th supports, from any platform it supports!
 * [CEF](https://bitbucket.org/%7Bdc443723-7652-4c63-b340-033e522146db%7D/)
 * [yue/yue](https://github.com/yue/yue): A library for creating native cross-platform GUI apps
 * [Godot](https://godotengine.org/): Godot Engine – Multi-platform 2D and 3D game engine
