@@ -7,16 +7,18 @@
   "MD041": false
 } -->
 
+# [Electron.js](https://electronjs.org/) Alternatives [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-# [electron](https://electronjs.org)-alternatives
-List of alternatives to [electron](https://electronjs.org)
+> A curated list of awesome [electronjs](https://electronjs.org) alternatives.
 
-## What is [electron](https://electronjs.org)?
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by contributing!
+
+## ***What is [electron](https://electronjs.org)?***
 * Lets you write cross-platform desktop applications using JavaScript, HTML and CSS.
 * It is based on [Node.js](https://nodejs.org) & [Chromium](https://www.chromium.org).
 * Electron embeds Chromium and Node.js to enable web developers to create desktop applications.
 
-## Why electron-alternatives?
+## Why [electron](https://electronjs.org)-alternatives?
 * Large size
 * Resource (RAM) hogging
 * Source code protection (https://www.contextis.com/en/blog/basic-electron-framework-exploitation)
@@ -24,7 +26,7 @@ List of alternatives to [electron](https://electronjs.org)
 * Electron apps cannot be submitted to the Apple store (https://news.ycombinator.com/item?id=21437255)
 * Minimal resources
 
-## What are the alternatives to the electron?
+## What are the alternatives to the [electron](https://electronjs.org)?
 
 ### C#(.Net)
 * [Orleans](https://github.com/dotnet/Orleans)
@@ -109,7 +111,7 @@ List of alternatives to [electron](https://electronjs.org)
 * [gtk-rs](https://github.com/gtk-rs)(Rust bindings for GTK)
 * [tauri](https://github.com/tauri-apps/tauri)
 
-## Others
+### Others
 * [Livecode](https://livecode.com) (Lightweight language with [native GUI], integrated IDE, and visual interface builder) 
 * [Qt](https://www.qt.io)
 * [Xojo](https://www.xojo.com)
@@ -128,18 +130,18 @@ Consider **Progressive Web Apps** [(PWA)](https://developers.google.com/web/prog
 > "Progressive Web Apps might not be able to replace every kind of native application, but they can be viable replacements for some apps written with the Electron web wrapper technology". For more info:
 https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now-a-progressive-web-app/
 
+## TODO
+- [ ] https://github.com/jscherer92/Quark
+
+## Watch
+* Blazor (https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx)
+* ElectronCGI (https://www.npmjs.com/package/electron-cgi)
+
 ## Contribute
 If you have any questions, feel free to open an issue.
 
 ## License
 Electron-alternatives is licensed with MIT by sudhakar3697 and contributors
-
-# TO DO
-- [ ] https://github.com/jscherer92/Quark
-
-# Watch
-* Blazor (https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx)
-* ElectronCGI (https://www.npmjs.com/package/electron-cgi)
 
 ## Contributors
 <a href="https://github.com/sudhakar3697/electron-alternatives/graphs/contributors">
