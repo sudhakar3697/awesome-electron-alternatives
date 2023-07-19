@@ -110,6 +110,8 @@ There are a number of good reasons to avoid Electron or consider something other
 * [gtk-rs](https://github.com/gtk-rs): Rust bindings for GTK
 * [tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 
+<br/>
+
 ## Related work
 * [tiny](https://github.com/Rafi993/tiny): This is a tiny alternative to electron
 * [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder
