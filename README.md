@@ -47,7 +47,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Crystal Webview](https://github.com/naqvis/webview): Crystal language bindings for [webview](https://github.com/webview/webview), a tiny cross-platform webview library which uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and Edge on Windows 10)
 
 ### Dart
-* [flutter](https://flutter.dev)
+* [flutter](https://flutter.dev): Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
 
 ### Go
 * [lorca](https://github.com/zserge/lorca)
