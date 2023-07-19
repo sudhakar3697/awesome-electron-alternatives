@@ -108,7 +108,7 @@ There are a number of good reasons to avoid Electron or consider something other
 
 ### Rust
 * [gtk-rs](https://github.com/gtk-rs): Rust bindings for GTK
-* [tauri](https://github.com/tauri-apps/tauri)
+* [tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 
 ### Others
 * [tiny](https://github.com/Rafi993/tiny): This is a tiny alternative to electron
