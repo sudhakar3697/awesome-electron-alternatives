@@ -115,12 +115,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [tiny](https://github.com/Rafi993/tiny): This is a tiny alternative to electron
 * [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder
 * [Qt](https://www.qt.io)
+* [jscherer92/Quark](https://github.com/jscherer92/Quark): Create Applications with browser technologies using the native engine in your OS.
 * [Xojo](https://www.xojo.com)
 * [LambdaNative](http://www.lambdanative.org)
 * [REVERY](https://www.outrunlabs.com/revery)
 * [8th](https://8th-dev.com/index.html)
 * [CEF](https://bitbucket.org/%7Bdc443723-7652-4c63-b340-033e522146db%7D/)
-* [yue](https://github.com/yue/yue)
+* [yue/jscherer92/Quark](https://github.com/yue/yue)
 * [Godot](https://godotengine.org/): Godot Engine – Multi-platform 2D and 3D game engine
 * [Red](https://www.red-lang.org/p/about.html): Full-stack lightweight language with [native GUI](https://github.com/red/docs/blob/master/en/view.adoc), [layout](https://github.com/red/docs/blob/master/en/vid.adoc) and [drawing](https://github.com/red/docs/blob/master/en/draw.adoc) DSLs
 * [HaxeUI](http://haxeui.org/) [Haxe](https://haxe.org) based cross platform (desktop, mobile, web) UI framework
@@ -130,9 +131,6 @@ Consider **Progressive Web Apps** [PWA](https://developers.google.com/web/progre
 
 > "Progressive Web Apps might not be able to replace every kind of native application, but they can be viable replacements for some apps written with the Electron web wrapper technology". For more info:
 https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now-a-progressive-web-app/
-
-## TODO
-- [ ] https://github.com/jscherer92/Quark
 
 ## Watch
 * [Blazor](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx)
