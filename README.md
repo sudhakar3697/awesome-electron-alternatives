@@ -88,7 +88,7 @@ Developed by JetBrains and open-source contributors.
 * [Prima](https://metacpan.org/pod/Prima): Prima - a perl graphic toolkit
 * [Tk](https://metacpan.org/dist/Tk): Perl/Tk is an extension for writing Perl programs with a Graphical User Interface (GUI) on both Unix and Windows 95/NT. Tk was originally developed as an extension to the Tcl language, for use with the X Window System on Unix.
 * [Tkx](https://metacpan.org/pod/Tkx): Tkx - Yet another Tk interface
-* [Wx](https://metacpan.org/pod/Wx)
+* [Wx](https://metacpan.org/pod/Wx): The Wx module is a wrapper for the wxWidgets (formerly known as wxWindows) GUI toolkit.
 
 ### Python
 * [fbs](https://build-system.fman.io): Python and Qt are great for writing lightweight desktop apps. But packaging, installers, code signing and automatic updates are a pain. fbs solves these problems and saves you months of development.
