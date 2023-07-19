@@ -116,7 +116,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Qt](https://www.qt.io)
 * [jscherer92/Quark](https://github.com/jscherer92/Quark): Create Applications with browser technologies using the native engine in your OS.
 * [Xojo](https://www.xojo.com): Build Native, Cross-Platform Apps.Rapid application development for Desktop, Web, Mobile & Raspberry Pi
-* [LambdaNative](http://www.lambdanative.org): LambdaNative builds native applications on a wide range of platforms including iOS, Android, Blackberry, OS X, Linux, Windows, OpenBSD, NetBSD, FreeBSD and OpenWrt, from a single source code.
+* [LambdaNative](http://www.lambdanative.org): LambdaNative is freely available under the BSD license, extensively documented, and hosted on GitHub. LambdaNative builds native applications on a wide range of platforms including iOS, Android, Blackberry, OS X, Linux, Windows, OpenBSD, NetBSD, FreeBSD and OpenWrt, from a single source code.
 * [REVERY](https://www.outrunlabs.com/revery): Fast, native, cross-platform UI.
 * [8th](https://8th-dev.com/index.html): 8th lets you use your preferred platform to write and test your code. With one click, you generate the executables for any platform 8th supports, from any platform it supports!
 * [CEF](https://bitbucket.org/%7Bdc443723-7652-4c63-b340-033e522146db%7D/)
