@@ -59,8 +59,8 @@ There are a number of good reasons to avoid Electron or consider something other
 * [guile-webview](https://github.com/KikyTokamuro/guile-webview)
 
 ### Java
-* [Swing](https://en.wikipedia.org/wiki/Swing_(Java))
-* [JavaFX](https://openjfx.io/)
+* [Swing](https://en.wikipedia.org/wiki/Swing_(Java)): Swing is a GUI widget toolkit for Java.[1] It is part of Oracle's Java Foundation Classes (JFC) – an API for providing a graphical user interface (GUI) for Java programs.
+* [OpenJFX or JavaFX](https://openjfx.io/): JavaFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java. It is a collaborative effort by many individuals and companies with the goal of producing a modern, efficient, and fully featured toolkit for developing rich client applications.
 
 ### JS
 * [NW.js](https://nwjs.io): Similar to electron, [provides Source code protection](https://nwjs.io/blog/js-src-protect-perf/))
