@@ -55,7 +55,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [muon](https://github.com/ImVexed/muon): Lightweight alternative to Electron written in Golang in about ~300 LoC, using Ultralight instead of Chromium.
 
 ### Guile
-* [guile-pstk](https://github.com/KikyTokamuro/guile-pstk)
+* [guile-pstk](https://github.com/KikyTokamuro/guile-pstk): [PS/TK version](http://mirror.informatimago.com/scheme/www.t3x.org/pstk/index.html) fixed to work fine on modern GNU Guile
 * [guile-webview](https://github.com/KikyTokamuro/guile-webview): Wrapper for using libwebview from GNU Guile
 
 ### Java
