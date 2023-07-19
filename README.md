@@ -29,11 +29,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 ## What are the alternatives to the [electron](https://electronjs.org)?
 
 ### C#(.Net)
-* [Orleans](https://github.com/dotnet/Orleans)
-* [Avalonia](https://avaloniaui.net)
+* [Orleans](https://github.com/dotnet/Orleans): Cloud Native application framework for .NET
+* [Avalonia](https://avaloniaui.net): Avalonia UI creates pixel-perfect, native, create Multi-Platform Apps with .NET
 * [Uno](https://platform.uno): Pixel-Perfect Multi-Platform Applications with C# and WinUI
 * [Chromely](https://github.com/chromelyapps/Chromely): Build HTML Desktop Apps on .NET/.NET Core/.NET 5 using native GUI, HTML5, JavaScript, CSS
-* [SpiderEye](https://github.com/JBildstein/SpiderEye)
+* [SpiderEye](https://github.com/JBildstein/SpiderEye): Cross platform .Net Core applications with a webview UI
 * [Photino.NET](https://github.com/tryphotino/photino.NET)
 * [foton](https://github.com/integrativesoft/foton): Prototype for an Electron alternative written in C# by Integrative Software LLC and contributors
 
