@@ -92,7 +92,7 @@ There are a number of good reasons to avoid Electron or consider something other
 ### Python
 * [fbs](https://build-system.fman.io): Python and Qt are great for writing lightweight desktop apps. But packaging, installers, code signing and automatic updates are a pain. fbs solves these problems and saves you months of development.
 * [PyQt](https://en.wikipedia.org/wiki/PyQt): PyQt is a Python binding of the cross-platform GUI toolkit Qt, implemented as a Python plug-in. PyQt is free software developed by the British firm Riverbank Computing. 
-* [Kivy](https://kivy.org/#home)
+* [Kivy](https://kivy.org/#home): The Open Source Python App Development Framework. Build and distribute beautiful Python cross-platform GUI apps with ease. Kivy runs on Android, iOS, Linux, macOS and Windows.
 * [PyGUI](http://www.cosc.canterbury.ac.nz/greg.ewing/python_gui)
 * [wxPython](https://wxpython.org/)
 * [Tkinter](https://docs.python.org/2/library/tkinter.html)
