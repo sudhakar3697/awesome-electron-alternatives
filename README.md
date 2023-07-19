@@ -73,7 +73,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [quasar](https://quasar.dev): Vue.js based framework, which lets web developer to quickly create responsive websites/apps
 * [nidium](https://www.nidium.com): A powerful rendering engine for modern mobile applications. Unlike many solution, nidium doesn't rely on webviews or native OS widgets. Instead, it uses its own high-performance rendering engine to draw custom widgets.
 * [electrino](https://github.com/pojala/electrino): Desktop runtime for apps built on web technologies, using the system's own web browser engine
-* [graffiti](https://github.com/cztomsik/graffiti)
+* [graffiti](https://github.com/cztomsik/graffiti): HTML/CSS engine for node.js and deno.
 * [Tauri](https://github.com/tauri-apps/tauri)
 * [Sciter.JS](https://github.com/c-smile/sciter-js-sdk): Is a 5MB HTML/CSS/JS (ES6) runtime aimed as a direct Electron replacement
 * [Avernakis](https://github.com/qber-soft/Ave-Nodejs) Nodejs addon for Avernakis SDK, use TypeScript to develop modern desktop app with powerful UI kits.
