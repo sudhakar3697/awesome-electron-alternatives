@@ -34,7 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [Uno](https://platform.uno): Pixel-Perfect Multi-Platform Applications with C# and WinUI
 * [Chromely](https://github.com/chromelyapps/Chromely): Build HTML Desktop Apps on .NET/.NET Core/.NET 5 using native GUI, HTML5, JavaScript, CSS
 * [SpiderEye](https://github.com/JBildstein/SpiderEye): Cross platform .Net Core applications with a webview UI
-* [Photino.NET](https://github.com/tryphotino/photino.NET)
+* [Photino.NET](https://github.com/tryphotino/photino.NET): Photino uses the OSs built-in WebKit-based browser control for Windows, macOS and Linux. Photino is the lightest cross-platform framework. Compared to Electron, a Photino app is up to 110 times smaller! And it uses far less system memory too!
 * [foton](https://github.com/integrativesoft/foton): Prototype for an Electron alternative written in C# by Integrative Software LLC and contributors
 
 ### C/C++
