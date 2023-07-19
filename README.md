@@ -21,9 +21,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 ## Why [electron](https://electronjs.org)-alternatives?
 * Large size
 * Resource (RAM) hogging
-* Source code protection (https://www.contextis.com/en/blog/basic-electron-framework-exploitation)
+* [Source code protection](https://www.contextis.com/en/blog/basic-electron-framework-exploitation)
 * We would already have a web component in the system that can be used.
-* Electron apps cannot be submitted to the Apple store (https://news.ycombinator.com/item?id=21437255)
+* Electron apps cannot be submitted to the [Apple store](https://news.ycombinator.com/item?id=21437255)
 * Minimal resources
 
 ## What are the alternatives to the [electron](https://electronjs.org)?
