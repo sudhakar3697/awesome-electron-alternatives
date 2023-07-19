@@ -25,7 +25,7 @@ There are a number of good reasons to avoid Electron or consider something other
 
 <br>
 
-## What are the alternatives to the [electron](https://electronjs.org)?
+## Alternatives to the [electron](https://electronjs.org)
 
 ### C#(.Net)
 * [Orleans](https://github.com/dotnet/Orleans): Cloud Native application framework for .NET
@@ -125,15 +125,13 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Red](https://www.red-lang.org/p/about.html): Full-stack lightweight language with [native GUI](https://github.com/red/docs/blob/master/en/view.adoc), [layout](https://github.com/red/docs/blob/master/en/vid.adoc) and [drawing](https://github.com/red/docs/blob/master/en/draw.adoc) DSLs
 * [HaxeUI](http://haxeui.org/) [Haxe](https://haxe.org) based cross platform (desktop, mobile, web) UI framework
 
-## Notes
+# Notes
+See this: [Blazor](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx), [ElectronCGI](https://www.npmjs.com/package/electron-cgi)
+
 Consider **Progressive Web Apps** [PWA](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions. 
 
 > "Progressive Web Apps might not be able to replace every kind of native application, but they can be viable replacements for some apps written with the Electron web wrapper technology". For more info:
 https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now-a-progressive-web-app/
-
-## Watch
-* [Blazor](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx)
-* [ElectronCGI](https://www.npmjs.com/package/electron-cgi)
 
 ## Contributions
 electron-alternatives is open to contributions, but I recommend creating an issue or replying in a comment to let me know what you are working on first that way we don't overwrite each other.
