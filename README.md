@@ -83,7 +83,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Compose Multiplatform](https://www.jetbrains.com/lp/compose-mpp)
 
 ### Perl
-* [Gtk](https://metacpan.org/pod/Gtk3)
+* [Gtk](https://metacpan.org/pod/Gtk3): Gtk3 - Perl interface to the 3.x series of the gtk+ toolkit
 * [Prima](https://metacpan.org/pod/Prima)
 * [Tk](https://metacpan.org/dist/Tk)
 * [Tkx](https://metacpan.org/pod/Tkx)
