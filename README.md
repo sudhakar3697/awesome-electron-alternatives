@@ -37,7 +37,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [foton](https://github.com/integrativesoft/foton): Prototype for an Electron alternative written in C# by Integrative Software LLC and contributors
 
 ### C/C++
-* [Qt](https://www.qt.io)
+* [Qt](https://www.qt.io): Qt (pronounced "cute") is free and open-source cross-platform software for creating graphical user interfaces as well as cross-platform applications
 * [wxWidgets](https://wxwidgets.org): wxWidgets is a C++ library that lets developers create applications for Windows, macOS, Linux and other platforms with a single code base. It has popular language bindings for Python, Ruby, Lua, Perl and several other languages
 * [sciter](https://sciter.com): Embeddable HTML/CSS/JavaScript engine for modern UI development
 * [Ultralight](https://ultralig.ht): Ultra-fast, ultra-light, standards-compliant HTML renderer for applications and games. Based on WebKit— supports most modern HTML5, CSS, and JavaScript features while still remaining light and configurable.
@@ -110,7 +110,9 @@ There are a number of good reasons to avoid Electron or consider something other
 * [gtk-rs](https://github.com/gtk-rs): Rust bindings for GTK
 * [tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 
-### Others
+<br/>
+
+## Related work
 * [tiny](https://github.com/Rafi993/tiny): This is a tiny alternative to electron
 * [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder
 * [Qt](https://www.qt.io): Qt (pronounced "cute") is free and open-source cross-platform software for creating graphical user interfaces as well as cross-platform applications
@@ -137,7 +139,6 @@ See this: [Blazor](https://visualstudiomagazine.com/articles/2019/09/26/blazor-f
 electron-alternatives is open to contributions, but I recommend creating an issue or replying in a comment to let me know what you are working on first that way we don't overwrite each other.
 
 Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on this project. If you have any questions, feel free to open an issue. And feel free to improve this list by contributing! 
-
 
 ## License
 * Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
