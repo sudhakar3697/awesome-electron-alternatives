@@ -56,7 +56,7 @@ There are a number of good reasons to avoid Electron or consider something other
 
 ### Guile
 * [guile-pstk](https://github.com/KikyTokamuro/guile-pstk)
-* [guile-webview](https://github.com/KikyTokamuro/guile-webview)
+* [guile-webview](https://github.com/KikyTokamuro/guile-webview): Wrapper for using libwebview from GNU Guile
 
 ### Java
 * [Swing](https://en.wikipedia.org/wiki/Swing_(Java)): Swing is a GUI widget toolkit for Java.[1] It is part of Oracle's Java Foundation Classes (JFC) – an API for providing a graphical user interface (GUI) for Java programs.
