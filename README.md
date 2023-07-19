@@ -13,15 +13,9 @@
 
 > A curated list of awesome [Electron](https://electronjs.org) alternatives.
 
-Electron is an open-source framework for creating desktop apps using web technologies. It combines the Chromium rendering engine and the Node.js runtime.
+[Electron](https://electronjs.org/) is an open-source framework for creating desktop apps using web technologies as JavaScript, HTML and CSS. It combines the [Chromium](https://www.chromium.org) rendering engine and the [Node.js](https://nodejs.org) runtime.
 
 <br>
-
-
-## ***What is [electron](https://electronjs.org)?***
-* Lets you write cross-platform desktop applications using JavaScript, HTML and CSS.
-* It is based on [Node.js](https://nodejs.org) & [Chromium](https://www.chromium.org).
-* Electron embeds Chromium and Node.js to enable web developers to create desktop applications.
 
 ## Why [electron](https://electronjs.org)-alternatives?
 * Large size
