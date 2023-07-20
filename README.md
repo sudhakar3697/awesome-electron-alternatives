@@ -23,9 +23,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * Electron apps cannot be submitted to the [Apple store](https://news.ycombinator.com/item?id=21437255)
 * [Minimal resources](https://github.com/Elanis/web-to-desktop-framework-comparison)
 
-<br>
-
-## Alternatives to the [electron](https://electronjs.org)
+## Alternatives to the [Electron.js](https://electronjs.org)
 
 ### C#(.Net)
 * [Orleans](https://github.com/dotnet/Orleans): Cloud Native application framework for .NET
@@ -110,8 +108,6 @@ There are a number of good reasons to avoid Electron or consider something other
 * [gtk-rs](https://github.com/gtk-rs): Rust bindings for GTK
 * [tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 
-<br/>
-
 ## Related work
 * [tiny](https://github.com/Rafi993/tiny): This is a tiny alternative to electron
 * [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder
@@ -127,7 +123,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Red](https://www.red-lang.org/p/about.html): Full-stack lightweight language with [native GUI](https://github.com/red/docs/blob/master/en/view.adoc), [layout](https://github.com/red/docs/blob/master/en/vid.adoc) and [drawing](https://github.com/red/docs/blob/master/en/draw.adoc) DSLs
 * [HaxeUI](http://haxeui.org/) [Haxe](https://haxe.org) based cross platform (desktop, mobile, web) UI framework
 
-# Notes
+## Notes
 Consider **Progressive Web Apps** [PWA](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions. 
 
 > "Progressive Web Apps might not be able to replace every kind of native application, but they can be viable replacements for some apps written with the Electron web wrapper technology". For more info:
