@@ -109,6 +109,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 
 ## Related work
+* [HTA or HTML Application](https://en.wikipedia.org/wiki/HTML_Application): HTA is an webbrowser control in a window
 * [tiny](https://github.com/Rafi993/tiny): This is a tiny alternative to electron
 * [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder
 * [Qt](https://www.qt.io): Qt (pronounced "cute") is free and open-source cross-platform software for creating graphical user interfaces as well as cross-platform applications
