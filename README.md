@@ -139,6 +139,7 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on this project. If
 ## License
 * Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * Electron-alternatives is licensed with MIT by sudhakar3697 and contributors
+* The logo of this project is authored, created or licensed by the Electron-js community (brand, open source project), but has no direct relationship with this repository.
 
 ## Contributors
 <a href="https://github.com/sudhakar3697/electron-alternatives/graphs/contributors">
