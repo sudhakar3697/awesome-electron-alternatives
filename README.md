@@ -9,7 +9,7 @@
 
 # [Electron.js](https://electronjs.org/) Alternatives [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="electron-logo.svg" align="right" width="100">](https://electronjs.org)
+[<img src="img/electron-logo.svg" align="right" width="100">](https://electronjs.org)
 
 > A curated list of awesome [Electron](https://electronjs.org) alternatives.
 
