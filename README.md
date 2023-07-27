@@ -60,7 +60,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Swing](https://en.wikipedia.org/wiki/Swing_(Java)): Swing is a GUI widget toolkit for Java.[1] It is part of Oracle's Java Foundation Classes (JFC) – an API for providing a graphical user interface (GUI) for Java programs.
 * [OpenJFX or JavaFX](https://openjfx.io/): JavaFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java. It is a collaborative effort by many individuals and companies with the goal of producing a modern, efficient, and fully featured toolkit for developing rich client applications.
 
-### JS
+### JS/Nodejs
 * [WelsonJS](https://github.com/gnh1201/welsonjs): Build Windows desktop apps with JavaScript, HTML, and CSS based on WSH/HTA or GTK.
 * [NW.js](https://nwjs.io): Similar to electron, [provides Source code protection](https://nwjs.io/blog/js-src-protect-perf/))
 * [DeskGap](https://deskgap.com): bundles a Node.js runtime and leaves the HTML rendering to the operating system‘s webview)
@@ -77,6 +77,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Sciter.JS](https://github.com/c-smile/sciter-js-sdk): Is a 5MB HTML/CSS/JS (ES6) runtime aimed as a direct Electron replacement
 * [Avernakis](https://github.com/qber-soft/Ave-Nodejs) Nodejs addon for Avernakis SDK, use TypeScript to develop modern desktop app with powerful UI kits.
 * [Gluon](https://github.com/gluon-framework/gluon) Uses normal system installed browsers (not webviews) and NodeJS, also supports Firefox
+* [modern-hta](https://github.com/joncasey/modern-hta): Run modern code in an HTML Application
 
 ### Kotlin
 * [Compose Multiplatform](https://www.jetbrains.com/lp/compose-mpp): Declarative framework for sharing UIs across multiple platforms. Based on Kotlin and Jetpack Compose. Developed by JetBrains and open-source contributors.
