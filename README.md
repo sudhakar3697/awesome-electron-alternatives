@@ -124,6 +124,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Godot](https://godotengine.org/): Godot Engine – Multi-platform 2D and 3D game engine
 * [Red](https://www.red-lang.org/p/about.html): Full-stack lightweight language with [native GUI](https://github.com/red/docs/blob/master/en/view.adoc), [layout](https://github.com/red/docs/blob/master/en/vid.adoc) and [drawing](https://github.com/red/docs/blob/master/en/draw.adoc) DSLs
 * [HaxeUI](http://haxeui.org/) [Haxe](https://haxe.org) based cross platform (desktop, mobile, web) UI framework
+* [HTA/HTML Application](https://en.wikipedia.org/wiki/HTML_Application): HTML Application or "HTA" is a Microsoft Windows program whose source code consists of HTML, Dynamic HTML, and one or more scripting languages supported by Internet Explorer, such as VBScript or JScript. The HTML is used to generate the user interface, and the scripting language is used for the program logic. An HTA executes without the constraints of the internet browser security model; in fact, it executes as a "fully trusted" application.
 
 ## Notes
 Consider **Progressive Web Apps** [PWA](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions. 
