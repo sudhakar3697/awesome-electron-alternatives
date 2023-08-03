@@ -108,6 +108,9 @@ There are a number of good reasons to avoid Electron or consider something other
 ### Rust
 * [gtk-rs](https://github.com/gtk-rs): Rust bindings for GTK
 * [tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
+  
+### Delphi
+* [FMX (FireMonkey)](https://www.embarcadero.com/products/rad-studio/fm-application-platform): The FireMonkey® framework is the app development and runtime platform behind RAD Studio, Delphi and C++Builder. FireMonkey is designed for teams building multi-device, true native apps for Windows, OS X, Android and iOS, and getting them to app stores and enterprises fast.
 
 ## 📖 Related work
 * [tiny](https://github.com/Rafi993/tiny): This is a tiny alternative to electron
