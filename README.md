@@ -7,9 +7,8 @@
   "MD041": false
 } -->
 
-# [Electron.js](https://electronjs.org/) Alternatives [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-[<img src="img/electron-logo.svg" align="right" width="100">](https://electronjs.org)
+# 👓 Awesome <img src="img/electron-logo.svg" width="40"/> [Electron.js Alternatives](https://electronjs.org/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/sudhakar3697/awesome-electron-alternatives/graphs/commit-activity) ![Maintainer](https://img.shields.io/badge/maintainer-sudhakar3697-blue) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/sudhakar3697/awesome-electron-alternatives) [<img src="img/electron-logo.svg" align="right" width="100">](https://electronjs.org) [![GitHub license](https://img.shields.io/github/license/sudhakar3697/awesome-electron-alternatives.svg)](https://github.com/sudhakar3697/awesome-electron-alternatives/blob/master/LICENSE) [![GitHub commits](https://badgen.net/github/commits/sudhakar3697/awesome-electron-alternatives)](https://GitHub.com/sudhakar3697/awesome-electron-alternatives/commit/) [![GitHub forks](https://badgen.net/github/forks/sudhakar3697/awesome-electron-alternatives/)](https://GitHub.com/sudhakar3697/awesome-electron-alternatives/network/) [![GitHub stars](https://badgen.net/github/stars/sudhakar3697/awesome-electron-alternatives)](https://GitHub.com/sudhakar3697/awesome-electron-alternatives/stargazers/) [![GitHub watchers](https://badgen.net/github/watchers/sudhakar3697/awesome-electron-alternatives/)](https://GitHub.com/sudhakar3697/awesome-electron-alternatives/watchers/) [![GitHub contributors](https://img.shields.io/github/contributors/sudhakar3697/awesome-electron-alternatives)](https://GitHub.com/sudhakar3697/awesome-electron-alternatives/graphs/contributors/) [![GitHub issues](https://badgen.net/github/issues/sudhakar3697/awesome-electron-alternatives/)](https://GitHub.com/sudhakar3697/awesome-electron-alternatives/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/sudhakar3697/awesome-electron-alternatives)](https://GitHub.com/sudhakar3697/awesome-electron-alternatives/issues?q=is%3Aissue+is%3Aclosed) [![GitHub open-pull-requests](https://badgen.net/github/open-prs/sudhakar3697/awesome-electron-alternatives)](https://github.com/sudhakar3697/awesome-electron-alternatives/pulls?q=is%3Aopen) [![GitHub pull-requests closed](https://badgen.net/github/closed-prs/sudhakar3697/awesome-electron-alternatives)](https://github.com/sudhakar3697/awesome-electron-alternatives/pulls?q=is%3Aclosed) [![GitHub branches](https://badgen.net/github/branches/sudhakar3697/awesome-electron-alternatives)](https://github.com/sudhakar3697/awesome-electron-alternatives/) ![made-with-markdown](https://img.shields.io/badge/Made%20with-Markdown/Git/GitHubIssues-1f425f.svg) [![GitHub latest commit](https://badgen.net/github/last-commit/sudhakar3697/awesome-electron-alternatives)](https://GitHub.com/sudhakar3697/awesome-electron-alternatives/commit/)
 
 > A curated list of awesome [Electron](https://electronjs.org) alternatives.
 
@@ -23,7 +22,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * Electron apps cannot be submitted to the [Apple store](https://news.ycombinator.com/item?id=21437255)
 * [Minimal resources](https://github.com/Elanis/web-to-desktop-framework-comparison)
 
-## Alternatives to the [Electron.js](https://electronjs.org)
+## 👓 Alternatives to the [Electron.js](https://electronjs.org) ⚛ 
 
 ### C#(.Net)
 * [Orleans](https://github.com/dotnet/Orleans): Cloud Native application framework for .NET
@@ -110,7 +109,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [gtk-rs](https://github.com/gtk-rs): Rust bindings for GTK
 * [tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 
-## Related work
+## 📖 Related work
 * [tiny](https://github.com/Rafi993/tiny): This is a tiny alternative to electron
 * [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder
 * [Qt](https://www.qt.io): Qt (pronounced "cute") is free and open-source cross-platform software for creating graphical user interfaces as well as cross-platform applications
@@ -126,7 +125,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [HaxeUI](http://haxeui.org/) [Haxe](https://haxe.org) based cross platform (desktop, mobile, web) UI framework
 * [HTA/HTML Application](https://en.wikipedia.org/wiki/HTML_Application): HTML Application or "HTA" is a Microsoft Windows program whose source code consists of HTML, Dynamic HTML, and one or more scripting languages supported by Internet Explorer, such as VBScript or JScript. The HTML is used to generate the user interface, and the scripting language is used for the program logic. An HTA executes without the constraints of the internet browser security model; in fact, it executes as a "fully trusted" application.
 
-## Notes
+## 📚 Notes
 Consider **Progressive Web Apps** [PWA](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions. 
 
 > "Progressive Web Apps might not be able to replace every kind of native application, but they can be viable replacements for some apps written with the Electron web wrapper technology". For more info:
@@ -134,17 +133,17 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 
 See this: [Blazor](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx), [ElectronCGI](https://www.npmjs.com/package/electron-cgi). 
 
-## Contributions
+##  ❤ Contributions
 awesome-electron-alternatives is open to contributions, but I recommend creating an issue or replying in a comment to let me know what you are working on first that way we don't overwrite each other.
 
 Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on this project. If you have any questions, feel free to open an issue. And feel free to improve this list by contributing! 
 
-## License
+## 📑 License
 * Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * Electron-alternatives is licensed with MIT by sudhakar3697 and contributors
 * The logo of this project is authored, created or licensed by the Electron-js community (brand, open source project), but has no direct relationship with this repository.
 
-## Contributors
+## 🙌 Contributors
 <a href="https://github.com/sudhakar3697/electron-alternatives/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sudhakar3697/electron-alternatives"/>
 </a>
