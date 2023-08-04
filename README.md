@@ -121,7 +121,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [LambdaNative](http://www.lambdanative.org): LambdaNative is freely available under the BSD license, extensively documented, and hosted on GitHub. LambdaNative builds native applications on a wide range of platforms including iOS, Android, Blackberry, OS X, Linux, Windows, OpenBSD, NetBSD, FreeBSD and OpenWrt, from a single source code.
 * [REVERY](https://www.outrunlabs.com/revery): Fast, native, cross-platform UI.
 * [8th](https://8th-dev.com/index.html): 8th lets you use your preferred platform to write and test your code. With one click, you generate the executables for any platform 8th supports, from any platform it supports!
-* [CEF](https://bitbucket.org/%7Bdc443723-7652-4c63-b340-033e522146db%7D/)
+* [CEF](https://bitbucket.org/%7Bdc443723-7652-4c63-b340-033e522146db%7D/): Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
 * [yue/yue](https://github.com/yue/yue): A library for creating native cross-platform GUI apps
 * [Godot](https://godotengine.org/): Godot Engine – Multi-platform 2D and 3D game engine
 * [Red](https://www.red-lang.org/p/about.html): Full-stack lightweight language with [native GUI](https://github.com/red/docs/blob/master/en/view.adoc), [layout](https://github.com/red/docs/blob/master/en/vid.adoc) and [drawing](https://github.com/red/docs/blob/master/en/draw.adoc) DSLs
