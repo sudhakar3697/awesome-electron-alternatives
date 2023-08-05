@@ -107,6 +107,7 @@ There are a number of good reasons to avoid Electron or consider something other
 
 ### Rust
 * [gtk-rs](https://github.com/gtk-rs): Rust bindings for GTK
+* [revery-ui](https://github.com/revery-ui): Fast, native, cross-platform UI
 * [tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
   
 ### Delphi
