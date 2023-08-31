@@ -22,7 +22,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * Electron apps cannot be submitted to the [Apple store](https://news.ycombinator.com/item?id=21437255)
 * [Minimal resources](https://github.com/Elanis/web-to-desktop-framework-comparison)
 
-## 👓 Alternatives to the [Electron.js](https://electronjs.org) ⚛ 
+## 👓 Alternatives to the [Electron.js](https://electronjs.org) ⚛
 
 ### C#(.Net)
 * [Orleans](https://github.com/dotnet/Orleans): Cloud Native application framework for .NET
@@ -88,9 +88,12 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Tkx](https://metacpan.org/pod/Tkx): Tkx - Yet another Tk interface
 * [Wx](https://metacpan.org/pod/Wx): The Wx module is a wrapper for the wxWidgets (formerly known as wxWindows) GUI toolkit.
 
+### PHP
+* [NativePHP](https://nativephp.com/): NativePHP is a new framework for rapidly building rich, native desktop applications using PHP, HTML, CSS, Javascript.
+
 ### Python
 * [fbs](https://build-system.fman.io): Python and Qt are great for writing lightweight desktop apps. But packaging, installers, code signing and automatic updates are a pain. fbs solves these problems and saves you months of development.
-* [PyQt](https://en.wikipedia.org/wiki/PyQt): PyQt is a Python binding of the cross-platform GUI toolkit Qt, implemented as a Python plug-in. PyQt is free software developed by the British firm Riverbank Computing. 
+* [PyQt](https://en.wikipedia.org/wiki/PyQt): PyQt is a Python binding of the cross-platform GUI toolkit Qt, implemented as a Python plug-in. PyQt is free software developed by the British firm Riverbank Computing.
 * [Kivy](https://kivy.org/#home): The Open Source Python App Development Framework. Build and distribute beautiful Python cross-platform GUI apps with ease. Kivy runs on Android, iOS, Linux, macOS and Windows.
 * [PyGUI](http://www.cosc.canterbury.ac.nz/greg.ewing/python_gui): An project to develop a cross-platform pythonic GUI API.
 * [wxPython](https://wxpython.org/): Cross-platform GUI toolkit for the Python language. With wxPython software developers can create truly native user interfaces for their Python applications, that run with little or no modifications on Windows, Macs and Linux or other unix-like systems.
@@ -109,7 +112,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [gtk-rs](https://github.com/gtk-rs): Rust bindings for GTK
 * [revery-ui](https://github.com/revery-ui): Fast, native, cross-platform UI
 * [tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
-  
+
 ### Delphi
 * [FMX (FireMonkey)](https://www.embarcadero.com/products/rad-studio/fm-application-platform): The FireMonkey® framework is the app development and runtime platform behind RAD Studio, Delphi and C++Builder. FireMonkey is designed for teams building multi-device, true native apps for Windows, OS X, Android and iOS, and getting them to app stores and enterprises fast.
 
@@ -130,17 +133,17 @@ There are a number of good reasons to avoid Electron or consider something other
 * [HTA/HTML Application](https://en.wikipedia.org/wiki/HTML_Application): HTML Application or "HTA" is a Microsoft Windows program whose source code consists of HTML, Dynamic HTML, and one or more scripting languages supported by Internet Explorer, such as VBScript or JScript. The HTML is used to generate the user interface, and the scripting language is used for the program logic. An HTA executes without the constraints of the internet browser security model; in fact, it executes as a "fully trusted" application.
 
 ## 📚 Notes
-Consider **Progressive Web Apps** [PWA](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions. 
+Consider **Progressive Web Apps** [PWA](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions.
 
 > "Progressive Web Apps might not be able to replace every kind of native application, but they can be viable replacements for some apps written with the Electron web wrapper technology". For more info:
 https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now-a-progressive-web-app/
 
-See this: [Blazor](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx), [ElectronCGI](https://www.npmjs.com/package/electron-cgi). 
+See this: [Blazor](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx), [ElectronCGI](https://www.npmjs.com/package/electron-cgi).
 
 ##  ❤ Contributions
 awesome-electron-alternatives is open to contributions, but I recommend creating an issue or replying in a comment to let me know what you are working on first that way we don't overwrite each other.
 
-Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on this project. If you have any questions, feel free to open an issue. And feel free to improve this list by contributing! 
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on this project. If you have any questions, feel free to open an issue. And feel free to improve this list by contributing!
 
 ## 📑 License
 * Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
