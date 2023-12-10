@@ -96,6 +96,8 @@ There are a number of good reasons to avoid Electron or consider something other
 * [PyQt](https://en.wikipedia.org/wiki/PyQt): PyQt is a Python binding of the cross-platform GUI toolkit Qt, implemented as a Python plug-in. PyQt is free software developed by the British firm Riverbank Computing.
 * [Kivy](https://kivy.org/#home): The Open Source Python App Development Framework. Build and distribute beautiful Python cross-platform GUI apps with ease. Kivy runs on Android, iOS, Linux, macOS and Windows.
 * [PyGUI](http://www.cosc.canterbury.ac.nz/greg.ewing/python_gui): An project to develop a cross-platform pythonic GUI API.
+* [Flet](https://flet.dev/): The fastest way to build Flutter apps in Python.
+* [Eel](https://github.com/python-eel/Eel) A little Python library for making simple Electron-like HTML/JS GUI apps.
 * [wxPython](https://wxpython.org/): Cross-platform GUI toolkit for the Python language. With wxPython software developers can create truly native user interfaces for their Python applications, that run with little or no modifications on Windows, Macs and Linux or other unix-like systems.
 * [Tkinter](https://docs.python.org/2/library/tkinter.html): The Tkinter module or "Tk interface" is the standard Python interface to the Tk GUI toolkit. Both Tk and Tkinter are available on most Unix platforms, as well as on Windows systems. Tk itself is not part of Python; it is maintained at ActiveState.
 * [pywebview](https://github.com/r0x0r/pywebview): Build GUI for your Python program with JavaScript, HTML, and CSS
