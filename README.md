@@ -90,6 +90,7 @@ There are a number of good reasons to avoid Electron or consider something other
 
 ### PHP
 * [NativePHP](https://nativephp.com/): NativePHP is a new framework for rapidly building rich, native desktop applications using PHP, HTML, CSS, Javascript.
+* [PHP TkUI](https://github.com/skoro/php-tkui): Build native desktop applications using PHP and Tcl/Tk.
 
 ### Python
 * [fbs](https://build-system.fman.io): Python and Qt are great for writing lightweight desktop apps. But packaging, installers, code signing and automatic updates are a pain. fbs solves these problems and saves you months of development.
