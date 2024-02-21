@@ -101,7 +101,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Flet](https://flet.dev/): The fastest way to build Flutter apps in Python.
 * [Eel](https://github.com/python-eel/Eel) A little Python library for making simple Electron-like HTML/JS GUI apps.
 * [wxPython](https://wxpython.org/): Cross-platform GUI toolkit for the Python language. With wxPython software developers can create truly native user interfaces for their Python applications, that run with little or no modifications on Windows, Macs and Linux or other unix-like systems.
-* [Tkinter](https://docs.python.org/2/library/tkinter.html): The Tkinter module or "Tk interface" is the standard Python interface to the Tk GUI toolkit. Both Tk and Tkinter are available on most Unix platforms, as well as on Windows systems. Tk itself is not part of Python; it is maintained at ActiveState.
+* [Tkinter](https://docs.python.org/3/library/tkinter.html): The Tkinter module or "Tk interface" is the standard Python interface to the Tk GUI toolkit. Both Tk and Tkinter are available on most Unix platforms, as well as on Windows systems. Tk itself is not part of Python; it is maintained at ActiveState.
 * [pywebview](https://github.com/r0x0r/pywebview): Build GUI for your Python program with JavaScript, HTML, and CSS
 
 ### Ruby
