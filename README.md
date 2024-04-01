@@ -40,6 +40,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Ultralight](https://ultralig.ht): Ultra-fast, ultra-light, standards-compliant HTML renderer for applications and games. Based on WebKit— supports most modern HTML5, CSS, and JavaScript features while still remaining light and configurable.
 * [Webview](https://github.com/webview/webview): Tiny cross-platform webview library which uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and Edge on Windows 10.
 * [Molybden](https://teamdev.com/molybden): An SDK for building modern and secure cross-desktop apps with HTML/CSS/JavaScript GUI.
+* [Saucer](https://github.com/saucer/saucer): 🛸 Next-gen desktop apps with web-frontend in C++
 
 ### Crystal
 * [Crystal Webview](https://github.com/naqvis/webview): Crystal language bindings for [webview](https://github.com/webview/webview), a tiny cross-platform webview library which uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and Edge on Windows 10)
