@@ -41,6 +41,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Webview](https://github.com/webview/webview): Tiny cross-platform webview library which uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and Edge on Windows 10.
 * [Molybden](https://teamdev.com/molybden): An SDK for building modern and secure cross-desktop apps with HTML/CSS/JavaScript GUI.
 * [Saucer](https://github.com/saucer/saucer): 🛸 Next-gen desktop apps with web-frontend in C++
+* [tiny](https://github.com/Rafi993/tiny): This is a tiny alternative to electron
 
 ### Crystal
 * [Crystal Webview](https://github.com/naqvis/webview): Crystal language bindings for [webview](https://github.com/webview/webview), a tiny cross-platform webview library which uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and Edge on Windows 10)
@@ -124,7 +125,6 @@ There are a number of good reasons to avoid Electron or consider something other
 * [FMX (FireMonkey)](https://www.embarcadero.com/products/rad-studio/fm-application-platform): The FireMonkey® framework is the app development and runtime platform behind RAD Studio, Delphi and C++Builder. FireMonkey is designed for teams building multi-device, true native apps for Windows, OS X, Android and iOS, and getting them to app stores and enterprises fast.
 
 ## 📖 Related work
-* [tiny](https://github.com/Rafi993/tiny): This is a tiny alternative to electron
 * [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder
 * [Qt](https://www.qt.io): Qt (pronounced "cute") is free and open-source cross-platform software for creating graphical user interfaces as well as cross-platform applications
 * [jscherer92/Quark](https://github.com/jscherer92/Quark): Create Applications with browser technologies using the native engine in your OS.
