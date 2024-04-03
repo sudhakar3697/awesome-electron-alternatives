@@ -65,6 +65,7 @@ There are a number of good reasons to avoid Electron or consider something other
 ### JS/Nodejs
 * [WelsonJS](https://github.com/gnh1201/welsonjs): Build Windows desktop apps with JavaScript, HTML, and CSS based on WSH/HTA or GTK.
 * [NW.js](https://nwjs.io): Similar to electron, [provides Source code protection](https://nwjs.io/blog/js-src-protect-perf/))
+* [ronysfreitas/webview](https://github.com/ronysfreitas/webview): This is a template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app.
 * [DeskGap](https://deskgap.com): bundles a Node.js runtime and leaves the HTML rendering to the operating system‘s webview)
 * [Neutralinojs](https://neutralino.js.org): chromium module is replaced with either user’s web browser or built-in browser component. Node run-time is replaced with a lightweight web server which exposes native OS functionality)
 * [Proton Native](https://proton-native.js.org): does the same to desktop that React Native did to mobile, based on [libui-node](https://github.com/parro-it/libui-node)
