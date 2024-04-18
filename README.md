@@ -27,24 +27,24 @@ There are a number of good reasons to avoid Electron or consider something other
 ### C#(.Net)
 * [Orleans](https://github.com/dotnet/Orleans): Cloud Native application framework for .NET
 * [Avalonia](https://avaloniaui.net): Avalonia UI creates pixel-perfect, native, create Multi-Platform Apps with .NET
-* [Uno](https://platform.uno): Pixel-Perfect Multi-Platform Applications with C# and WinUI
-* [Chromely](https://github.com/chromelyapps/Chromely): Build HTML Desktop Apps on .NET/.NET Core/.NET 5 using native GUI, HTML5, JavaScript, CSS
-* [SpiderEye](https://github.com/JBildstein/SpiderEye): Cross platform .Net Core applications with a webview UI
-* [Photino.NET](https://github.com/tryphotino/photino.NET): Photino uses the OSs built-in WebKit-based browser control for Windows, macOS and Linux. Photino is the lightest cross-platform framework. Compared to Electron, a Photino app is up to 110 times smaller! And it uses far less system memory too!
-* [foton](https://github.com/integrativesoft/foton): Prototype for an Electron alternative written in C# by Integrative Software LLC and contributors
+* [Uno](https://platform.uno): Pixel-Perfect Multi-Platform Applications with C# and WinUI.
+* [Chromely](https://github.com/chromelyapps/Chromely): Build HTML Desktop Apps on .NET/.NET Core/.NET 5 using native GUI, HTML5, JavaScript, CSS.
+* [SpiderEye](https://github.com/JBildstein/SpiderEye): Cross platform .Net Core applications with a webview UI.
+* [Photino.NET](https://github.com/tryphotino/photino.NET): Photino uses the OSs built-in WebKit-based browser control for Windows, macOS and Linux. Photino is the lightest cross-platform framework. Compared to Electron, a Photino app is up to 110 times smaller! And it uses far less system memory too!.
+* [foton](https://github.com/integrativesoft/foton): Prototype for an Electron alternative written in C# by Integrative Software LLC and contributors.
 
 ### C/C++
-* [Qt](https://www.qt.io): Qt (pronounced "cute") is free and open-source cross-platform software for creating graphical user interfaces as well as cross-platform applications
-* [wxWidgets](https://wxwidgets.org): wxWidgets is a C++ library that lets developers create applications for Windows, macOS, Linux and other platforms with a single code base. It has popular language bindings for Python, Ruby, Lua, Perl and several other languages
-* [sciter](https://sciter.com): Embeddable HTML/CSS/JavaScript engine for modern UI development
+* [Qt](https://www.qt.io): Qt (pronounced "cute") is free and open-source cross-platform software for creating graphical user interfaces as well as cross-platform applications.
+* [wxWidgets](https://wxwidgets.org): wxWidgets is a C++ library that lets developers create applications for Windows, macOS, Linux and other platforms with a single code base. It has popular language bindings for Python, Ruby, Lua, Perl and several other languages.
+* [sciter](https://sciter.com): Embeddable HTML/CSS/JavaScript engine for modern UI development.
 * [Ultralight](https://ultralig.ht): Ultra-fast, ultra-light, standards-compliant HTML renderer for applications and games. Based on WebKit— supports most modern HTML5, CSS, and JavaScript features while still remaining light and configurable.
 * [Webview](https://github.com/webview/webview): Tiny cross-platform webview library which uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and Edge on Windows 10.
 * [Molybden](https://teamdev.com/molybden): An SDK for building modern and secure cross-desktop apps with HTML/CSS/JavaScript GUI.
-* [Saucer](https://github.com/saucer/saucer): 🛸 Next-gen desktop apps with web-frontend in C++
-* [tiny](https://github.com/Rafi993/tiny): This is a tiny alternative to electron
+* [Saucer](https://github.com/saucer/saucer): 🛸 Next-gen desktop apps with web-frontend in C++.
+* [tiny](https://github.com/Rafi993/tiny): This is a tiny alternative to electron.
 
 ### Crystal
-* [Crystal Webview](https://github.com/naqvis/webview): Crystal language bindings for [webview](https://github.com/webview/webview), a tiny cross-platform webview library which uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and Edge on Windows 10)
+* [Crystal Webview](https://github.com/naqvis/webview): Crystal language bindings for [webview](https://github.com/webview/webview), a tiny cross-platform webview library which uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and Edge on Windows 10).
 
 ### Dart
 * [flutter](https://flutter.dev): Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
