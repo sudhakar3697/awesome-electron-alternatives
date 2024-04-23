@@ -64,6 +64,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [webview](https://github.com/ronysfreitas/webview): Template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app.
 
 ### JS/Nodejs
+* [Astrodon](https://github.com/astrodon/astrodon): Desktop App Framework (not there yet!) for Deno, based on Tauri **currently unmaintained**
 * [WelsonJS](https://github.com/gnh1201/welsonjs): Build Windows desktop apps with JavaScript, HTML, and CSS based on WSH/HTA or GTK.
 * [NW.js](https://nwjs.io): Similar to electron, [provides Source code protection](https://nwjs.io/blog/js-src-protect-perf/)).
 * [DeskGap](https://deskgap.com): bundles a Node.js runtime and leaves the HTML rendering to the operating system‘s webview).
