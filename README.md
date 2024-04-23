@@ -42,6 +42,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Molybden](https://teamdev.com/molybden): An SDK for building modern and secure cross-desktop apps with HTML/CSS/JavaScript GUI.
 * [Saucer](https://github.com/saucer/saucer): 🛸 Next-gen desktop apps with web-frontend in C++.
 * [tiny](https://github.com/Rafi993/tiny): This is a tiny alternative to electron.
+* [UnityHub](https://github.com/Ravbug/UnityHubNative): A native alternative to the heavy Electron Unity Hub, written in C++. UnityHubNative is a lightweight C++ / wxWidgets alternative to the unnecessarily heavy official Unity Hub, built using wxWidgets. This means that, instead of using heavy web components like the official Electron hub, it uses native GUI components on all platforms. It launches many times faster, uses far less memory and CPU, and is a fraction of the total size of the offical Unity Hub.
 
 ### Crystal
 * [Crystal Webview](https://github.com/naqvis/webview): Crystal language bindings for [webview](https://github.com/webview/webview), a tiny cross-platform webview library which uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and Edge on Windows 10).
