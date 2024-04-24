@@ -130,6 +130,7 @@ There are a number of good reasons to avoid Electron or consider something other
 ## 📖 Related work
 * [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder.
 * [Positron](https://github.com/kendofriendo/positron): List of electron apps so I can avoid them, and some alternatives to use instead
+* [Web To Desktop Framework Comparasion](https://github.com/Elanis/web-to-desktop-framework-comparison): This repository was made to create an objective comparison of multiple framework that grant us to "transform" our web app to desktop application formats.
 * [Awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking): A curated list of awesome resources about Electron.js (in)security
 * [Qt](https://www.qt.io): Qt (pronounced "cute") is free and open-source cross-platform software for creating graphical user interfaces as well as cross-platform applications
 * [jscherer92/Quark](https://github.com/jscherer92/Quark): Create Applications with browser technologies using the native engine in your OS.
