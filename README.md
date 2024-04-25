@@ -82,6 +82,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Avernakis](https://github.com/qber-soft/Ave-Nodejs) Nodejs addon for Avernakis SDK, use TypeScript to develop modern desktop app with powerful UI kits.
 * [Gluon](https://github.com/gluon-framework/gluon) Uses normal system installed browsers (not webviews) and NodeJS, also supports Firefox.
 * [modern-hta](https://github.com/joncasey/modern-hta): Run modern code in an HTML Application.
+* [webview_deno](https://github.com/webview/webview_deno): 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs
 
 ### Kotlin
 * [Compose Multiplatform](https://www.jetbrains.com/lp/compose-mpp): Declarative framework for sharing UIs across multiple platforms. Based on Kotlin and Jetpack Compose. Developed by JetBrains and open-source contributors.
