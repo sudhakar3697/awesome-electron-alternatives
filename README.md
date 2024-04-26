@@ -90,6 +90,7 @@ There are a number of good reasons to avoid Electron or consider something other
 ### Perl
 * [Gtk](https://metacpan.org/pod/Gtk3): Gtk3 - Perl interface to the 3.x series of the gtk+ toolkit.
 * [Prima](https://metacpan.org/pod/Prima): Prima - a perl graphic toolkit.
+* [Perl Executing Browser](https://github.com/ddmitov/perl-executing-browser): Perl Executing Browser (PEB) is an HTML user interface for Perl 5 desktop applications. It is a C++ Qt 5 application running local Perl scripts as child processes without server. Inspired by Electron and NW.js, PEB is another reuse of web technologies in desktop applications with Perl doing the heavy lifting instead of Node.js.
 * [Tk](https://metacpan.org/dist/Tk): Perl/Tk is an extension for writing Perl programs with a Graphical User Interface (GUI) on both Unix and Windows 95/NT. Tk was originally developed as an extension to the Tcl language, for use with the X Window System on Unix.
 * [Tkx](https://metacpan.org/pod/Tkx): Tkx - Yet another Tk interface.
 * [Wx](https://metacpan.org/pod/Wx): The Wx module is a wrapper for the wxWidgets (formerly known as wxWindows) GUI toolkit.
