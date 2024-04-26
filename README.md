@@ -129,6 +129,13 @@ There are a number of good reasons to avoid Electron or consider something other
 ### Delphi
 * [FMX (FireMonkey)](https://www.embarcadero.com/products/rad-studio/fm-application-platform): The FireMonkey® framework is the app development and runtime platform behind RAD Studio, Delphi and C++Builder. FireMonkey is designed for teams building multi-device, true native apps for Windows, OS X, Android and iOS, and getting them to app stores and enterprises fast.
 
+### V
+* [ui](https://github.com/pisaiah/ui): Isaiah's cross-platform GUI library for V. Inspired by the syntax of Java's Swing.
+* [mui](https://github.com/malisipi/mui): A Cross-Platform UI Library in vlang
+* [viup](https://github.com/kjlaw89/viup): A V wrapper for the cross-platform UI library, IUP.
+* [vi-v](https://github.com/nocturlab/vi-v): Vi-v is a visual scripting UI for vlang. It allows anyone to create their own programs easily without an extensive programming skill.
+* [vxui](https://github.com/kbkpbot/vxui): vxui is a cross-platform desktop UI framework which use your browser as screen, and use V lang as backend. It reply on Websocket, no http/https, no web server!
+  
 ## 📖 Related work
 * [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder.
 * [Positron](https://github.com/kendofriendo/positron): List of electron apps so I can avoid them, and some alternatives to use instead
