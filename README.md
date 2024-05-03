@@ -112,7 +112,6 @@ There are a number of good reasons to avoid Electron or consider something other
 * [pywebview](https://github.com/r0x0r/pywebview): Build GUI for your Python program with JavaScript, HTML, and CSS.
 * [Pysimplegui](https://www.pysimplegui.com/): PySimpleGUI creates graphical user interfaces (GUIs) using Python, quickly and easily!.
 
-
 ### Ruby
 * [Glimmer](https://github.com/AndyObtiva/glimmer): A Domain-Specific Language & metaframework for building GUI apps using Ruby, with bindings for various GUI libraries and also Web.
 * [qtbindings](https://github.com/ryanmelt/qtbindings): Ruby bindings for Qt.
@@ -159,6 +158,13 @@ There are a number of good reasons to avoid Electron or consider something other
 - [graph](https://github.com/stisa/graph): A basic plotting library in Nim.
 - [nimetry](https://github.com/refaqtor/nimetry): Simple plotting in pure Nim.
 - [nimgraphviz](https://github.com/Aveheuzed/nimgraphviz): A Nim library for making graphs with GraphViz and DOT.
+
+### Haskell 
+- [Fudgets](http://www.altocumulus.org/Fudgets/): Fudgets is primarily a Graphical User Interface Toolkit for Haskell and the X Windows system. Fudgets also makes it easy to create client-server applications that communicate via the Internet. It runs on Unix but not on Windows.
+- [Keera Hails](https://github.com/keera-studios/keera-hails/): Keera Hails is a library to connect values that change with one another using rules or relations. Keera Hails is back-end agnostic and not exclusive to GUIs; it has backends for Gtk+ but also hardware (wiimotes), files, sockets and FRP-driven networks (using Yampa), and experimental backends for wx, qt, HTML DOM (using GHCJS) and Android's widget toolkit. It has been used commercially in production in medium-sized applications (10K-20K locs).
+- [Threepenny-gui](https://wiki.haskell.org/Threepenny-gui): Threepenny-gui is a GUI framework that uses the web browser as a display. It supports Functional Reactive Programming.
+- [webviewhs](https://lettier.github.io/webviewhs): webviewhs is a Haskell binding to the webview library created by Serge Zaitsev. This binding allows the creation of rich web-based UI experiences wrapped up in the powerful, type-safe embrace of Haskell. To render the UI it uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and MSHTML (IE10/11) on Windows.
+- [Monomer](https://github.com/fjvallarino/monomer): Monomer is an easy to use, cross platform, GUI library for writing native Haskell applications. It provides a framework similar to the Elm Architecture, allowing the creation of GUIs using an extensible set of widgets with pure Haskell.
 
 ## 📖 Related work
 * [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder.
