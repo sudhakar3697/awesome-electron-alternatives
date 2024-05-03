@@ -135,7 +135,31 @@ There are a number of good reasons to avoid Electron or consider something other
 * [viup](https://github.com/kjlaw89/viup): A V wrapper for the cross-platform UI library, IUP.
 * [vi-v](https://github.com/nocturlab/vi-v): Vi-v is a visual scripting UI for vlang. It allows anyone to create their own programs easily without an extensive programming skill.
 * [vxui](https://github.com/kbkpbot/vxui): vxui is a cross-platform desktop UI framework which use your browser as screen, and use V lang as backend. It reply on Websocket, no http/https, no web server!
-  
+
+### Nim
+- [nimx](https://github.com/yglukhov/nimx): Desktop, Mobile & Web GUI framework in Nim.
+- [NiGui](https://github.com/trustable-code/NiGui): A cross-platform, desktop GUI toolkit.
+- [ui](https://github.com/nim-lang/ui): Wrapper for libui. Beginnings of what might become Nim's official UI library.
+- [iup](https://github.com/nim-lang/iup): Wrapper for IUP. Beginnings of what might become Nim's official UI library.
+- [SDL2](https://github.com/nim-lang/sdl2): Official wrapper for SDL 2.x.
+- [SDL2](https://github.com/Vladar4/sdl2_nim): A wrapper for SDL 2.
+- [Owlkettle](https://github.com/can-lehmann/owlkettle): Declarative user interface framework based on GTK.
+- [wNim](https://github.com/khchen/wNim): Nim's Windows GUI Framework.
+- [gintro](https://github.com/StefanSalewski/gintro): High-level GObject-Introspection based GTK3/GTK4 bindings for Nim.
+- [nimqml](https://github.com/filcuc/nimqml): Qt QML bindings for the Nim programming language.
+- [Neel](https://github.com/Niminem/Neel): A library for making Electron-like HTML/JS GUI apps.
+- [nimview](https://github.com/marcomq/nimview): A Nim/Webview based helper to create desktop/server applications with Nim and HTML/CSS.
+- [webgui](https://github.com/juancarlospaco/webgui): Web technologies based cross-platform GUI Framework with a dark theme.
+- [fidget](https://github.com/treeform/fidget): Figma based UI library for Nim, with HTML and OpenGL backends.
+- [nsciter](https://github.com/Yardanico/nsciter): High-level and low-level Nim wrapper for https://sciter.com.
+- [imgui](https://github.com/nimgl/imgui): ImGui bindings for Nim via cimgui.
+- [nimAntTweakBar](https://github.com/krux02/nimAntTweakBar): Wrapper for AntTweakBar.
+- [ggplotnim](https://github.com/Vindaar/ggplotnim): A port of ggplot2 for Nim.
+- [plotly](https://github.com/SciNim/nim-plotly): A plotly wrapper for Nim.
+- [graph](https://github.com/stisa/graph): A basic plotting library in Nim.
+- [nimetry](https://github.com/refaqtor/nimetry): Simple plotting in pure Nim.
+- [nimgraphviz](https://github.com/Aveheuzed/nimgraphviz): A Nim library for making graphs with GraphViz and DOT.
+
 ## 📖 Related work
 * [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder.
 * [Positron](https://github.com/kendofriendo/positron): List of electron apps so I can avoid them, and some alternatives to use instead
