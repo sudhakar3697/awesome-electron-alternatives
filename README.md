@@ -112,7 +112,6 @@ There are a number of good reasons to avoid Electron or consider something other
 * [pywebview](https://github.com/r0x0r/pywebview): Build GUI for your Python program with JavaScript, HTML, and CSS.
 * [Pysimplegui](https://www.pysimplegui.com/): PySimpleGUI creates graphical user interfaces (GUIs) using Python, quickly and easily!.
 
-
 ### Ruby
 * [Glimmer](https://github.com/AndyObtiva/glimmer): A Domain-Specific Language & metaframework for building GUI apps using Ruby, with bindings for various GUI libraries and also Web.
 * [qtbindings](https://github.com/ryanmelt/qtbindings): Ruby bindings for Qt.
@@ -135,10 +134,49 @@ There are a number of good reasons to avoid Electron or consider something other
 * [viup](https://github.com/kjlaw89/viup): A V wrapper for the cross-platform UI library, IUP.
 * [vi-v](https://github.com/nocturlab/vi-v): Vi-v is a visual scripting UI for vlang. It allows anyone to create their own programs easily without an extensive programming skill.
 * [vxui](https://github.com/kbkpbot/vxui): vxui is a cross-platform desktop UI framework which use your browser as screen, and use V lang as backend. It reply on Websocket, no http/https, no web server!
-  
+
+### Nim
+- [nimx](https://github.com/yglukhov/nimx): Desktop, Mobile & Web GUI framework in Nim.
+- [NiGui](https://github.com/trustable-code/NiGui): A cross-platform, desktop GUI toolkit.
+- [ui](https://github.com/nim-lang/ui): Wrapper for libui. Beginnings of what might become Nim's official UI library.
+- [iup](https://github.com/nim-lang/iup): Wrapper for IUP. Beginnings of what might become Nim's official UI library.
+- [SDL2](https://github.com/nim-lang/sdl2): Official wrapper for SDL 2.x.
+- [SDL2](https://github.com/Vladar4/sdl2_nim): A wrapper for SDL 2.
+- [Owlkettle](https://github.com/can-lehmann/owlkettle): Declarative user interface framework based on GTK.
+- [wNim](https://github.com/khchen/wNim): Nim's Windows GUI Framework.
+- [gintro](https://github.com/StefanSalewski/gintro): High-level GObject-Introspection based GTK3/GTK4 bindings for Nim.
+- [nimqml](https://github.com/filcuc/nimqml): Qt QML bindings for the Nim programming language.
+- [Neel](https://github.com/Niminem/Neel): A library for making Electron-like HTML/JS GUI apps.
+- [nimview](https://github.com/marcomq/nimview): A Nim/Webview based helper to create desktop/server applications with Nim and HTML/CSS.
+- [webgui](https://github.com/juancarlospaco/webgui): Web technologies based cross-platform GUI Framework with a dark theme.
+- [fidget](https://github.com/treeform/fidget): Figma based UI library for Nim, with HTML and OpenGL backends.
+- [nsciter](https://github.com/Yardanico/nsciter): High-level and low-level Nim wrapper for https://sciter.com.
+- [imgui](https://github.com/nimgl/imgui): ImGui bindings for Nim via cimgui.
+- [nimAntTweakBar](https://github.com/krux02/nimAntTweakBar): Wrapper for AntTweakBar.
+- [ggplotnim](https://github.com/Vindaar/ggplotnim): A port of ggplot2 for Nim.
+- [plotly](https://github.com/SciNim/nim-plotly): A plotly wrapper for Nim.
+- [graph](https://github.com/stisa/graph): A basic plotting library in Nim.
+- [nimetry](https://github.com/refaqtor/nimetry): Simple plotting in pure Nim.
+- [nimgraphviz](https://github.com/Aveheuzed/nimgraphviz): A Nim library for making graphs with GraphViz and DOT.
+
+### Haskell 
+- [Fudgets](http://www.altocumulus.org/Fudgets/): Fudgets is primarily a Graphical User Interface Toolkit for Haskell and the X Windows system. Fudgets also makes it easy to create client-server applications that communicate via the Internet. It runs on Unix but not on Windows.
+- [Keera Hails](https://github.com/keera-studios/keera-hails/): Keera Hails is a library to connect values that change with one another using rules or relations. Keera Hails is back-end agnostic and not exclusive to GUIs; it has backends for Gtk+ but also hardware (wiimotes), files, sockets and FRP-driven networks (using Yampa), and experimental backends for wx, qt, HTML DOM (using GHCJS) and Android's widget toolkit. It has been used commercially in production in medium-sized applications (10K-20K locs).
+- [Threepenny-gui](https://wiki.haskell.org/Threepenny-gui): Threepenny-gui is a GUI framework that uses the web browser as a display. It supports Functional Reactive Programming.
+- [webviewhs](https://lettier.github.io/webviewhs): webviewhs is a Haskell binding to the webview library created by Serge Zaitsev. This binding allows the creation of rich web-based UI experiences wrapped up in the powerful, type-safe embrace of Haskell. To render the UI it uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and MSHTML (IE10/11) on Windows.
+- [Monomer](https://github.com/fjvallarino/monomer): Monomer is an easy to use, cross platform, GUI library for writing native Haskell applications. It provides a framework similar to the Elm Architecture, allowing the creation of GUIs using an extensible set of widgets with pure Haskell.
+
+### Nocode
+- [Kodular](https://www.kodular.io/): Much more than a modern app creator without coding
+- [Bubble](https://bubble.io/): Design, develop, and launch production-grade applications without code. It doesn't matter if you’re starting out or on an enterprise team — Bubble is for anyone.
+
+### Visual programming
+- [Blockly](https://developers.google.com/blockly) Blockly is a visual programming editor by Google that uses drag-and-drop blocks. It's the engine that powers the most popular coding education programs world.
+
 ## 📖 Related work
 * [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder.
 * [Positron](https://github.com/kendofriendo/positron): List of electron apps so I can avoid them, and some alternatives to use instead
+* [Awesome Alternatives to Electron Apps](https://github.com/konchunas/awesome-alternatives-to-electron-apps): Electron is an application platform which spreads like a cancer in software development world making your immensely powerful computer feel slow and laggy. Sometimes apps made in Electron are useful, though. This list contains good alternatives to an memory hungry eco-unfriendly Electron software.
 * [Comparison of Browser Engines](https://en.wikipedia.org/wiki/Comparison_of_browser_engines): A browser engine (also known as a layout engine or rendering engine) is a core software component of every major web browser. The primary job of a browser engine is to transform HTML documents and other resources of a web page into an interactive visual representation on a user's device. Besides "browser engine", two other related terms are commonly used: "layout engine" and "rendering engine". In theory, layout and rendering (or "painting") could be handled by different engines. In practice, however, these components are tightly coupled and rarely encountered on their own outside of the browser engine.
 * [Web To Desktop Framework Comparasion](https://github.com/Elanis/web-to-desktop-framework-comparison): This repository was made to create an objective comparison of multiple framework that grant us to "transform" our web app to desktop application formats.
 * [Awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking): A curated list of awesome resources about Electron.js (in)security
