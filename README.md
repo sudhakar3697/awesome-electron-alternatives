@@ -50,6 +50,9 @@ There are a number of good reasons to avoid Electron or consider something other
 ### Dart
 * [flutter](https://flutter.dev): Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
 
+### Delphi
+* [FMX (FireMonkey)](https://www.embarcadero.com/products/rad-studio/fm-application-platform): The FireMonkey® framework is the app development and runtime platform behind RAD Studio, Delphi and C++Builder. FireMonkey is designed for teams building multi-device, true native apps for Windows, OS X, Android and iOS, and getting them to app stores and enterprises fast.
+
 ### Go
 * [lorca](https://github.com/zserge/lorca): Build cross-platform modern desktop apps in Go + HTML5.
 * [wails](https://github.com/wailsapp/wails): Create beautiful applications using Go.
@@ -59,33 +62,68 @@ There are a number of good reasons to avoid Electron or consider something other
 * [guile-pstk](https://github.com/KikyTokamuro/guile-pstk): [PS/TK version](http://mirror.informatimago.com/scheme/www.t3x.org/pstk/index.html) fixed to work fine on modern GNU Guile.
 * [guile-webview](https://github.com/KikyTokamuro/guile-webview): Wrapper for using libwebview from GNU Guile.
 
+### Haskell 
+- [Fudgets](http://www.altocumulus.org/Fudgets/): Fudgets is primarily a Graphical User Interface Toolkit for Haskell and the X Windows system. Fudgets also makes it easy to create client-server applications that communicate via the Internet. It runs on Unix but not on Windows.
+- [Keera Hails](https://github.com/keera-studios/keera-hails/): Keera Hails is a library to connect values that change with one another using rules or relations. Keera Hails is back-end agnostic and not exclusive to GUIs; it has backends for Gtk+ but also hardware (wiimotes), files, sockets and FRP-driven networks (using Yampa), and experimental backends for wx, qt, HTML DOM (using GHCJS) and Android's widget toolkit. It has been used commercially in production in medium-sized applications (10K-20K locs).
+- [Threepenny-gui](https://wiki.haskell.org/Threepenny-gui): Threepenny-gui is a GUI framework that uses the web browser as a display. It supports Functional Reactive Programming.
+- [webviewhs](https://lettier.github.io/webviewhs): webviewhs is a Haskell binding to the webview library created by Serge Zaitsev. This binding allows the creation of rich web-based UI experiences wrapped up in the powerful, type-safe embrace of Haskell. To render the UI it uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and MSHTML (IE10/11) on Windows.
+- [Monomer](https://github.com/fjvallarino/monomer): Monomer is an easy to use, cross platform, GUI library for writing native Haskell applications. It provides a framework similar to the Elm Architecture, allowing the creation of GUIs using an extensible set of widgets with pure Haskell.
+
 ### Java
 * [Swing](https://en.wikipedia.org/wiki/Swing_(Java)): Swing is a GUI widget toolkit for Java.[1] It is part of Oracle's Java Foundation Classes (JFC) – an API for providing a graphical user interface (GUI) for Java programs.
 * [OpenJFX or JavaFX](https://openjfx.io/): JavaFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java. It is a collaborative effort by many individuals and companies with the goal of producing a modern, efficient, and fully featured toolkit for developing rich client applications.
 * [webview](https://github.com/ronysfreitas/webview): Template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app.
 
-### JS/Nodejs
+### JS
+* [Sciter.JS](https://github.com/c-smile/sciter-js-sdk): Is a 5MB HTML/CSS/JS (ES6) runtime aimed as a direct Electron replacement.
+* [electrino](https://github.com/pojala/electrino): Desktop runtime for apps built on web technologies, using the system's own web browser engine.
+* [nidium](https://www.nidium.com): A powerful rendering engine for modern mobile applications. Unlike many solution, nidium doesn't rely on webviews or native OS widgets. Instead, it uses its own high-performance rendering engine to draw custom widgets.
+* [modern-hta](https://github.com/joncasey/modern-hta): Run modern code in an HTML Application.
+* [React Native Desktop](https://github.com/status-im/react-native-desktop) Cross-platform React Native Desktop port based on Qt framework.
+* [NodeGui](https://github.com/nodegui/nodegui): Powered by Qt5, [NodeGui-React](https://github.com/nodegui/react-nodegui), [Vue NodeGui](https://github.com/nodegui/vue-nodegui), [Svelte-NodeGui](https://github.com/nodegui/svelte-nodegui)
 * [Astrodon](https://github.com/astrodon/astrodon): Desktop App Framework (not there yet!) for Deno, based on Tauri **currently unmaintained**
-* [WelsonJS](https://github.com/gnh1201/welsonjs): Build Windows desktop apps with JavaScript, HTML, and CSS based on WSH/HTA or GTK.
-* [NW.js](https://nwjs.io): Similar to electron, [provides Source code protection](https://nwjs.io/blog/js-src-protect-perf/)).
+* [webview_deno](https://github.com/webview/webview_deno): 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs
 * [DeskGap](https://deskgap.com): bundles a Node.js runtime and leaves the HTML rendering to the operating system‘s webview).
+* [NW.js](https://nwjs.io): Similar to electron, [provides Source code protection](https://nwjs.io/blog/js-src-protect-perf/)).
 * [Neutralinojs](https://neutralino.js.org): chromium module is replaced with either user’s web browser or built-in browser component. Node run-time is replaced with a lightweight web server which exposes native OS functionality).
 * [Proton Native](https://proton-native.js.org): does the same to desktop that React Native did to mobile, based on [libui-node](https://github.com/parro-it/libui-node).
-* [React Native Desktop](https://github.com/status-im/react-native-desktop) Cross-platform React Native Desktop port based on Qt framework.
-* [Vuido](https://github.com/mimecorg/vuido): Creating native desktop applications based on Vue.js, based on [libui-node](https://github.com/parro-it/libui-node)
-* [NodeGui](https://github.com/nodegui/nodegui): Powered by Qt5, [NodeGui-React](https://github.com/nodegui/react-nodegui), [Vue NodeGui](https://github.com/nodegui/vue-nodegui), [Svelte-NodeGui](https://github.com/nodegui/svelte-nodegui)
-* [quasar](https://quasar.dev): Vue.js based framework, which lets web developer to quickly create responsive websites/apps.
-* [nidium](https://www.nidium.com): A powerful rendering engine for modern mobile applications. Unlike many solution, nidium doesn't rely on webviews or native OS widgets. Instead, it uses its own high-performance rendering engine to draw custom widgets.
-* [electrino](https://github.com/pojala/electrino): Desktop runtime for apps built on web technologies, using the system's own web browser engine.
-* [graffiti](https://github.com/cztomsik/graffiti): HTML/CSS engine for node.js and deno.
-* [Sciter.JS](https://github.com/c-smile/sciter-js-sdk): Is a 5MB HTML/CSS/JS (ES6) runtime aimed as a direct Electron replacement.
-* [Avernakis](https://github.com/qber-soft/Ave-Nodejs) Nodejs addon for Avernakis SDK, use TypeScript to develop modern desktop app with powerful UI kits.
+* [Graffiti](https://github.com/cztomsik/graffiti): HTML/CSS engine for node.js and deno.
 * [Gluon](https://github.com/gluon-framework/gluon) Uses normal system installed browsers (not webviews) and NodeJS, also supports Firefox.
-* [modern-hta](https://github.com/joncasey/modern-hta): Run modern code in an HTML Application.
-* [webview_deno](https://github.com/webview/webview_deno): 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs
-
+* [Avernakis](https://github.com/qber-soft/Ave-Nodejs) Nodejs addon for Avernakis SDK, use TypeScript to develop modern desktop app with powerful UI kits.
+* [WelsonJS](https://github.com/gnh1201/welsonjs): Build Windows desktop apps with JavaScript, HTML, and CSS based on WSH/HTA or GTK.
+* [Vuido](https://github.com/mimecorg/vuido): Creating native desktop applications based on Vue.js, based on [libui-node](https://github.com/parro-it/libui-node)
+* [quasar](https://quasar.dev): Vue.js based framework, which lets web developer to quickly create responsive websites/apps.
+  
 ### Kotlin
 * [Compose Multiplatform](https://www.jetbrains.com/lp/compose-mpp): Declarative framework for sharing UIs across multiple platforms. Based on Kotlin and Jetpack Compose. Developed by JetBrains and open-source contributors.
+  
+### Nim
+- [nimx](https://github.com/yglukhov/nimx): Desktop, Mobile & Web GUI framework in Nim.
+- [NiGui](https://github.com/trustable-code/NiGui): A cross-platform, desktop GUI toolkit.
+- [ui](https://github.com/nim-lang/ui): Wrapper for libui. Beginnings of what might become Nim's official UI library.
+- [iup](https://github.com/nim-lang/iup): Wrapper for IUP. Beginnings of what might become Nim's official UI library.
+- [SDL2](https://github.com/nim-lang/sdl2): Official wrapper for SDL 2.x.
+- [SDL2](https://github.com/Vladar4/sdl2_nim): A wrapper for SDL 2.
+- [Owlkettle](https://github.com/can-lehmann/owlkettle): Declarative user interface framework based on GTK.
+- [wNim](https://github.com/khchen/wNim): Nim's Windows GUI Framework.
+- [gintro](https://github.com/StefanSalewski/gintro): High-level GObject-Introspection based GTK3/GTK4 bindings for Nim.
+- [nimqml](https://github.com/filcuc/nimqml): Qt QML bindings for the Nim programming language.
+- [Neel](https://github.com/Niminem/Neel): A library for making Electron-like HTML/JS GUI apps.
+- [nimview](https://github.com/marcomq/nimview): A Nim/Webview based helper to create desktop/server applications with Nim and HTML/CSS.
+- [webgui](https://github.com/juancarlospaco/webgui): Web technologies based cross-platform GUI Framework with a dark theme.
+- [fidget](https://github.com/treeform/fidget): Figma based UI library for Nim, with HTML and OpenGL backends.
+- [nsciter](https://github.com/Yardanico/nsciter): High-level and low-level Nim wrapper for https://sciter.com.
+- [imgui](https://github.com/nimgl/imgui): ImGui bindings for Nim via cimgui.
+- [nimAntTweakBar](https://github.com/krux02/nimAntTweakBar): Wrapper for AntTweakBar.
+- [ggplotnim](https://github.com/Vindaar/ggplotnim): A port of ggplot2 for Nim.
+- [plotly](https://github.com/SciNim/nim-plotly): A plotly wrapper for Nim.
+- [graph](https://github.com/stisa/graph): A basic plotting library in Nim.
+- [nimetry](https://github.com/refaqtor/nimetry): Simple plotting in pure Nim.
+- [nimgraphviz](https://github.com/Aveheuzed/nimgraphviz): A Nim library for making graphs with GraphViz and DOT.
+
+### No-code\Low-code
+- [Kodular](https://www.kodular.io/): Much more than a modern app creator without coding
+- [Bubble](https://bubble.io/): Design, develop, and launch production-grade applications without code. It doesn't matter if you’re starting out or on an enterprise team — Bubble is for anyone.
 
 ### Perl
 * [Gtk](https://metacpan.org/pod/Gtk3): Gtk3 - Perl interface to the 3.x series of the gtk+ toolkit.
@@ -111,7 +149,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Tkinter](https://docs.python.org/3/library/tkinter.html): The Tkinter module or "Tk interface" is the standard Python interface to the Tk GUI toolkit. Both Tk and Tkinter are available on most Unix platforms, as well as on Windows systems. Tk itself is not part of Python; it is maintained at ActiveState.
 * [pywebview](https://github.com/r0x0r/pywebview): Build GUI for your Python program with JavaScript, HTML, and CSS.
 * [Pysimplegui](https://www.pysimplegui.com/): PySimpleGUI creates graphical user interfaces (GUIs) using Python, quickly and easily!.
-
+  
 ### Ruby
 * [Glimmer](https://github.com/AndyObtiva/glimmer): A Domain-Specific Language & metaframework for building GUI apps using Ruby, with bindings for various GUI libraries and also Web.
 * [qtbindings](https://github.com/ryanmelt/qtbindings): Ruby bindings for Qt.
@@ -119,14 +157,11 @@ There are a number of good reasons to avoid Electron or consider something other
 * [ruby-gnome](https://github.com/ruby-gnome/ruby-gnome): Ruby bindings from GNOME/GTK3.
 * [JRubyFX](https://github.com/jruby/jrubyfx): JRuby wrapper on JavaFX.
 * [traveling-ruby](https://github.com/phusion/traveling-ruby): Runtime to bundle Ruby applications into executables.
-
+  
 ### Rust
 * [gtk-rs](https://github.com/gtk-rs): Rust bindings for GTK.
 * [revery-ui](https://github.com/revery-ui): Fast, native, cross-platform UI.
 * [tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
-
-### Delphi
-* [FMX (FireMonkey)](https://www.embarcadero.com/products/rad-studio/fm-application-platform): The FireMonkey® framework is the app development and runtime platform behind RAD Studio, Delphi and C++Builder. FireMonkey is designed for teams building multi-device, true native apps for Windows, OS X, Android and iOS, and getting them to app stores and enterprises fast.
 
 ### V
 * [ui](https://github.com/pisaiah/ui): Isaiah's cross-platform GUI library for V. Inspired by the syntax of Java's Swing.
@@ -134,41 +169,6 @@ There are a number of good reasons to avoid Electron or consider something other
 * [viup](https://github.com/kjlaw89/viup): A V wrapper for the cross-platform UI library, IUP.
 * [vi-v](https://github.com/nocturlab/vi-v): Vi-v is a visual scripting UI for vlang. It allows anyone to create their own programs easily without an extensive programming skill.
 * [vxui](https://github.com/kbkpbot/vxui): vxui is a cross-platform desktop UI framework which use your browser as screen, and use V lang as backend. It reply on Websocket, no http/https, no web server!
-
-### Nim
-- [nimx](https://github.com/yglukhov/nimx): Desktop, Mobile & Web GUI framework in Nim.
-- [NiGui](https://github.com/trustable-code/NiGui): A cross-platform, desktop GUI toolkit.
-- [ui](https://github.com/nim-lang/ui): Wrapper for libui. Beginnings of what might become Nim's official UI library.
-- [iup](https://github.com/nim-lang/iup): Wrapper for IUP. Beginnings of what might become Nim's official UI library.
-- [SDL2](https://github.com/nim-lang/sdl2): Official wrapper for SDL 2.x.
-- [SDL2](https://github.com/Vladar4/sdl2_nim): A wrapper for SDL 2.
-- [Owlkettle](https://github.com/can-lehmann/owlkettle): Declarative user interface framework based on GTK.
-- [wNim](https://github.com/khchen/wNim): Nim's Windows GUI Framework.
-- [gintro](https://github.com/StefanSalewski/gintro): High-level GObject-Introspection based GTK3/GTK4 bindings for Nim.
-- [nimqml](https://github.com/filcuc/nimqml): Qt QML bindings for the Nim programming language.
-- [Neel](https://github.com/Niminem/Neel): A library for making Electron-like HTML/JS GUI apps.
-- [nimview](https://github.com/marcomq/nimview): A Nim/Webview based helper to create desktop/server applications with Nim and HTML/CSS.
-- [webgui](https://github.com/juancarlospaco/webgui): Web technologies based cross-platform GUI Framework with a dark theme.
-- [fidget](https://github.com/treeform/fidget): Figma based UI library for Nim, with HTML and OpenGL backends.
-- [nsciter](https://github.com/Yardanico/nsciter): High-level and low-level Nim wrapper for https://sciter.com.
-- [imgui](https://github.com/nimgl/imgui): ImGui bindings for Nim via cimgui.
-- [nimAntTweakBar](https://github.com/krux02/nimAntTweakBar): Wrapper for AntTweakBar.
-- [ggplotnim](https://github.com/Vindaar/ggplotnim): A port of ggplot2 for Nim.
-- [plotly](https://github.com/SciNim/nim-plotly): A plotly wrapper for Nim.
-- [graph](https://github.com/stisa/graph): A basic plotting library in Nim.
-- [nimetry](https://github.com/refaqtor/nimetry): Simple plotting in pure Nim.
-- [nimgraphviz](https://github.com/Aveheuzed/nimgraphviz): A Nim library for making graphs with GraphViz and DOT.
-
-### Haskell 
-- [Fudgets](http://www.altocumulus.org/Fudgets/): Fudgets is primarily a Graphical User Interface Toolkit for Haskell and the X Windows system. Fudgets also makes it easy to create client-server applications that communicate via the Internet. It runs on Unix but not on Windows.
-- [Keera Hails](https://github.com/keera-studios/keera-hails/): Keera Hails is a library to connect values that change with one another using rules or relations. Keera Hails is back-end agnostic and not exclusive to GUIs; it has backends for Gtk+ but also hardware (wiimotes), files, sockets and FRP-driven networks (using Yampa), and experimental backends for wx, qt, HTML DOM (using GHCJS) and Android's widget toolkit. It has been used commercially in production in medium-sized applications (10K-20K locs).
-- [Threepenny-gui](https://wiki.haskell.org/Threepenny-gui): Threepenny-gui is a GUI framework that uses the web browser as a display. It supports Functional Reactive Programming.
-- [webviewhs](https://lettier.github.io/webviewhs): webviewhs is a Haskell binding to the webview library created by Serge Zaitsev. This binding allows the creation of rich web-based UI experiences wrapped up in the powerful, type-safe embrace of Haskell. To render the UI it uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and MSHTML (IE10/11) on Windows.
-- [Monomer](https://github.com/fjvallarino/monomer): Monomer is an easy to use, cross platform, GUI library for writing native Haskell applications. It provides a framework similar to the Elm Architecture, allowing the creation of GUIs using an extensible set of widgets with pure Haskell.
-
-### Nocode
-- [Kodular](https://www.kodular.io/): Much more than a modern app creator without coding
-- [Bubble](https://bubble.io/): Design, develop, and launch production-grade applications without code. It doesn't matter if you’re starting out or on an enterprise team — Bubble is for anyone.
 
 ### Visual programming
 - [Blockly](https://developers.google.com/blockly) Blockly is a visual programming editor by Google that uses drag-and-drop blocks. It's the engine that powers the most popular coding education programs world.
