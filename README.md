@@ -57,6 +57,9 @@ There are a number of good reasons to avoid Electron or consider something other
 ### Delphi
 * [FMX (FireMonkey)](https://www.embarcadero.com/products/rad-studio/fm-application-platform): The FireMonkey® framework is the app development and runtime platform behind RAD Studio, Delphi and C++Builder. FireMonkey is designed for teams building multi-device, true native apps for Windows, OS X, Android and iOS, and getting them to app stores and enterprises fast.
 
+### Elm
+* [Elm UI](https://elm-ui.netlify.app/): UI library for making web applications with Elm.
+
 ### Go
 * [lorca](https://github.com/zserge/lorca): Build cross-platform modern desktop apps in Go + HTML5.
 * [wails](https://github.com/wailsapp/wails): Create beautiful applications using Go.
@@ -78,7 +81,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [OpenJFX or JavaFX](https://openjfx.io/): JavaFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java. It is a collaborative effort by many individuals and companies with the goal of producing a modern, efficient, and fully featured toolkit for developing rich client applications.
 * [webview](https://github.com/ronysfreitas/webview): Template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app.
 
-### JS
+### Javascript
 * [Sciter.JS](https://github.com/c-smile/sciter-js-sdk): Is a 5MB HTML/CSS/JS (ES6) runtime aimed as a direct Electron replacement.
 * [electrino](https://github.com/pojala/electrino): Desktop runtime for apps built on web technologies, using the system's own web browser engine.
 * [nidium](https://www.nidium.com): A powerful rendering engine for modern mobile applications. Unlike many solution, nidium doesn't rely on webviews or native OS widgets. Instead, it uses its own high-performance rendering engine to draw custom widgets.
@@ -97,7 +100,10 @@ There are a number of good reasons to avoid Electron or consider something other
 * [WelsonJS](https://github.com/gnh1201/welsonjs): Build Windows desktop apps with JavaScript, HTML, and CSS based on WSH/HTA or GTK.
 * [Vuido](https://github.com/mimecorg/vuido): Creating native desktop applications based on Vue.js, based on [libui-node](https://github.com/parro-it/libui-node)
 * [quasar](https://quasar.dev): Vue.js based framework, which lets web developer to quickly create responsive websites/apps.
-  
+
+### Julia
+* [MouseTrap](https://github.com/Clemapfel/mousetrap.jl): GUI Engine made for Julia
+
 ### Kotlin
 * [Compose Multiplatform](https://www.jetbrains.com/lp/compose-mpp): Declarative framework for sharing UIs across multiple platforms. Based on Kotlin and Jetpack Compose. Developed by JetBrains and open-source contributors.
   
@@ -153,7 +159,20 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Tkinter](https://docs.python.org/3/library/tkinter.html): The Tkinter module or "Tk interface" is the standard Python interface to the Tk GUI toolkit. Both Tk and Tkinter are available on most Unix platforms, as well as on Windows systems. Tk itself is not part of Python; it is maintained at ActiveState.
 * [pywebview](https://github.com/r0x0r/pywebview): Build GUI for your Python program with JavaScript, HTML, and CSS.
 * [Pysimplegui](https://www.pysimplegui.com/): PySimpleGUI creates graphical user interfaces (GUIs) using Python, quickly and easily!.
+
+### R
+* [gWidgets](https://cran.r-project.org/src/contrib/Archive/gWidgets/): API for writing graphical user interfaces (GUIs) within R. The package is cross-platform (Linux/Mac/Windows) and cross-toolkit (RGtk2, qtbase, tcltk).
+* [fGui](https://cran.r-project.org/web/packages/fgui/index.html): Rapidly create a GUI interface for a function you created by automatically creating widgets for arguments of the function. Automatically parses help routines for context-sensitive help to these arguments. The interface essentially a wrapper to some Tcl/Tk routines to both simplify and facilitate GUI creation. More advanced Tcl/Tk routines/GUI objects can be incorporated into the interface for greater customization for the more experienced.
+* [Shiny](https://shiny.posit.co/): Easy web apps for data science without the compromises
   
+### Rebol
+* [Native Gui](https://www.rebol.com/r3/docs/gui/gui.html): The primary objectives of the R3 GUI have been clearly stated in prior documents. However, to be sure we're all in sync: the GUI is designed to make simple apps simple, and sophisticated apps possible. That is, you really can write a useful app in just a few lines of GUI dialect, and a full scale app may require just a few dozen pages.
+   
+### [Red](https://www.red-lang.org/p/about.html)
+* [Drawing](https://github.com/red/docs/blob/master/en/draw.adoc): Draw is a dialect (DSL) of Red language that provides a simple declarative way to specify 2D drawing operations. Such operations are expressed as lists of ordered commands (using blocks of values), which can be freely constructed and changed at run-time.
+* [Native GUI](https://github.com/red/docs/blob/master/en/view.adoc): The Red/View (or just View) component is a graphic system for the Red programming language.
+* [Layout](https://github.com/red/docs/blob/master/en/vid.adoc): VID stands for Visual Interface Dialect. Its purpose is to provide a simple dialect (DSL) for describing graphic user interfaces on top of the Red View engine.
+
 ### Ruby
 * [Glimmer](https://github.com/AndyObtiva/glimmer): A Domain-Specific Language & metaframework for building GUI apps using Ruby, with bindings for various GUI libraries and also Web.
 * [qtbindings](https://github.com/ryanmelt/qtbindings): Ruby bindings for Qt.
@@ -193,7 +212,6 @@ There are a number of good reasons to avoid Electron or consider something other
 * [CEF](https://bitbucket.org/%7Bdc443723-7652-4c63-b340-033e522146db%7D/): Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
 * [yue/yue](https://github.com/yue/yue): A library for creating native cross-platform GUI apps.
 * [Godot](https://godotengine.org/): Godot Engine – Multi-platform 2D and 3D game engine.
-* [Red](https://www.red-lang.org/p/about.html): Full-stack lightweight language with [native GUI](https://github.com/red/docs/blob/master/en/view.adoc), [layout](https://github.com/red/docs/blob/master/en/vid.adoc) and [drawing](https://github.com/red/docs/blob/master/en/draw.adoc) DSLs
 * [HaxeUI](http://haxeui.org/) [Haxe](https://haxe.org) based cross platform (desktop, mobile, web) UI framework
 * [HTA/HTML Application](https://en.wikipedia.org/wiki/HTML_Application): HTML Application or "HTA" is a Microsoft Windows program whose source code consists of HTML, Dynamic HTML, and one or more scripting languages supported by Internet Explorer, such as VBScript or JScript. The HTML is used to generate the user interface, and the scripting language is used for the program logic. An HTA executes without the constraints of the internet browser security model; in fact, it executes as a "fully trusted" application.
 
