@@ -1,4 +1,4 @@
-# Contributing to the distrochooser project
+# Contributing to the awesome-electron-alternatives project
 Thank you for your interest in contributing to the awesome-electron-alternatives project 🎉! awesome-electron-alternatives is open for contribution from all people around the world.  Whoever your are and whatever your background: nationality, gender, religion, we welcome you. Things to keep in mind:
 - Show empathy
 - Be patient
