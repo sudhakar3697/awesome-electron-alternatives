@@ -48,8 +48,18 @@ There are a number of good reasons to avoid Electron or consider something other
 * [tiny](https://github.com/Rafi993/tiny): This is a tiny alternative to electron.
 * [UnityHub](https://github.com/Ravbug/UnityHubNative): A native alternative to the heavy Electron Unity Hub, written in C++. UnityHubNative is a lightweight C++ / wxWidgets alternative to the unnecessarily heavy official Unity Hub, built using wxWidgets. This means that, instead of using heavy web components like the official Electron hub, it uses native GUI components on all platforms. It launches many times faster, uses far less memory and CPU, and is a fraction of the total size of the offical Unity Hub.
 
+### Clojure
+* [HumbleUI](https://github.com/HumbleUI/HumbleUI): Humble UI is a desktop UI framework for Clojure. No Electron. No JavaScript. Only JVM and native code.
+
+### Cobol\OpenCobol\NetCOBOL
+* [gtk](https://opencobol.add1tocobol.com/#does-opencobol-support-the-gimp-toolkit-gtk): "Yes. A binding for GTK+ is in the works. Early samples have proven workable and screenshots of OpenCOBOL GUI screens are shown here".
+
 ### Crystal
 * [Crystal Webview](https://github.com/naqvis/webview): Crystal language bindings for [webview](https://github.com/webview/webview), a tiny cross-platform webview library which uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and Edge on Windows 10).
+
+### D
+* [gtkd](https://github.com/gtkd-developers/GtkD): GTK+ is a highly usable, feature rich toolkit for creating graphical user interfaces which boasts cross platform compatibility and an easy to use API.
+* [dwt](https://github.com/d-widget-toolkit/dwt): DWT is a library for creating cross-platform GUI applications. It's a port of the SWT Java library from Eclipse. DWT is compatible with D2 using the standard library (Phobos) and D1 using Tango. Now available on 32 and 64 bit, Linux and Windows.
 
 ### Dart
 * [flutter](https://flutter.dev): Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
@@ -57,8 +67,17 @@ There are a number of good reasons to avoid Electron or consider something other
 ### Delphi
 * [FMX (FireMonkey)](https://www.embarcadero.com/products/rad-studio/fm-application-platform): The FireMonkey® framework is the app development and runtime platform behind RAD Studio, Delphi and C++Builder. FireMonkey is designed for teams building multi-device, true native apps for Windows, OS X, Android and iOS, and getting them to app stores and enterprises fast.
 
+### Elixir
+* [elixir-desktop](https://github.com/elixir-desktop/desktop): Building native-like Elixir apps for Windows, MacOS, Linux, iOS and Android using Phoenix LiveView!
+
 ### Elm
 * [Elm UI](https://elm-ui.netlify.app/): UI library for making web applications with Elm.
+
+### Erlang
+* [erlang](https://github.com/leostera/erlang-gui): An experiment in building high-performance, native graphical user interfaces in Erlang
+
+### F#
+* [Avalonioa FuncUI](https://github.com/fsprojects/Avalonia.FuncUI): Develop cross-plattform GUI Applications using F# and Avalonia!
 
 ### Go
 * [lorca](https://github.com/zserge/lorca): Build cross-platform modern desktop apps in Go + HTML5.
@@ -70,11 +89,11 @@ There are a number of good reasons to avoid Electron or consider something other
 * [guile-webview](https://github.com/KikyTokamuro/guile-webview): Wrapper for using libwebview from GNU Guile.
 
 ### Haskell 
-- [Fudgets](http://www.altocumulus.org/Fudgets/): Fudgets is primarily a Graphical User Interface Toolkit for Haskell and the X Windows system. Fudgets also makes it easy to create client-server applications that communicate via the Internet. It runs on Unix but not on Windows.
-- [Keera Hails](https://github.com/keera-studios/keera-hails/): Keera Hails is a library to connect values that change with one another using rules or relations. Keera Hails is back-end agnostic and not exclusive to GUIs; it has backends for Gtk+ but also hardware (wiimotes), files, sockets and FRP-driven networks (using Yampa), and experimental backends for wx, qt, HTML DOM (using GHCJS) and Android's widget toolkit. It has been used commercially in production in medium-sized applications (10K-20K locs).
-- [Threepenny-gui](https://wiki.haskell.org/Threepenny-gui): Threepenny-gui is a GUI framework that uses the web browser as a display. It supports Functional Reactive Programming.
-- [webviewhs](https://lettier.github.io/webviewhs): webviewhs is a Haskell binding to the webview library created by Serge Zaitsev. This binding allows the creation of rich web-based UI experiences wrapped up in the powerful, type-safe embrace of Haskell. To render the UI it uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and MSHTML (IE10/11) on Windows.
-- [Monomer](https://github.com/fjvallarino/monomer): Monomer is an easy to use, cross platform, GUI library for writing native Haskell applications. It provides a framework similar to the Elm Architecture, allowing the creation of GUIs using an extensible set of widgets with pure Haskell.
+* [Fudgets](http://www.altocumulus.org/Fudgets/): Fudgets is primarily a Graphical User Interface Toolkit for Haskell and the X Windows system. Fudgets also makes it easy to create client-server applications that communicate via the Internet. It runs on Unix but not on Windows.
+* [Keera Hails](https://github.com/keera-studios/keera-hails/): Keera Hails is a library to connect values that change with one another using rules or relations. Keera Hails is back-end agnostic and not exclusive to GUIs; it has backends for Gtk+ but also hardware (wiimotes), files, sockets and FRP-driven networks (using Yampa), and experimental backends for wx, qt, HTML DOM (using GHCJS) and Android's widget toolkit. It has been used commercially in production in medium-sized applications (10K-20K locs).
+* [Threepenny-gui](https://wiki.haskell.org/Threepenny-gui): Threepenny-gui is a GUI framework that uses the web browser as a display. It supports Functional Reactive Programming.
+* [webviewhs](https://lettier.github.io/webviewhs): webviewhs is a Haskell binding to the webview library created by Serge Zaitsev. This binding allows the creation of rich web-based UI experiences wrapped up in the powerful, type-safe embrace of Haskell. To render the UI it uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and MSHTML (IE10/11) on Windows.
+* [Monomer](https://github.com/fjvallarino/monomer): Monomer is an easy to use, cross platform, GUI library for writing native Haskell applications. It provides a framework similar to the Elm Architecture, allowing the creation of GUIs using an extensible set of widgets with pure Haskell.
 
 ### Java
 * [Swing](https://en.wikipedia.org/wiki/Swing_(Java)): Swing is a GUI widget toolkit for Java.[1] It is part of Oracle's Java Foundation Classes (JFC) – an API for providing a graphical user interface (GUI) for Java programs.
@@ -104,9 +123,15 @@ There are a number of good reasons to avoid Electron or consider something other
 ### Julia
 * [MouseTrap](https://github.com/Clemapfel/mousetrap.jl): GUI Engine made for Julia
 
-### Kotlin
+### Kotlin 
 * [Compose Multiplatform](https://www.jetbrains.com/lp/compose-mpp): Declarative framework for sharing UIs across multiple platforms. Based on Kotlin and Jetpack Compose. Developed by JetBrains and open-source contributors.
-  
+
+### Lisp
+* [clog](https://github.com/rabbibotton/clog): The Common Lisp Omnificent GUI, CLOG for short, uses web technology to produce graphical user interfaces for applications locally or remotely. CLOG can take the place, or work alongside, most cross-platform GUI frameworks and website frameworks. The CLOG package starts up the connectivity to the browser or other websocket client (often a browser embedded in a native application.)
+
+### Low-code
+* [outsystems](https://www.outsystems.com/): OutSystems lets you ship more modern apps, faster. It's the enterprise-grade low-code platform for the complex, business-critical apps that matter most to your business.
+
 ### Nim
 - [nimx](https://github.com/yglukhov/nimx): Desktop, Mobile & Web GUI framework in Nim.
 - [NiGui](https://github.com/trustable-code/NiGui): A cross-platform, desktop GUI toolkit.
@@ -131,10 +156,14 @@ There are a number of good reasons to avoid Electron or consider something other
 - [nimetry](https://github.com/refaqtor/nimetry): Simple plotting in pure Nim.
 - [nimgraphviz](https://github.com/Aveheuzed/nimgraphviz): A Nim library for making graphs with GraphViz and DOT.
 
-### No-code\Low-code
+### No-code
 - [Kodular](https://www.kodular.io/): Much more than a modern app creator without coding
 - [Bubble](https://bubble.io/): Design, develop, and launch production-grade applications without code. It doesn't matter if you’re starting out or on an enterprise team — Bubble is for anyone.
 
+### Pascal\FreePascal
+* [fpgui](https://fpgui.sourceforge.net/): fpGUI Toolkit (or the Free Pascal GUI Toolkit) is a multi-platform toolkit for creating graphical user interfaces. Offering a complete set of custom drawn widgets, fpGUI is suitable for projects ranging from small one-off tools to complete application suites.
+* [pascall-webui](https://github.com/webui-dev/pascal-webui): Use any web browser as GUI, with Pascal in the backend and HTML5 in the frontend.
+  
 ### Perl
 * [Gtk](https://metacpan.org/pod/Gtk3): Gtk3 - Perl interface to the 3.x series of the gtk+ toolkit.
 * [Prima](https://metacpan.org/pod/Prima): Prima - a perl graphic toolkit.
@@ -147,6 +176,9 @@ There are a number of good reasons to avoid Electron or consider something other
 * [NativePHP](https://nativephp.com/): NativePHP is a new framework for rapidly building rich, native desktop applications using PHP, HTML, CSS, Javascript.
 * [PHP TkUI](https://github.com/skoro/php-tkui): Build native desktop applications using PHP and Tcl/Tk.
 
+### Prolog
+* [xpce](https://www.swi-prolog.org/packages/xpce/): XPCE is a toolkit for developing graphical applications in Prolog and other interactive and dynamically typed languages. XPCE follows a rather unique approach to developing GUI applications, which we will try to summarise using the points below.
+  
 ### Python
 * [fbs](https://build-system.fman.io): Python and Qt are great for writing lightweight desktop apps. But packaging, installers, code signing and automatic updates are a pain. fbs solves these problems and saves you months of development.
 * [PyQt](https://en.wikipedia.org/wiki/PyQt): PyQt is a Python binding of the cross-platform GUI toolkit Qt, implemented as a Python plug-in. PyQt is free software developed by the British firm Riverbank Computing.
@@ -186,6 +218,9 @@ There are a number of good reasons to avoid Electron or consider something other
 * [revery-ui](https://github.com/revery-ui): Fast, native, cross-platform UI.
 * [tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 
+### Tk\Tcl
+* [Tk\Tcl](https://www.tcl.tk/): Join the many thousands of software developers who are already more productive with help from the Tcl programming language and the Tk graphical user interface toolkit. 
+
 ### V
 * [ui](https://github.com/pisaiah/ui): Isaiah's cross-platform GUI library for V. Inspired by the syntax of Java's Swing.
 * [mui](https://github.com/malisipi/mui): A Cross-Platform UI Library in vlang
@@ -194,7 +229,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [vxui](https://github.com/kbkpbot/vxui): vxui is a cross-platform desktop UI framework which use your browser as screen, and use V lang as backend. It reply on Websocket, no http/https, no web server!
 
 ### Visual programming
-- [Blockly](https://developers.google.com/blockly) Blockly is a visual programming editor by Google that uses drag-and-drop blocks. It's the engine that powers the most popular coding education programs world.
+* [Blockly](https://developers.google.com/blockly) Blockly is a visual programming editor by Google that uses drag-and-drop blocks. It's the engine that powers the most popular coding education programs world.
 
 ## 📖 Related work
 * [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder.
