@@ -63,8 +63,8 @@ There are a number of good reasons to avoid Electron or consider something other
 ### Clojure
 * [HumbleUI](https://github.com/HumbleUI/HumbleUI): Humble UI is a desktop UI framework for Clojure. No Electron. No JavaScript. Only JVM and native code.
 
-### Cobol\OpenCobol\NetCOBOL
-* [gtk](https://opencobol.add1tocobol.com/#does-opencobol-support-the-gimp-toolkit-gtk): "Yes. A binding for GTK+ is in the works. Early samples have proven workable and screenshots of OpenCOBOL GUI screens are shown here".
+### Cobol
+* [cobol-sp2](https://flexus.com/cobol-sp2/): COBOL sp2 is a Graphical User Interface (GUI) Development tool which was designed specifically for professional COBOL programmers.  COBOL sp2 allows you to add a GUI interface to your COBOL application using 100% native COBOL CALL USING statements and Working Storage parameters.
 
 ### Crystal
 * [Crystal Webview](https://github.com/naqvis/webview): Crystal language bindings for [webview](https://github.com/webview/webview), a tiny cross-platform webview library which uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and Edge on Windows 10).
