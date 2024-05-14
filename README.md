@@ -294,7 +294,7 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on this project. If
 
 
 ## 🔗 Bibliography
-The opinions contained in the articles linked to the "notes section" of this repository do not necessarily reflect the opinion of the repository maintainer nor of those who maintain and manage the technologies mentioned as an alternative to electron-js. That said, consider read this:
+The opinions contained in the articles linked to the "bibliography section" of this repository do not necessarily reflect the opinion of the repository maintainer nor of those who maintain and manage the technologies mentioned as an alternative to electron-js. That said, consider read this:
 
 - *Chilid.* (2017). **[The Myth of real
 frontend developer](https://medium.com/@Chilid/the-myth-of-real-frontend-developer-67b1ad6ae446)**. In: Chilid, Medium. 
