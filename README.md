@@ -322,7 +322,7 @@ is a Necessary Evil](https://federicoterzi.com/blog/why-electron-is-a-necessary-
 on FedericoTerzi-Blog, January 20, 2021. FedericoTerzi-Blog. 
 
 - *Bogdan Rusinka.* (2017). **[Things to love
-and hate in Electron](https://binary-studio.com/blog/2017/09/12/love-hate-electron/)**. In: Bogdan Rusinka,  Binary-Studio. 
+and hate in Electron-js](https://binary-studio.com/blog/2017/09/12/love-hate-electron/)**. In: Bogdan Rusinka,  Binary-Studio. 
 (eds) Things to love and hate in Electron-js. Binary-Studio 2017. Bogdan Rusinka Articles 
 on Binary-Studio, September 12, 2017. Binary-Studio. 
 
