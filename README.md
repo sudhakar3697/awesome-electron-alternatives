@@ -38,6 +38,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [foton](https://github.com/integrativesoft/foton): Prototype for an Electron alternative written in C# by Integrative Software LLC and contributors.
 
 ### C/C++
+* [Godot](https://github.com/godotengine/godot): Godot Engine, Multi-platform 2D and 3D game engine.
 * [Qt](https://www.qt.io): Qt (pronounced "cute") is free and open-source cross-platform software for creating graphical user interfaces as well as cross-platform applications.
 * [wxWidgets](https://wxwidgets.org): wxWidgets is a C++ library that lets developers create applications for Windows, macOS, Linux and other platforms with a single code base. It has popular language bindings for Python, Ruby, Lua, Perl and several other languages.
 * [sciter](https://sciter.com): Embeddable HTML/CSS/JavaScript engine for modern UI development.
@@ -47,6 +48,8 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Saucer](https://github.com/saucer/saucer): 🛸 Next-gen desktop apps with web-frontend in C++.
 * [tiny](https://github.com/Rafi993/tiny): This is a tiny alternative to electron.
 * [UnityHub](https://github.com/Ravbug/UnityHubNative): A native alternative to the heavy Electron Unity Hub, written in C++. UnityHubNative is a lightweight C++ / wxWidgets alternative to the unnecessarily heavy official Unity Hub, built using wxWidgets. This means that, instead of using heavy web components like the official Electron hub, it uses native GUI components on all platforms. It launches many times faster, uses far less memory and CPU, and is a fraction of the total size of the offical Unity Hub.
+* [yue/yue](https://github.com/yue/yue): A library for creating native cross-platform GUI apps.
+* [jscherer92/Quark](https://github.com/jscherer92/Quark): Create Applications with browser technologies using the native engine in your OS.
 
 ### Clojure
 * [HumbleUI](https://github.com/HumbleUI/HumbleUI): Humble UI is a desktop UI framework for Clojure. No Electron. No JavaScript. Only JVM and native code.
@@ -95,6 +98,9 @@ There are a number of good reasons to avoid Electron or consider something other
 * [webviewhs](https://lettier.github.io/webviewhs): webviewhs is a Haskell binding to the webview library created by Serge Zaitsev. This binding allows the creation of rich web-based UI experiences wrapped up in the powerful, type-safe embrace of Haskell. To render the UI it uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and MSHTML (IE10/11) on Windows.
 * [Monomer](https://github.com/fjvallarino/monomer): Monomer is an easy to use, cross platform, GUI library for writing native Haskell applications. It provides a framework similar to the Elm Architecture, allowing the creation of GUIs using an extensible set of widgets with pure Haskell.
 
+### [Haxe](https://haxe.org) 
+* [HaxeUI](http://haxeui.org/): Cross platform (desktop, mobile, web) UI framework written in haxe
+
 ### Java
 * [Swing](https://en.wikipedia.org/wiki/Swing_(Java)): Swing is a GUI widget toolkit for Java.[1] It is part of Oracle's Java Foundation Classes (JFC) – an API for providing a graphical user interface (GUI) for Java programs.
 * [OpenJFX or JavaFX](https://openjfx.io/): JavaFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java. It is a collaborative effort by many individuals and companies with the goal of producing a modern, efficient, and fully featured toolkit for developing rich client applications.
@@ -125,6 +131,9 @@ There are a number of good reasons to avoid Electron or consider something other
 
 ### Kotlin 
 * [Compose Multiplatform](https://www.jetbrains.com/lp/compose-mpp): Declarative framework for sharing UIs across multiple platforms. Based on Kotlin and Jetpack Compose. Developed by JetBrains and open-source contributors.
+
+### [Livecode](https://livecode.com)
+[Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder.
 
 ### Lisp
 * [clog](https://github.com/rabbibotton/clog): The Common Lisp Omnificent GUI, CLOG for short, uses web technology to produce graphical user interfaces for applications locally or remotely. CLOG can take the place, or work alongside, most cross-platform GUI frameworks and website frameworks. The CLOG package starts up the connectivity to the browser or other websocket client (often a browser embedded in a native application.)
@@ -196,7 +205,10 @@ There are a number of good reasons to avoid Electron or consider something other
 * [gWidgets](https://cran.r-project.org/src/contrib/Archive/gWidgets/): API for writing graphical user interfaces (GUIs) within R. The package is cross-platform (Linux/Mac/Windows) and cross-toolkit (RGtk2, qtbase, tcltk).
 * [fGui](https://cran.r-project.org/web/packages/fgui/index.html): Rapidly create a GUI interface for a function you created by automatically creating widgets for arguments of the function. Automatically parses help routines for context-sensitive help to these arguments. The interface essentially a wrapper to some Tcl/Tk routines to both simplify and facilitate GUI creation. More advanced Tcl/Tk routines/GUI objects can be incorporated into the interface for greater customization for the more experienced.
 * [Shiny](https://shiny.posit.co/): Easy web apps for data science without the compromises
-  
+
+### Reason
+* [REVERY](https://github.com/revery-ui/revery): Fast, native, cross-platform UI.
+
 ### Rebol
 * [Native Gui](https://www.rebol.com/r3/docs/gui/gui.html): The primary objectives of the R3 GUI have been clearly stated in prior documents. However, to be sure we're all in sync: the GUI is designed to make simple apps simple, and sophisticated apps possible. That is, you really can write a useful app in just a few lines of GUI dialect, and a full scale app may require just a few dozen pages.
    
@@ -212,11 +224,14 @@ There are a number of good reasons to avoid Electron or consider something other
 * [ruby-gnome](https://github.com/ruby-gnome/ruby-gnome): Ruby bindings from GNOME/GTK3.
 * [JRubyFX](https://github.com/jruby/jrubyfx): JRuby wrapper on JavaFX.
 * [traveling-ruby](https://github.com/phusion/traveling-ruby): Runtime to bundle Ruby applications into executables.
-  
+
 ### Rust
 * [gtk-rs](https://github.com/gtk-rs): Rust bindings for GTK.
 * [revery-ui](https://github.com/revery-ui): Fast, native, cross-platform UI.
 * [tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
+
+### Scheme
+* [LambdaNative](https://github.com/part-cw/lambdanative): LambdaNative is freely available under the BSD license, extensively documented, and hosted on GitHub. LambdaNative builds native applications on a wide range of platforms including iOS, Android, Blackberry, OS X, Linux, Windows, OpenBSD, NetBSD, FreeBSD and OpenWrt, from a single source code.
 
 ### Tk\Tcl
 * [Tk\Tcl](https://www.tcl.tk/): Join the many thousands of software developers who are already more productive with help from the Tcl programming language and the Tk graphical user interface toolkit. 
@@ -231,35 +246,23 @@ There are a number of good reasons to avoid Electron or consider something other
 ### Visual programming
 * [Blockly](https://developers.google.com/blockly) Blockly is a visual programming editor by Google that uses drag-and-drop blocks. It's the engine that powers the most popular coding education programs world.
 
+### [Xojo](https://www.xojo.com)
+* [Xojo](https://documentation.xojo.com/getting_started/using_the_xojo_language/index.html): Object-Oriented Programming, Build Native, Cross-Platform Apps.Rapid application development for Desktop, Web, Mobile & Raspberry Pi.
+
 ## 📖 Related work
-* [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder.
-* [Positron](https://github.com/kendofriendo/positron): List of electron apps so I can avoid them, and some alternatives to use instead
+* [Awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking): A curated list of awesome resources about Electron.js (in)security
 * [Awesome Alternatives to Electron Apps](https://github.com/konchunas/awesome-alternatives-to-electron-apps): Electron is an application platform which spreads like a cancer in software development world making your immensely powerful computer feel slow and laggy. Sometimes apps made in Electron are useful, though. This list contains good alternatives to an memory hungry eco-unfriendly Electron software.
 * [Comparison of Browser Engines](https://en.wikipedia.org/wiki/Comparison_of_browser_engines): A browser engine (also known as a layout engine or rendering engine) is a core software component of every major web browser. The primary job of a browser engine is to transform HTML documents and other resources of a web page into an interactive visual representation on a user's device. Besides "browser engine", two other related terms are commonly used: "layout engine" and "rendering engine". In theory, layout and rendering (or "painting") could be handled by different engines. In practice, however, these components are tightly coupled and rarely encountered on their own outside of the browser engine.
+* [Positron](https://github.com/kendofriendo/positron): List of electron apps so I can avoid them, and some alternatives to use instead
 * [Web To Desktop Framework Comparasion](https://github.com/Elanis/web-to-desktop-framework-comparison): This repository was made to create an objective comparison of multiple framework that grant us to "transform" our web app to desktop application formats.
-* [Awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking): A curated list of awesome resources about Electron.js (in)security
-* [Qt](https://www.qt.io): Qt (pronounced "cute") is free and open-source cross-platform software for creating graphical user interfaces as well as cross-platform applications
-* [jscherer92/Quark](https://github.com/jscherer92/Quark): Create Applications with browser technologies using the native engine in your OS.
-* [Xojo](https://www.xojo.com): Build Native, Cross-Platform Apps.Rapid application development for Desktop, Web, Mobile & Raspberry Pi.
-* [LambdaNative](http://www.lambdanative.org): LambdaNative is freely available under the BSD license, extensively documented, and hosted on GitHub. LambdaNative builds native applications on a wide range of platforms including iOS, Android, Blackberry, OS X, Linux, Windows, OpenBSD, NetBSD, FreeBSD and OpenWrt, from a single source code.
-* [REVERY](https://www.outrunlabs.com/revery): Fast, native, cross-platform UI.
 * [8th](https://8th-dev.com/index.html): 8th lets you use your preferred platform to write and test your code. With one click, you generate the executables for any platform 8th supports, from any platform it supports!.
-* [CEF](https://bitbucket.org/%7Bdc443723-7652-4c63-b340-033e522146db%7D/): Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
-* [yue/yue](https://github.com/yue/yue): A library for creating native cross-platform GUI apps.
-* [Godot](https://godotengine.org/): Godot Engine – Multi-platform 2D and 3D game engine.
-* [HaxeUI](http://haxeui.org/) [Haxe](https://haxe.org) based cross platform (desktop, mobile, web) UI framework
-* [HTA/HTML Application](https://en.wikipedia.org/wiki/HTML_Application): HTML Application or "HTA" is a Microsoft Windows program whose source code consists of HTML, Dynamic HTML, and one or more scripting languages supported by Internet Explorer, such as VBScript or JScript. The HTML is used to generate the user interface, and the scripting language is used for the program logic. An HTA executes without the constraints of the internet browser security model; in fact, it executes as a "fully trusted" application.
+* [CEF](https://bitbucket.org/chromiumembedded/workspace/repositories/): Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
 
 ## 📚 Notes
-This list is provided for informational purposes. The inclusion of any programming language or tool as an alternative to electron-js does not imply endorsement or recommendation. Users are advised to conduct their own research before choosing a programming language or alternative to electron-js for their specific needs.
-
-Consider **Progressive Web Apps** [PWA](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions.
-
-> "Progressive Web Apps might not be able to replace every kind of native application, but they can be viable replacements for some apps written with the Electron web wrapper technology". For more info:
-https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now-a-progressive-web-app/
-
-See this: [Blazor](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx), [ElectronCGI](https://www.npmjs.com/package/electron-cgi).
-
+* This list is provided for informational purposes. The inclusion of any programming language or tool as an alternative to electron-js does not imply endorsement or recommendation. Users are advised to conduct their own research before choosing a programming language or alternative to electron-js for their specific needs. That said, consider these alternatives:
+ * **[HTA/HTML Application](https://en.wikipedia.org/wiki/HTML_Application):** *"HTML Application or "HTA" is a Microsoft Windows program whose source code consists of HTML, Dynamic HTML, and one or more scripting languages supported by Internet Explorer, such as VBScript or JScript. The HTML is used to generate the user interface, and the scripting language is used for the program logic. An HTA executes without the constraints of the internet browser security model; in fact, it executes as a "fully trusted" application."*
+ * **Progressive Web Apps:** [PWA](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions. For more info see this: [Blazor](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx), [ElectronCGI](https://www.npmjs.com/package/electron-cgi) and this info *"Progressive Web Apps might not be able to replace every kind of native application, but they can be viable replacements for some apps written with the Electron web wrapper technology"* [here](https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now-a-progressive-web-app/).
+  
 ##  ❤ Contributions
 awesome-electron-alternatives is open to contributions, but I recommend creating an issue or replying in a comment to let me know what you are working on first that way we don't overwrite each other.
 
