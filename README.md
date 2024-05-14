@@ -260,7 +260,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Xojo](https://documentation.xojo.com/getting_started/using_the_xojo_language/index.html): Object-Oriented Programming, Build Native, Cross-Platform Apps.Rapid application development for Desktop, Web, Mobile & Raspberry Pi.
 * [Tk\Tcl](https://www.tcl.tk/): Join the many thousands of software developers who are already more productive with help from the Tcl programming language and the Tk graphical user interface toolkit. 
 * [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder.
-* [outsystems](https://www.outsystems.com/): OutSystems lets you ship more modern apps, faster. It's the enterprise-grade low-code platform for the complex, business-critical apps that matter most to your business.
+* [outsystems](https://www.outsystems.com/): Development platform. OutSystems lets you ship more modern apps, faster. It's the enterprise-grade low-code platform for the complex, business-critical apps that matter most to your business.
 
 ## 📖 Related work
 * [Awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking): A curated list of awesome resources about Electron.js (in)security
