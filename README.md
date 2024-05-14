@@ -329,3 +329,8 @@ on FedericoTerzi-Blog, January 20, 2021. FedericoTerzi-Blog.
 and hate in Electron-js](https://binary-studio.com/blog/2017/09/12/love-hate-electron/)**. In: Bogdan Rusinka,  Binary-Studio. 
 (eds) Things to love and hate in Electron-js. Binary-Studio 2017. Bogdan Rusinka Articles 
 on Binary-Studio, September 12, 2017. Binary-Studio.
+
+- *Niklaus Wirth.* (1995). **[A plea for lean
+software](https://ieeexplore.ieee.org/document/348001)**. In: Niklaus Wirth, IEEE. 
+(eds) A plea for lean software. A plea for lean software 1995. Niklaus Wirth Articles 
+on IEEE(Computer), February 12, 1995. IEEE, Computer ( Volume: 28, Issue: 2, February 1995).
