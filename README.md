@@ -23,14 +23,14 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Minimal resources](https://github.com/Elanis/web-to-desktop-framework-comparison)
 * You don't like the idea of a monopoly on software development whether through some framework, programming language, community, technology, company, operating system or on a specific software license
 * You use a js runtime like deno, baun or another that does not work correctly in Electron-js. Or you created a specific JS runtime that doesn't work with Electron-JS.
-* You want to create your own development platform like nocode, lowcode, cross-platform or multi-platform. Or feel trapped, pressured into one or more of these types of development platforms as Baserow, Airtable, Bubble, Rows, Seatable, Nocodb, Kodular, Outsystems, DBDiagram... or most of these development platforms work online on the web and are cross-platform, there is not much need to have a desktop version.
+* You want to create your own development platform like nocode(Kodular, Bubble), lowcode(Outsystems), cross-platform(React-Native, Ionic ...). Or feel trapped, pressured into one or more of these types of development platforms as Baserow, Airtable, Nocodb ... or most of these development platforms work online on the web and are cross-platform, there is not much need to have a desktop version.
 * There are several rendering engines(gecko, khtml ...) or operating systems(haiku, amiga-os, redox-os ...) that electron-js does not support
 * You do not agree with the software license provided by electron-js or the way electron-js is built
 * You work with cloud computing models or specific business models, such as serverless, Astra DB (database as a service), backend as a service, mobile as a service, frontend as a service, open core, freepremium, subscription model ... and most of these cloud computing models or business models work online on the web and are cross-platform. There is not much need to have a desktop version too.
-* you like or prefer the visual programming paradigm (this includes solutions or technologies like development platform, programming language as elm, python, v, blockly, 8th, xojo, tk\tcl, livecode, Microsoft Visual Programming Language (VPL), WPF/Windows Forms or libs design, ui/ux, prototype as bulma, bootstrap ...). Or you like or prefer the dataflow programming paradigm as R, Julia, Prograph, Joule ...
+*  Programming paradigm: you or your software development team are locked into a narrow set of solutions or technologies, such as frameworks, development platform, or programming language. Something like the visual(8th, Xojo, Livecode...), business-oriented(cobol, opencobol, netcobol, delphi, dbdiagram...) or dataflow paradigm(r, julia, prograph, joule ...)
 * It is possible to develop games with Electron-js, but for good game development it is not recommended
 * create data analysis and statistics with js libraries and electron-js for dashboards, however it is also not recommended 
-
+  
 ## 👓 Alternatives to the [Electron.js](https://electronjs.org) ⚛
 
 ### C#(.Net)
