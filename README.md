@@ -36,6 +36,12 @@ There are a number of good reasons to avoid Electron or consider something other
 * [SpiderEye](https://github.com/JBildstein/SpiderEye): Cross platform .Net Core applications with a webview UI.
 * [Photino.NET](https://github.com/tryphotino/photino.NET): Photino uses the OSs built-in WebKit-based browser control for Windows, macOS and Linux. Photino is the lightest cross-platform framework. Compared to Electron, a Photino app is up to 110 times smaller! And it uses far less system memory too!.
 * [foton](https://github.com/integrativesoft/foton): Prototype for an Electron alternative written in C# by Integrative Software LLC and contributors.
+* [cefglue\.Net (CEF1)](https://github.com/OutSystems/CefGlue): .NET binding for The Chromium Embedded Framework (CEF)
+* [CefGlue.Core](https://github.com/VitalElement/CefGlue.Core): Port of CefGlue to .net Core
+* [CefGlueHeadless](https://github.com/alexsaves/CefGlueHeadless): Example of how you could use Cef and CefGlue to create a simplified headless browser for testing, screenshotting, or video capture.
+* [WebView](https://github.com/OutSystems/WebView): Avalonia/WPF control that wraps CefGlue webview control
+* [cefglue\.Net/Mono (CEF3)](https://gitlab.com/xiliumhq/chromiumembedded/cefglue): .NET/Mono binding for The Chromium Embedded Framework (CEF)
+* [CefSharp\.Net (CEF3)](https://github.com/cefsharp/CefSharp): .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
 
 ### C/C++
 * [Godot](https://github.com/godotengine/godot): Godot Engine, Multi-platform 2D and 3D game engine.
@@ -68,6 +74,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [flutter](https://flutter.dev): Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
 
 ### Delphi
+* [CEF4Delphi](https://github.com/salvadordf/CEF4Delphi): CEF4Delphi is an open source project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows, Linux and MacOS.
 * [FMX (FireMonkey)](https://www.embarcadero.com/products/rad-studio/fm-application-platform): The FireMonkey® framework is the app development and runtime platform behind RAD Studio, Delphi and C++Builder. FireMonkey is designed for teams building multi-device, true native apps for Windows, OS X, Android and iOS, and getting them to app stores and enterprises fast.
 
 ### Elixir
@@ -85,6 +92,8 @@ There are a number of good reasons to avoid Electron or consider something other
 ### Go
 * [lorca](https://github.com/zserge/lorca): Build cross-platform modern desktop apps in Go + HTML5.
 * [wails](https://github.com/wailsapp/wails): Create beautiful applications using Go.
+* [cef2go](https://github.com/CzarekTomczak/cef2go):
+* [energy]( https://github.com/energye/energy):
 * [muon](https://github.com/ImVexed/muon): Lightweight alternative to Electron written in Golang in about ~300 LoC, using Ultralight instead of Chromium.
 
 ### Guile
@@ -102,6 +111,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [HaxeUI](http://haxeui.org/): Cross platform (desktop, mobile, web) UI framework written in haxe
 
 ### Java
+* [java-cef](https://bitbucket.org/chromiumembedded/java-cef): Java Chromium Embedded Framework (JCEF). A simple framework for embedding Chromium-based browsers in other applications using the Java programming language.
 * [Swing](https://en.wikipedia.org/wiki/Swing_(Java)): Swing is a GUI widget toolkit for Java.[1] It is part of Oracle's Java Foundation Classes (JFC) – an API for providing a graphical user interface (GUI) for Java programs.
 * [OpenJFX or JavaFX](https://openjfx.io/): JavaFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java. It is a collaborative effort by many individuals and companies with the goal of producing a modern, efficient, and fully featured toolkit for developing rich client applications.
 * [webview](https://github.com/ronysfreitas/webview): Template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app.
@@ -174,7 +184,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [pascall-webui](https://github.com/webui-dev/pascal-webui): Use any web browser as GUI, with Pascal in the backend and HTML5 in the frontend.
   
 ### Perl
-* [Gtk](https://metacpan.org/pod/Gtk3): Gtk3 - Perl interface to the 3.x series of the gtk+ toolkit.
+* [Gtk](https://metacpan.org/pod/Gtk3): Gtk3, Perl interface to the 3.x series of the gtk+ toolkit.
 * [Prima](https://metacpan.org/pod/Prima): Prima - a perl graphic toolkit.
 * [Perl Executing Browser](https://github.com/ddmitov/perl-executing-browser): Perl Executing Browser (PEB) is an HTML user interface for Perl 5 desktop applications. It is a C++ Qt 5 application running local Perl scripts as child processes without server. Inspired by Electron and NW.js, PEB is another reuse of web technologies in desktop applications with Perl doing the heavy lifting instead of Node.js.
 * [Tk](https://metacpan.org/dist/Tk): Perl/Tk is an extension for writing Perl programs with a Graphical User Interface (GUI) on both Unix and Windows 95/NT. Tk was originally developed as an extension to the Tcl language, for use with the X Window System on Unix.
@@ -189,6 +199,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [xpce](https://www.swi-prolog.org/packages/xpce/): XPCE is a toolkit for developing graphical applications in Prolog and other interactive and dynamically typed languages. XPCE follows a rather unique approach to developing GUI applications, which we will try to summarise using the points below.
   
 ### Python
+* [cefpython](https://github.com/cztomczak/cefpython): Python bindings for the Chromium Embedded Framework (CEF)
 * [fbs](https://build-system.fman.io): Python and Qt are great for writing lightweight desktop apps. But packaging, installers, code signing and automatic updates are a pain. fbs solves these problems and saves you months of development.
 * [PyQt](https://en.wikipedia.org/wiki/PyQt): PyQt is a Python binding of the cross-platform GUI toolkit Qt, implemented as a Python plug-in. PyQt is free software developed by the British firm Riverbank Computing.
 * [PySide](https://doc.qt.io/qtforpython-6/quickstart.html): PySide is a Python binding of the cross-platform GUI toolkit Qt.
@@ -249,19 +260,21 @@ There are a number of good reasons to avoid Electron or consider something other
 ### [Xojo](https://www.xojo.com)
 * [Xojo](https://documentation.xojo.com/getting_started/using_the_xojo_language/index.html): Object-Oriented Programming, Build Native, Cross-Platform Apps.Rapid application development for Desktop, Web, Mobile & Raspberry Pi.
 
+### 8th™
+* [8th](https://8th-dev.com/index.html): 8th™ is a secure, robust, cross-platform, and  fun programming language. 8th lets you use your preferred platform to write and test your code. With one click, you generate the executables for any platform 8th supports, from any platform it supports.
+  
 ## 📖 Related work
 * [Awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking): A curated list of awesome resources about Electron.js (in)security
-* [Awesome Alternatives to Electron Apps](https://github.com/konchunas/awesome-alternatives-to-electron-apps): Electron is an application platform which spreads like a cancer in software development world making your immensely powerful computer feel slow and laggy. Sometimes apps made in Electron are useful, though. This list contains good alternatives to an memory hungry eco-unfriendly Electron software.
-* [Comparison of Browser Engines](https://en.wikipedia.org/wiki/Comparison_of_browser_engines): A browser engine (also known as a layout engine or rendering engine) is a core software component of every major web browser. The primary job of a browser engine is to transform HTML documents and other resources of a web page into an interactive visual representation on a user's device. Besides "browser engine", two other related terms are commonly used: "layout engine" and "rendering engine". In theory, layout and rendering (or "painting") could be handled by different engines. In practice, however, these components are tightly coupled and rarely encountered on their own outside of the browser engine.
 * [Positron](https://github.com/kendofriendo/positron): List of electron apps so I can avoid them, and some alternatives to use instead
-* [Web To Desktop Framework Comparasion](https://github.com/Elanis/web-to-desktop-framework-comparison): This repository was made to create an objective comparison of multiple framework that grant us to "transform" our web app to desktop application formats.
-* [8th](https://8th-dev.com/index.html): 8th lets you use your preferred platform to write and test your code. With one click, you generate the executables for any platform 8th supports, from any platform it supports!.
-* [CEF](https://bitbucket.org/chromiumembedded/workspace/repositories/): Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
-
+* [Awesome Alternatives to Electron Apps](https://github.com/konchunas/awesome-alternatives-to-electron-apps): Good alternatives to an memory hungry eco-unfriendly Electron software.
+* [Comparison of Browser Engines](https://en.wikipedia.org/wiki/Comparison_of_browser_engines): A browser engine (also known as a layout engine or rendering engine) is a core software component of every major web browser. The primary job of a browser engine is to transform HTML documents and other resources of a web page into an interactive visual representation on a user's device. Besides "browser engine", two other related terms are commonly used: "layout engine" and "rendering engine". In theory, layout and rendering (or "painting") could be handled by different engines. In practice, however, these components are tightly coupled and rarely encountered on their own outside of the browser engine.
+* [Web To Desktop Framework Comparasion](https://github.com/Elanis/web-to-desktop-framework-comparison): Objective comparison of multiple framework that grant us to "transform" our web app to desktop application formats.
+* [CEF](https://bitbucket.org/chromiumembedded/workspace/repositories/): Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications written in Java, .Net/Mono, Delphi, Go, Python, Avalonia/WPF.
+  
 ## 📚 Notes
-* This list is provided for informational purposes. The inclusion of any programming language or tool as an alternative to electron-js does not imply endorsement or recommendation. Users are advised to conduct their own research before choosing a programming language or alternative to electron-js for their specific needs. That said, consider these alternatives:
- * **[HTA/HTML Application](https://en.wikipedia.org/wiki/HTML_Application):** *"HTML Application or "HTA" is a Microsoft Windows program whose source code consists of HTML, Dynamic HTML, and one or more scripting languages supported by Internet Explorer, such as VBScript or JScript. The HTML is used to generate the user interface, and the scripting language is used for the program logic. An HTA executes without the constraints of the internet browser security model; in fact, it executes as a "fully trusted" application."*
- * **Progressive Web Apps:** [PWA](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions. For more info see this: [Blazor](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx), [ElectronCGI](https://www.npmjs.com/package/electron-cgi) and this info *"Progressive Web Apps might not be able to replace every kind of native application, but they can be viable replacements for some apps written with the Electron web wrapper technology"* [here](https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now-a-progressive-web-app/).
+This list is provided for informational purposes. The inclusion of any programming language or tool as an alternative to electron-js does not imply endorsement or recommendation. Users are advised to conduct their own research before choosing a programming language or alternative to electron-js for their specific needs. That said, consider these alternatives:
+* **[HTA/HTML Application](https://en.wikipedia.org/wiki/HTML_Application):** *"HTML Application or "HTA" is a Microsoft Windows program whose source code consists of HTML, Dynamic HTML, and one or more scripting languages supported by Internet Explorer, such as VBScript or JScript. The HTML is used to generate the user interface, and the scripting language is used for the program logic. An HTA executes without the constraints of the internet browser security model; in fact, it executes as a "fully trusted" application."*
+* **Progressive Web Apps:** [PWA](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions. For more info see this: [Blazor](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx), [ElectronCGI](https://www.npmjs.com/package/electron-cgi) and this info *"Progressive Web Apps might not be able to replace every kind of native application, but they can be viable replacements for some apps written with the Electron web wrapper technology"* [here](https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now-a-progressive-web-app/).
   
 ##  ❤ Contributions
 awesome-electron-alternatives is open to contributions, but I recommend creating an issue or replying in a comment to let me know what you are working on first that way we don't overwrite each other.
