@@ -292,6 +292,10 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on this project. If
 * Electron-alternatives is licensed with MIT by sudhakar3697 and contributors.
 * The logo of this project is authored, created or licensed by the Electron-js community (brand, open source project), but has no direct relationship with this repository.
 
+## 🙌 Contributors
+<a href="https://github.com/sudhakar3697/electron-alternatives/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sudhakar3697/electron-alternatives"/>
+</a>
 
 ## 🔗 Bibliography
 The opinions contained in the articles linked to the "bibliography section" of this repository do not necessarily reflect the opinion of the repository maintainer nor of those who maintain and manage the technologies mentioned as an alternative to electron-js. That said, consider read this:
@@ -324,9 +328,4 @@ on FedericoTerzi-Blog, January 20, 2021. FedericoTerzi-Blog.
 - *Bogdan Rusinka.* (2017). **[Things to love
 and hate in Electron-js](https://binary-studio.com/blog/2017/09/12/love-hate-electron/)**. In: Bogdan Rusinka,  Binary-Studio. 
 (eds) Things to love and hate in Electron-js. Binary-Studio 2017. Bogdan Rusinka Articles 
-on Binary-Studio, September 12, 2017. Binary-Studio. 
-
-## 🙌 Contributors
-<a href="https://github.com/sudhakar3697/electron-alternatives/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sudhakar3697/electron-alternatives"/>
-</a>
+on Binary-Studio, September 12, 2017. Binary-Studio.
