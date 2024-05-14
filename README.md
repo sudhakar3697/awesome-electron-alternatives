@@ -21,13 +21,11 @@ There are a number of good reasons to avoid Electron or consider something other
 * We would already have a web component in the system that can be used.
 * Electron apps cannot be submitted to the [Apple store](https://news.ycombinator.com/item?id=21437255)
 * [Minimal resources](https://github.com/Elanis/web-to-desktop-framework-comparison)
-* You don't like the idea of a monopoly on software development whether through some framework, programming language, community, technology, company, operating system or on a specific software license
-* You use a js runtime like deno, baun or another that does not work correctly in Electron-js. Or you created a specific JS runtime that doesn't work with Electron-JS.
-* You want to create your own development platform like nocode(Kodular, Bubble), lowcode(Outsystems), cross-platform(React-Native, Ionic ...). Or feel trapped, pressured into one or more of these types of development platforms as Baserow, Airtable, Nocodb ... or most of these development platforms work online on the web and are cross-platform, there is not much need to have a desktop version.
-* There are several rendering engines(gecko, khtml ...) or operating systems(haiku, amiga-os, redox-os ...) that electron-js does not support
-* You do not agree with the software license provided by electron-js or the way electron-js is built
+* You don't like the idea of a monopoly on software development whether through some framework, programming language, community, technology, company, operating system or on a specific software license. Or you are a curious person who always wants to learn something new. Or you use a js runtime like deno, baun or another that does not work correctly in electron-js. Or you created a specific JS runtime that doesn't work with electron-js.
+* You want to create your own development platform like nocode(Kodular, Bubble...), lowcode(Zoho Creator, Outsystems...)... Or you feel stuck, pressured into one or more of these types of development platforms. Or most of these development platforms work online on the web and are cross-platform, there is not much need to have a desktop version. So you feel unmotivated to create a desktop solution with electron-js or any similar framework, because you are used to the user experience on websites, webapps and applications on smartphones.
+* There are several rendering engines(gecko, khtml ...) or operating systems(haiku, amiga-os, redox-os ...) that electron-js does not support. And If you want to use these rendering engines or operating systems you would have to do a lot of portability work. Furthermore, you do not agree with the software license provided by electron-js or the way electron-js is built. 
 * You work with cloud computing models or specific business models, such as serverless, Astra DB (database as a service), backend as a service, mobile as a service, frontend as a service, open core, freepremium, subscription model ... and most of these cloud computing models or business models work online on the web and are cross-platform. There is not much need to have a desktop version too.
-*  Programming paradigm: you or your software development team are locked into a narrow set of solutions or technologies, such as frameworks, development platform, or programming language. Something like the visual(8th, Xojo, Livecode...), business-oriented(cobol, opencobol, netcobol, delphi, dbdiagram...) or dataflow paradigm(r, julia, prograph, joule ...)
+*  You or your software development team are locked into a narrow set of solutions, frameworks, softwares, development platforms, programming paradigms(dataflow, visual, business oriented), technologies or programming language such as 8th, Xojo, Livecode, cobol, opencobol, netcobol, delphi, dbdiagram, r, julia, prograph, joule ...
 * It is possible to develop games with Electron-js, but for good game development it is not recommended
 * create data analysis and statistics with js libraries and electron-js for dashboards, however it is also not recommended 
   
@@ -74,6 +72,21 @@ There are a number of good reasons to avoid Electron or consider something other
 ### D
 * [gtkd](https://github.com/gtkd-developers/GtkD): GTK+ is a highly usable, feature rich toolkit for creating graphical user interfaces which boasts cross platform compatibility and an easy to use API.
 * [dwt](https://github.com/d-widget-toolkit/dwt): DWT is a library for creating cross-platform GUI applications. It's a port of the SWT Java library from Eclipse. DWT is compatible with D2 using the standard library (Phobos) and D1 using Tango. Now available on 32 and 64 bit, Linux and Windows.
+
+### Development platform
+#### No-code
+* [Kodular](https://www.kodular.io/): Much more than a modern app creator without coding.
+* [Bubble](https://bubble.io/): Design, develop, and launch production-grade applications without code.
+* [Blockly](https://developers.google.com/blockly) Blockly is a visual programming editor by Google that uses drag-and-drop blocks. It's the engine that powers the most popular coding education programs world.
+
+#### Low-code
+* [Zoho Creator](https://www.zoho.com/creator/): Build self-service portals that can empower customers, vendors, and business partners who need a single point of access to your products, services, and information.
+* [Power Apps](https://www.microsoft.com/en-us/power-platform/products/power-apps): Deliver apps embedded with AI to modernize your legacy applications and systems fast.
+* [Outsystems](https://www.outsystems.com/): Development platform. OutSystems lets you ship more modern apps, faster. It's the enterprise-grade low-code platform for the complex, business-critical apps that matter most to your business.
+
+#### High-level
+* [8th](https://8th-dev.com/index.html): 8th™ is a secure, robust, cross-platform, and  fun programming language. 8th lets you use your preferred platform to write and test your code. With one click, you generate the executables for any platform 8th supports, from any platform it supports.
+* [Xojo](https://documentation.xojo.com/getting_started/using_the_xojo_language/index.html): Object-Oriented Programming, Build Native, Cross-Platform Apps.Rapid application development for Desktop, Web, Mobile & Raspberry Pi.
 
 ### Dart
 * [flutter](https://flutter.dev): Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
@@ -134,7 +147,6 @@ There are a number of good reasons to avoid Electron or consider something other
 * [NW.js](https://nwjs.io): Similar to electron, [provides Source code protection](https://nwjs.io/blog/js-src-protect-perf/)).
 * [Neutralinojs](https://neutralino.js.org): chromium module is replaced with either user’s web browser or built-in browser component. Node run-time is replaced with a lightweight web server which exposes native OS functionality).
 * [Proton Native](https://proton-native.js.org): does the same to desktop that React Native did to mobile, based on [libui-node](https://github.com/parro-it/libui-node).
-* [Graffiti](https://github.com/cztomsik/graffiti): HTML/CSS engine for node.js and deno.
 * [Gluon](https://github.com/gluon-framework/gluon) Uses normal system installed browsers (not webviews) and NodeJS, also supports Firefox.
 * [Avernakis](https://github.com/qber-soft/Ave-Nodejs) Nodejs addon for Avernakis SDK, use TypeScript to develop modern desktop app with powerful UI kits.
 * [WelsonJS](https://github.com/gnh1201/welsonjs): Build Windows desktop apps with JavaScript, HTML, and CSS based on WSH/HTA or GTK.
@@ -242,6 +254,9 @@ There are a number of good reasons to avoid Electron or consider something other
 ### Scheme
 * [LambdaNative](https://github.com/part-cw/lambdanative): LambdaNative is freely available under the BSD license, extensively documented, and hosted on GitHub. LambdaNative builds native applications on a wide range of platforms including iOS, Android, Blackberry, OS X, Linux, Windows, OpenBSD, NetBSD, FreeBSD and OpenWrt, from a single source code.
 
+### Tk\tcl
+* [Tk\Tcl](https://www.tcl.tk/): Software developers are more productive with the help of Tcl programming language and Tk graphical user interface toolkit.
+  
 ### V
 * [ui](https://github.com/pisaiah/ui): Isaiah's cross-platform GUI library for V. Inspired by the syntax of Java's Swing.
 * [mui](https://github.com/malisipi/mui): A Cross-Platform UI Library in vlang
@@ -249,18 +264,11 @@ There are a number of good reasons to avoid Electron or consider something other
 * [vi-v](https://github.com/nocturlab/vi-v): Vi-v is a visual scripting UI for vlang. It allows anyone to create their own programs easily without an extensive programming skill.
 * [vxui](https://github.com/kbkpbot/vxui): vxui is a cross-platform desktop UI framework which use your browser as screen, and use V lang as backend. It reply on Websocket, no http/https, no web server!
 
+## Not maintained, outdated, work in progress or unsupported
+### C/C++
+* [Livecode](https://github.com/livecode/livecode): Lightweight language with [native GUI], integrated IDE, and visual interface builder.
 ### Zig
-* [graffiti](https://github.com/cztomsik/graffiti): **WIP/MVC** HTML/CSS engine for node.js and deno. Currently, it is just my hobby/research project and it's not yet intended for any use.
-
-### Visual programming paradigm
-* [Bubble](https://bubble.io/): Development platform. Design, develop, and launch production-grade applications without code\"no-code". It doesn't matter if you’re starting out or on an enterprise team — Bubble is for anyone.
-* [Kodular](https://www.kodular.io/): Development platform. Much more than a modern app creator without coding\"no-code".
-* [8th](https://8th-dev.com/index.html): 8th™ is a secure, robust, cross-platform, and  fun programming language. 8th lets you use your preferred platform to write and test your code. With one click, you generate the executables for any platform 8th supports, from any platform it supports.
-* [Blockly](https://developers.google.com/blockly) Blockly is a visual programming editor by Google that uses drag-and-drop blocks. It's the engine that powers the most popular coding education programs world.
-* [Xojo](https://documentation.xojo.com/getting_started/using_the_xojo_language/index.html): Object-Oriented Programming, Build Native, Cross-Platform Apps.Rapid application development for Desktop, Web, Mobile & Raspberry Pi.
-* [Tk\Tcl](https://www.tcl.tk/): Join the many thousands of software developers who are already more productive with help from the Tcl programming language and the Tk graphical user interface toolkit. 
-* [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder.
-* [outsystems](https://www.outsystems.com/): Development platform. OutSystems lets you ship more modern apps, faster. It's the enterprise-grade low-code platform for the complex, business-critical apps that matter most to your business.
+* [graffiti](https://github.com/cztomsik/graffiti): **status: Work in Progress** HTML/CSS engine for node.js and deno. 
 
 ## 📖 Related work
 * [Awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking): A curated list of awesome resources about Electron.js (in)security
@@ -271,18 +279,9 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Bun vs node vs deno](https://blog.openreplay.com/bun-vs-node-vs-deno/): JavaScript and TypeScript have made it possible for developers in a range of fields to create dynamic and interactive programs. In today’s software development world, these languages are now indispensable. As the JavaScript ecosystem grows, developers frequently raise the question of which runtime is best. We compare three leading competitors, Bun, Node.js, and Deno, to decide which has the best runtime and assess their strengths and limitations in terms of security, ecosystem, performance, and package systems so you decide when and why you should choose one of these runtimes over the others. There is even an open source project that makes a series of comparisons with the js runtime [bench](https://github.com/denosaurs/bench) (Comparing deno, node and bun HTTP frameworks).
 
 ## 📚 Notes
-The opinions contained in the articles linked to the "notes" section of this repository do not necessarily reflect the opinion of the repository maintainer nor of those who maintain and manage the technologies mentioned as an alternative to electron-js. That said, consider read this:
-* [Things I Wish I Knew Before Working with Electron.js](https://www.freecodecamp.org/news/lessons-learned-from-electronjs/): *"In this article, I'll share how you can avoid some of the mistakes I made when learning about Electron.js?. I hope it helps!"*
-* [Should I use UI frameworks?](https://medium.com/@mehran.hrajabi98/should-i-use-ui-frameworks-bab46bde3703): *"As you may know, CSS comes with a lot of frameworks and libraries these days. I have worked with bootstrap 4, material UI and a little bit ant design so far. In this article I want to share my opinion with you about the pros and cons of these tools."*
-* Today there are more opportunities for software development on the web or natively on smartphones than desktop versions. Look at the current data on the number of mobile devices or devices that access the internet: [Internet Live Stats](https://www.internetlivestats.com/), [Statista & Smartphones](https://www.statista.com/topics/840/smartphones/), [ExplodingTopics & Smartphone Stats](https://explodingtopics.com/blog/smartphone-stats) and here [Stackoverlflow Developer Survey Results 2019](https://insights.stackoverflow.com/survey/2019/). Using electron-js depends a lot on each case. From a financial and business perspective, it is better to build a website or app than a desktop version. Although you may have a contrary opinion on finding it easier to create prototypes or softwares with a desktop version.
-* [You Don’t Need A UI Framework](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/): *"Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it."*
-* [Why Electron is a Necessary Evil](https://federicoterzi.com/blog/why-electron-is-a-necessary-evil/): *"Unless you’ve been living under a rock for the past 5 years, chances are you have used an Electron-based application at least once in your life. For those (probably few) who don’t know what Electron is, it’s a cross-platform desktop app framework built on top of Chromium and NodeJS (which in turn is based on Chrome’s V8 engine). This Chrome-ception allows developers to build complete desktop applications using web technologies, including HTML, CSS, JS, and the ~500 MB of node_modules we all know and love. Jokes aside, Electron offers several benefits that made it the preferred choice for most desktop applications developed today[...]"*
-* [Things to love and hate in Electron](https://binary-studio.com/blog/2017/09/12/love-hate-electron/): *"A few years ago, I couldn’t imagine a solid desktop application written with Javascript, HTML and CSS. Today, I know that it is not only possible, but probably the most convenient and efficient way to do so - via Electron."*
-* [The myth of real frontend developer](https://medium.com/@Chilid/the-myth-of-real-frontend-developer-67b1ad6ae446): *"The story of future front-end development where writers, architects and designers meet each other."*
-
 This list is provided for informational purposes. The inclusion of any programming language or tool as an alternative to electron-js does not imply endorsement or recommendation. Users are advised to conduct their own research before choosing a programming language or alternative to electron-js for their specific needs. That said, consider these alternatives:
 * **[HTA/HTML Application](https://en.wikipedia.org/wiki/HTML_Application):** *"HTML Application or "HTA" is a Microsoft Windows program whose source code consists of HTML, Dynamic HTML, and one or more scripting languages supported by Internet Explorer, such as VBScript or JScript. The HTML is used to generate the user interface, and the scripting language is used for the program logic. An HTA executes without the constraints of the internet browser security model; in fact, it executes as a "fully trusted" application."*
-* [CEF](https://bitbucket.org/chromiumembedded/workspace/repositories/): *"Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications written in Java, .Net/Mono, Delphi, Go, Python, Avalonia/WPF."*
+* [CEF](https://bitbucket.org/chromiumembedded/workspace/repositories/): *"Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications written in Java, .Net/Mono, Delphi, Haskell, Go, Python, Avalonia/WPF."*
 * **Progressive Web Apps:** [PWA](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions. For more info see this: [Blazor](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx), [ElectronCGI](https://www.npmjs.com/package/electron-cgi) and this info *"Progressive Web Apps might not be able to replace every kind of native application, but they can be viable replacements for some apps written with the Electron web wrapper technology"* [here](https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now-a-progressive-web-app/).
 
 ##  ❤ Contributions
@@ -294,6 +293,17 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on this project. If
 * Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * Electron-alternatives is licensed with MIT by sudhakar3697 and contributors.
 * The logo of this project is authored, created or licensed by the Electron-js community (brand, open source project), but has no direct relationship with this repository.
+
+
+## 🔗 Bibliography
+The opinions contained in the articles linked to the "notes section" of this repository do not necessarily reflect the opinion of the repository maintainer nor of those who maintain and manage the technologies mentioned as an alternative to electron-js. That said, consider read this:
+* [The myth of real frontend developer](https://medium.com/@Chilid/the-myth-of-real-frontend-developer-67b1ad6ae446): *"The story of future front-end development where writers, architects and designers meet each other."*
+* [Things I Wish I Knew Before Working with Electron.js](https://www.freecodecamp.org/news/lessons-learned-from-electronjs/): *"In this article, I'll share how you can avoid some of the mistakes I made when learning about Electron.js?. I hope it helps!"*
+* [Should I use UI frameworks?](https://medium.com/@mehran.hrajabi98/should-i-use-ui-frameworks-bab46bde3703): *"As you may know, CSS comes with a lot of frameworks and libraries these days. I have worked with bootstrap 4, material UI and a little bit ant design so far. In this article I want to share my opinion with you about the pros and cons of these tools."*
+* Today there are more opportunities for software development on the web or natively on smartphones than desktop versions. Look at the current data on the number of mobile devices or devices that access the internet: [Internet Live Stats](https://www.internetlivestats.com/), [Statista & Smartphones](https://www.statista.com/topics/840/smartphones/), [ExplodingTopics & Smartphone Stats](https://explodingtopics.com/blog/smartphone-stats) and here [Stackoverlflow Developer Survey Results 2019](https://insights.stackoverflow.com/survey/2019/). Using electron-js depends a lot on each case. From a financial and business perspective, it is better to build a website or app than a desktop version. Although you may have a contrary opinion on finding it easier to create prototypes or softwares with a desktop version.
+* [You Don’t Need A UI Framework](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/): *"Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it."*
+* [Why Electron is a Necessary Evil](https://federicoterzi.com/blog/why-electron-is-a-necessary-evil/): *"Unless you’ve been living under a rock for the past 5 years, chances are you have used an Electron-based application at least once in your life. For those (probably few) who don’t know what Electron is, it’s a cross-platform desktop app framework built on top of Chromium and NodeJS (which in turn is based on Chrome’s V8 engine). This Chrome-ception allows developers to build complete desktop applications using web technologies, including HTML, CSS, JS, and the ~500 MB of node_modules we all know and love. Jokes aside, Electron offers several benefits that made it the preferred choice for most desktop applications developed today[...]"*
+* [Things to love and hate in Electron](https://binary-studio.com/blog/2017/09/12/love-hate-electron/): *"A few years ago, I couldn’t imagine a solid desktop application written with Javascript, HTML and CSS. Today, I know that it is not only possible, but probably the most convenient and efficient way to do so - via Electron."*
 
 ## 🙌 Contributors
 <a href="https://github.com/sudhakar3697/electron-alternatives/graphs/contributors">
