@@ -283,21 +283,6 @@ But this list is provided for informational purposes. The inclusion of any progr
 * [CEF](https://bitbucket.org/chromiumembedded/workspace/repositories/): *"Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications written in Java, .Net/Mono, Delphi, Haskell, Go, Python, Avalonia/WPF."*
 * **Progressive Web Apps:** [PWA](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions. For more info see this: [Blazor](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx), [ElectronCGI](https://www.npmjs.com/package/electron-cgi) and this info *"Progressive Web Apps might not be able to replace every kind of native application, but they can be viable replacements for some apps written with the Electron web wrapper technology"* [here](https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now-a-progressive-web-app/).
 
-##  ❤ Contributions
-awesome-electron-alternatives is open to contributions, but I recommend creating an issue or replying in a comment to let me know what you are working on first that way we don't overwrite each other.
-
-Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on this project. If you have any questions, feel free to open an issue. And feel free to improve this list by contributing!
-
-## 📑 License
-* Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
-* Electron-alternatives is licensed with MIT by sudhakar3697 and contributors.
-* The logo of this project is authored, created or licensed by the Electron-js community (brand, open source project), but has no direct relationship with this repository.
-
-## 🙌 Contributors
-<a href="https://github.com/sudhakar3697/electron-alternatives/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sudhakar3697/electron-alternatives"/>
-</a>
-
 ## 🔗 Bibliography
 The opinions contained in the articles linked to the "bibliography section" of this repository do not necessarily reflect the opinion of the repository maintainer nor of those who maintain and manage the technologies mentioned as an alternative to electron-js. That said, consider read this:
 
@@ -308,7 +293,7 @@ on Medium, Apr 25, 2017. Medium.
 
 - *Alain Perkaz.* (2020). **[Things I Wish I Knew Before
  Working with Electron.js](https://www.freecodecamp.org/news/lessons-learned-from-electronjs/)**. In: Alain Perkaz, Freecodecamp. 
-(eds) Things I Wish I Knew Before Working with Electron.js. Freecodecamp 2017. Chilid Articles 
+(eds) Things I Wish I Knew Before Working with Electron.js. Freecodecamp 2017. Alain Perkaz Articles 
 on Freecodecamp, May 28, 2020. Freecodecamp. 
 
 - *Mehran Hajirajabi.* (2021). **[Should I use
@@ -335,3 +320,18 @@ on Binary-Studio, September 12, 2017. Binary-Studio.
 software](https://ieeexplore.ieee.org/document/348001)**. In: Niklaus Wirth, IEEE. 
 (eds) A plea for lean software. A plea for lean software 1995. Niklaus Wirth Articles 
 on IEEE(Computer), February 12, 1995. IEEE, Computer ( Volume: 28, Issue: 2, February 1995).
+
+##  ❤ Contributions
+awesome-electron-alternatives is open to contributions, but I recommend creating an issue or replying in a comment to let me know what you are working on first that way we don't overwrite each other.
+
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on this project. If you have any questions, feel free to open an issue. And feel free to improve this list by contributing!
+
+## 📑 License
+* Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
+* Electron-alternatives is licensed with MIT by sudhakar3697 and contributors.
+* The logo of this project is authored, created or licensed by the Electron-js community (brand, open source project), but has no direct relationship with this repository.
+  
+## 🙌 Contributors
+<a href="https://github.com/sudhakar3697/electron-alternatives/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sudhakar3697/electron-alternatives"/>
+</a>
