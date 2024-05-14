@@ -92,8 +92,8 @@ There are a number of good reasons to avoid Electron or consider something other
 ### Go
 * [lorca](https://github.com/zserge/lorca): Build cross-platform modern desktop apps in Go + HTML5.
 * [wails](https://github.com/wailsapp/wails): Create beautiful applications using Go.
-* [cef2go](https://github.com/CzarekTomczak/cef2go):
-* [energy]( https://github.com/energye/energy):
+* [cef2go](https://github.com/CzarekTomczak/cef2go): Go lang bindings for the Chromium Embedded Framework (CEF).
+* [energy]( https://github.com/energye/energy): Energy is a framework developed by Go language based on CEF (Chromium Embedded Framework) for developing cross-platform desktop applications for Windows, Mac OS X, and Linux.
 * [muon](https://github.com/ImVexed/muon): Lightweight alternative to Electron written in Golang in about ~300 LoC, using Ultralight instead of Chromium.
 
 ### Guile
