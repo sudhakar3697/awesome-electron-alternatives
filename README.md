@@ -143,7 +143,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Compose Multiplatform](https://www.jetbrains.com/lp/compose-mpp): Declarative framework for sharing UIs across multiple platforms. Based on Kotlin and Jetpack Compose. Developed by JetBrains and open-source contributors.
 
 ### [Livecode](https://livecode.com)
-[Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder.
+* [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder.
 
 ### Lisp
 * [clog](https://github.com/rabbibotton/clog): The Common Lisp Omnificent GUI, CLOG for short, uses web technology to produce graphical user interfaces for applications locally or remotely. CLOG can take the place, or work alongside, most cross-platform GUI frameworks and website frameworks. The CLOG package starts up the connectivity to the browser or other websocket client (often a browser embedded in a native application.)
