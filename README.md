@@ -22,7 +22,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * Electron apps cannot be submitted to the [Apple store](https://news.ycombinator.com/item?id=21437255)
 * [Minimal resources](https://github.com/Elanis/web-to-desktop-framework-comparison)
 * Development platform like nodecode as Kodular, lowcode as Outsystems, database as a service as Astra DB, backend as service, mobile as a service, frontend as a service as Figma, banking as a service ...
-* visual programming paradigm (this includes solutions or technologies like development platform, blockly, serverless, dbdiagram and programming language as elm, python, v ...)
+* visual programming paradigm (this includes solutions or technologies like serverless, development platform as dbdiagram, Bubble, Kodular or programming language as elm, python, v, blockly, 8th, xojo, tk\tcl, livecode ...)
 * It is possible to develop games with Electron-js, but for good game development it is not recommended
 * create data analysis and statistics with js libraries and electron-js for dashboards, however it is also not recommended 
 
@@ -142,9 +142,6 @@ There are a number of good reasons to avoid Electron or consider something other
 ### Kotlin 
 * [Compose Multiplatform](https://www.jetbrains.com/lp/compose-mpp): Declarative framework for sharing UIs across multiple platforms. Based on Kotlin and Jetpack Compose. Developed by JetBrains and open-source contributors.
 
-### [Livecode](https://livecode.com)
-* [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder.
-
 ### Lisp
 * [clog](https://github.com/rabbibotton/clog): The Common Lisp Omnificent GUI, CLOG for short, uses web technology to produce graphical user interfaces for applications locally or remotely. CLOG can take the place, or work alongside, most cross-platform GUI frameworks and website frameworks. The CLOG package starts up the connectivity to the browser or other websocket client (often a browser embedded in a native application.)
 
@@ -174,10 +171,6 @@ There are a number of good reasons to avoid Electron or consider something other
 - [graph](https://github.com/stisa/graph): A basic plotting library in Nim.
 - [nimetry](https://github.com/refaqtor/nimetry): Simple plotting in pure Nim.
 - [nimgraphviz](https://github.com/Aveheuzed/nimgraphviz): A Nim library for making graphs with GraphViz and DOT.
-
-### No-code
-- [Kodular](https://www.kodular.io/): Much more than a modern app creator without coding
-- [Bubble](https://bubble.io/): Design, develop, and launch production-grade applications without code. It doesn't matter if you’re starting out or on an enterprise team — Bubble is for anyone.
 
 ### Pascal\FreePascal
 * [fpgui](https://fpgui.sourceforge.net/): fpGUI Toolkit (or the Free Pascal GUI Toolkit) is a multi-platform toolkit for creating graphical user interfaces. Offering a complete set of custom drawn widgets, fpGUI is suitable for projects ranging from small one-off tools to complete application suites.
@@ -244,9 +237,6 @@ There are a number of good reasons to avoid Electron or consider something other
 ### Scheme
 * [LambdaNative](https://github.com/part-cw/lambdanative): LambdaNative is freely available under the BSD license, extensively documented, and hosted on GitHub. LambdaNative builds native applications on a wide range of platforms including iOS, Android, Blackberry, OS X, Linux, Windows, OpenBSD, NetBSD, FreeBSD and OpenWrt, from a single source code.
 
-### Tk\Tcl
-* [Tk\Tcl](https://www.tcl.tk/): Join the many thousands of software developers who are already more productive with help from the Tcl programming language and the Tk graphical user interface toolkit. 
-
 ### V
 * [ui](https://github.com/pisaiah/ui): Isaiah's cross-platform GUI library for V. Inspired by the syntax of Java's Swing.
 * [mui](https://github.com/malisipi/mui): A Cross-Platform UI Library in vlang
@@ -254,9 +244,15 @@ There are a number of good reasons to avoid Electron or consider something other
 * [vi-v](https://github.com/nocturlab/vi-v): Vi-v is a visual scripting UI for vlang. It allows anyone to create their own programs easily without an extensive programming skill.
 * [vxui](https://github.com/kbkpbot/vxui): vxui is a cross-platform desktop UI framework which use your browser as screen, and use V lang as backend. It reply on Websocket, no http/https, no web server!
 
-### Visual programming
+### Visual programming paradigm
+* [Bubble](https://bubble.io/): Development platform. Design, develop, and launch production-grade applications without code\"no-code". It doesn't matter if you’re starting out or on an enterprise team — Bubble is for anyone.
+* [Kodular](https://www.kodular.io/): Development platform. Much more than a modern app creator without coding\"no-code".
+* [8th](https://8th-dev.com/index.html): 8th™ is a secure, robust, cross-platform, and  fun programming language. 8th lets you use your preferred platform to write and test your code. With one click, you generate the executables for any platform 8th supports, from any platform it supports.
 * [Blockly](https://developers.google.com/blockly) Blockly is a visual programming editor by Google that uses drag-and-drop blocks. It's the engine that powers the most popular coding education programs world.
-  
+* [Xojo](https://documentation.xojo.com/getting_started/using_the_xojo_language/index.html): Object-Oriented Programming, Build Native, Cross-Platform Apps.Rapid application development for Desktop, Web, Mobile & Raspberry Pi.
+* [Tk\Tcl](https://www.tcl.tk/): Join the many thousands of software developers who are already more productive with help from the Tcl programming language and the Tk graphical user interface toolkit. 
+* [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder.
+
 ## 📖 Related work
 * [Awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking): A curated list of awesome resources about Electron.js (in)security
 * [Positron](https://github.com/kendofriendo/positron): List of electron apps so I can avoid them, and some alternatives to use instead
@@ -273,8 +269,7 @@ This list is provided for informational purposes. The inclusion of any programmi
 * **[HTA/HTML Application](https://en.wikipedia.org/wiki/HTML_Application):** *"HTML Application or "HTA" is a Microsoft Windows program whose source code consists of HTML, Dynamic HTML, and one or more scripting languages supported by Internet Explorer, such as VBScript or JScript. The HTML is used to generate the user interface, and the scripting language is used for the program logic. An HTA executes without the constraints of the internet browser security model; in fact, it executes as a "fully trusted" application."*
 * [CEF](https://bitbucket.org/chromiumembedded/workspace/repositories/): Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications written in Java, .Net/Mono, Delphi, Go, Python, Avalonia/WPF.
 * **Progressive Web Apps:** [PWA](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions. For more info see this: [Blazor](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx), [ElectronCGI](https://www.npmjs.com/package/electron-cgi) and this info *"Progressive Web Apps might not be able to replace every kind of native application, but they can be viable replacements for some apps written with the Electron web wrapper technology"* [here](https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now-a-progressive-web-app/).
-* [8th](https://8th-dev.com/index.html): 8th™ is a secure, robust, cross-platform, and  fun programming language. 8th lets you use your preferred platform to write and test your code. With one click, you generate the executables for any platform 8th supports, from any platform it supports.
-* [Xojo](https://documentation.xojo.com/getting_started/using_the_xojo_language/index.html): Object-Oriented Programming, Build Native, Cross-Platform Apps.Rapid application development for Desktop, Web, Mobile & Raspberry Pi.
+
   
 ##  ❤ Contributions
 awesome-electron-alternatives is open to contributions, but I recommend creating an issue or replying in a comment to let me know what you are working on first that way we don't overwrite each other.
