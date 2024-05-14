@@ -162,9 +162,6 @@ There are a number of good reasons to avoid Electron or consider something other
 ### Lisp
 * [clog](https://github.com/rabbibotton/clog): The Common Lisp Omnificent GUI, CLOG for short, uses web technology to produce graphical user interfaces for applications locally or remotely. CLOG can take the place, or work alongside, most cross-platform GUI frameworks and website frameworks. The CLOG package starts up the connectivity to the browser or other websocket client (often a browser embedded in a native application.)
 
-### Low-code
-* [outsystems](https://www.outsystems.com/): OutSystems lets you ship more modern apps, faster. It's the enterprise-grade low-code platform for the complex, business-critical apps that matter most to your business.
-
 ### Nim
 - [nimx](https://github.com/yglukhov/nimx): Desktop, Mobile & Web GUI framework in Nim.
 - [NiGui](https://github.com/trustable-code/NiGui): A cross-platform, desktop GUI toolkit.
@@ -264,12 +261,6 @@ There are a number of good reasons to avoid Electron or consider something other
 * [vi-v](https://github.com/nocturlab/vi-v): Vi-v is a visual scripting UI for vlang. It allows anyone to create their own programs easily without an extensive programming skill.
 * [vxui](https://github.com/kbkpbot/vxui): vxui is a cross-platform desktop UI framework which use your browser as screen, and use V lang as backend. It reply on Websocket, no http/https, no web server!
 
-## Not maintained, outdated, work in progress or unsupported
-### C/C++
-* [Livecode](https://github.com/livecode/livecode): Lightweight language with [native GUI], integrated IDE, and visual interface builder.
-### Zig
-* [graffiti](https://github.com/cztomsik/graffiti): **status: Work in Progress** HTML/CSS engine for node.js and deno. 
-
 ## 📖 Related work
 * [Awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking): A curated list of awesome resources about Electron.js (in)security
 * [Awesome Alternatives to Electron Apps](https://github.com/konchunas/awesome-alternatives-to-electron-apps): Good alternatives to an memory hungry eco-unfriendly Electron software.
@@ -277,6 +268,12 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Comparison of Browser Engines](https://en.wikipedia.org/wiki/Comparison_of_browser_engines): A browser engine (also known as a layout engine or rendering engine) is a core software component of every major web browser. The primary job of a browser engine is to transform HTML documents and other resources of a web page into an interactive visual representation on a user's device. Besides "browser engine", two other related terms are commonly used: "layout engine" and "rendering engine". In theory, layout and rendering (or "painting") could be handled by different engines. In practice, however, these components are tightly coupled and rarely encountered on their own outside of the browser engine.
 * [Positron](https://github.com/kendofriendo/positron): List of electron apps so I can avoid them, and some alternatives to use instead
 * [Bun vs node vs deno](https://blog.openreplay.com/bun-vs-node-vs-deno/): JavaScript and TypeScript have made it possible for developers in a range of fields to create dynamic and interactive programs. In today’s software development world, these languages are now indispensable. As the JavaScript ecosystem grows, developers frequently raise the question of which runtime is best. We compare three leading competitors, Bun, Node.js, and Deno, to decide which has the best runtime and assess their strengths and limitations in terms of security, ecosystem, performance, and package systems so you decide when and why you should choose one of these runtimes over the others. There is even an open source project that makes a series of comparisons with the js runtime [bench](https://github.com/denosaurs/bench) (Comparing deno, node and bun HTTP frameworks).
+* Learn about some solutions that are no longer maintained. Or that are in some way outdated, "work in progress", obsolete or unsupported
+  * C/C++/Csharp
+    * [Chromely](https://github.com/chromelyapps/Chromely): Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
+    * [Livecode](https://github.com/livecode/livecode): Lightweight language with [native GUI], integrated IDE, and visual interface builder.
+  * Zig
+    * [graffiti](https://github.com/cztomsik/graffiti): **status: Work in Progress** HTML/CSS engine for node.js and deno. 
 
 ## 📚 Notes
 This list is provided for informational purposes. The inclusion of any programming language or tool as an alternative to electron-js does not imply endorsement or recommendation. Users are advised to conduct their own research before choosing a programming language or alternative to electron-js for their specific needs. That said, consider these alternatives:
