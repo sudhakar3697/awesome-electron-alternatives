@@ -276,10 +276,11 @@ There are a number of good reasons to avoid Electron or consider something other
     * [graffiti](https://github.com/cztomsik/graffiti): **status: Work in Progress** HTML/CSS engine for node.js and deno. 
 
 ## 📚 Notes
-This list is provided for informational purposes. The inclusion of any programming language or tool as an alternative to electron-js does not imply endorsement or recommendation. Users are advised to conduct their own research before choosing a programming language or alternative to electron-js for their specific needs. That said, consider these alternatives:
-* **[HTA/HTML Application](https://en.wikipedia.org/wiki/HTML_Application):** *"HTML Application or "HTA" is a Microsoft Windows program whose source code consists of HTML, Dynamic HTML, and one or more scripting languages supported by Internet Explorer, such as VBScript or JScript. The HTML is used to generate the user interface, and the scripting language is used for the program logic. An HTA executes without the constraints of the internet browser security model; in fact, it executes as a "fully trusted" application."*
-* [CEF](https://bitbucket.org/chromiumembedded/workspace/repositories/): *"Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications written in Java, .Net/Mono, Delphi, Haskell, Go, Python, Avalonia/WPF."*
-* **Progressive Web Apps:** [PWA](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions. For more info see this: [Blazor](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx), [ElectronCGI](https://www.npmjs.com/package/electron-cgi) and this info *"Progressive Web Apps might not be able to replace every kind of native application, but they can be viable replacements for some apps written with the Electron web wrapper technology"* [here](https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now-a-progressive-web-app/).
+* Today there are more opportunities for software development on the web or natively on smartphones than desktop versions. Look at the current data on the number of mobile devices or devices that access the internet: [Internet Live Stats](https://www.internetlivestats.com/), [Statista & Smartphones](https://www.statista.com/topics/840/smartphones/), [ExplodingTopics & Smartphone Stats](https://explodingtopics.com/blog/smartphone-stats) and here [Stackoverlflow Developer Survey Results 2019](https://insights.stackoverflow.com/survey/2019/). Using electron-js depends a lot on each case. From a financial and business perspective, it is better to build a website or app than a desktop version. Although you may have a contrary opinion on finding it easier to create prototypes or softwares with a desktop version.
+* This list is provided for informational purposes. The inclusion of any programming language or tool as an alternative to electron-js does not imply endorsement or recommendation. Users are advised to conduct their own research before choosing a programming language or alternative to electron-js for their specific needs. That said, consider these alternatives:
+  * **[HTA/HTML Application](https://en.wikipedia.org/wiki/HTML_Application):** *"HTML Application or "HTA" is a Microsoft Windows program whose source code consists of HTML, Dynamic HTML, and one or more scripting languages supported by Internet Explorer, such as VBScript or JScript. The HTML is used to generate the user interface, and the scripting language is used for the program logic. An HTA executes without the constraints of the internet browser security model; in fact, it executes as a "fully trusted" application."*
+  * [CEF](https://bitbucket.org/chromiumembedded/workspace/repositories/): *"Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications written in Java, .Net/Mono, Delphi, Haskell, Go, Python, Avalonia/WPF."*
+  * **Progressive Web Apps:** [PWA](https://developers.google.com/web/progressive-web-apps/desktop), if your app doesn't require any platform interactions. For more info see this: [Blazor](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx), [ElectronCGI](https://www.npmjs.com/package/electron-cgi) and this info *"Progressive Web Apps might not be able to replace every kind of native application, but they can be viable replacements for some apps written with the Electron web wrapper technology"* [here](https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now-a-progressive-web-app/).
 
 ##  ❤ Contributions
 awesome-electron-alternatives is open to contributions, but I recommend creating an issue or replying in a comment to let me know what you are working on first that way we don't overwrite each other.
@@ -294,13 +295,36 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on this project. If
 
 ## 🔗 Bibliography
 The opinions contained in the articles linked to the "notes section" of this repository do not necessarily reflect the opinion of the repository maintainer nor of those who maintain and manage the technologies mentioned as an alternative to electron-js. That said, consider read this:
-* [The myth of real frontend developer](https://medium.com/@Chilid/the-myth-of-real-frontend-developer-67b1ad6ae446): *"The story of future front-end development where writers, architects and designers meet each other."*
-* [Things I Wish I Knew Before Working with Electron.js](https://www.freecodecamp.org/news/lessons-learned-from-electronjs/): *"In this article, I'll share how you can avoid some of the mistakes I made when learning about Electron.js?. I hope it helps!"*
-* [Should I use UI frameworks?](https://medium.com/@mehran.hrajabi98/should-i-use-ui-frameworks-bab46bde3703): *"As you may know, CSS comes with a lot of frameworks and libraries these days. I have worked with bootstrap 4, material UI and a little bit ant design so far. In this article I want to share my opinion with you about the pros and cons of these tools."*
-* Today there are more opportunities for software development on the web or natively on smartphones than desktop versions. Look at the current data on the number of mobile devices or devices that access the internet: [Internet Live Stats](https://www.internetlivestats.com/), [Statista & Smartphones](https://www.statista.com/topics/840/smartphones/), [ExplodingTopics & Smartphone Stats](https://explodingtopics.com/blog/smartphone-stats) and here [Stackoverlflow Developer Survey Results 2019](https://insights.stackoverflow.com/survey/2019/). Using electron-js depends a lot on each case. From a financial and business perspective, it is better to build a website or app than a desktop version. Although you may have a contrary opinion on finding it easier to create prototypes or softwares with a desktop version.
-* [You Don’t Need A UI Framework](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/): *"Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it."*
-* [Why Electron is a Necessary Evil](https://federicoterzi.com/blog/why-electron-is-a-necessary-evil/): *"Unless you’ve been living under a rock for the past 5 years, chances are you have used an Electron-based application at least once in your life. For those (probably few) who don’t know what Electron is, it’s a cross-platform desktop app framework built on top of Chromium and NodeJS (which in turn is based on Chrome’s V8 engine). This Chrome-ception allows developers to build complete desktop applications using web technologies, including HTML, CSS, JS, and the ~500 MB of node_modules we all know and love. Jokes aside, Electron offers several benefits that made it the preferred choice for most desktop applications developed today[...]"*
-* [Things to love and hate in Electron](https://binary-studio.com/blog/2017/09/12/love-hate-electron/): *"A few years ago, I couldn’t imagine a solid desktop application written with Javascript, HTML and CSS. Today, I know that it is not only possible, but probably the most convenient and efficient way to do so - via Electron."*
+
+- *Chilid.* (2017). **[The Myth of real
+frontend developer](https://medium.com/@Chilid/the-myth-of-real-frontend-developer-67b1ad6ae446)**. In: Chilid, Medium. 
+(eds) The myth of real frontend developer. Medium 2017. Chilid Articles 
+on Medium, Apr 25, 2017. Medium. 
+
+- *Alain Perkaz.* (2020). **[Things I Wish I Knew Before
+ Working with Electron.js](https://www.freecodecamp.org/news/lessons-learned-from-electronjs/)**. In: Alain Perkaz, Freecodecamp. 
+(eds) Things I Wish I Knew Before Working with Electron.js. Freecodecamp 2017. Chilid Articles 
+on Freecodecamp, May 28, 2020. Freecodecamp. 
+
+- *Mehran Hajirajabi.* (2021). **[Should I use
+UI frameworks?](https://medium.com/@mehran.hrajabi98/should-i-use-ui-frameworks-bab46bde3703)**. In: Mehran Hrajab, Medium. 
+(eds) Should I use UI frameworks?. Medium 2017. Mehran Hajirajabi Articles 
+on Medium, Aug 30, 2021. Medium. 
+
+- *Josh Comeau.* (2022). **[You Don’t Need
+A UI Framework](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/)**. In: Josh Comeau, SmashingMagazine. 
+(eds) You Don’t Need A UI Framework. SmashingMagazine 2022. Josh Comeau Articles 
+on SmashingMagazine, May 05, 2022. SmashingMagazine. 
+
+- *Federico Terzi.* (2021). **[Why Electron-js
+is a Necessary Evil](https://federicoterzi.com/blog/why-electron-is-a-necessary-evil/)**. In: Federico Terzi, FedericoTerzi-Blog. 
+(eds) Why Electron-js is a Necessary Evil. FedericoTerzi-Blog 2021. Federico Terzi Articles 
+on FedericoTerzi-Blog, January 20, 2021. FedericoTerzi-Blog. 
+
+- *Bogdan Rusinka.* (2017). **[Things to love
+and hate in Electron](https://binary-studio.com/blog/2017/09/12/love-hate-electron/)**. In: Bogdan Rusinka,  Binary-Studio. 
+(eds) Things to love and hate in Electron-js. Binary-Studio 2017. Bogdan Rusinka Articles 
+on Binary-Studio, September 12, 2017. Binary-Studio. 
 
 ## 🙌 Contributors
 <a href="https://github.com/sudhakar3697/electron-alternatives/graphs/contributors">
