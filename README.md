@@ -279,6 +279,7 @@ Today there are more opportunities for software development on the web or native
 You work with cloud computing models, such as serverless, database as a service, backend as a service or specific business models open core, freepremium, subscription model ... and most of these cloud computing models or business models work online on the web and are cross-platform. There is not much need to have a desktop version too. 
 
 Or you or your software development team are locked into a narrow set of solutions, frameworks(nw.js, tauri), softwares(dbdiagram), development platforms(airtable), programming paradigms(dataflow, visual, business oriented), technologies or programming language such as 8th, Xojo, cobol, delphi, r, julia, prograph, joule. That said, consider these alternatives:
+
 **[HTA/HTML Application](https://en.wikipedia.org/wiki/HTML_Application):** *"HTML Application or "HTA" is a Microsoft Windows program whose source code consists of HTML, Dynamic HTML, and one or more scripting languages supported by Internet Explorer, such as VBScript or JScript. The HTML is used to generate the user interface, and the scripting language is used for the program logic. An HTA executes without the constraints of the internet browser security model; in fact, it executes as a "fully trusted" application."*
 
 [CEF](https://bitbucket.org/chromiumembedded/workspace/repositories/): *"Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications written in Java, .Net/Mono, Delphi, Haskell, Go, Python, Avalonia/WPF."*
