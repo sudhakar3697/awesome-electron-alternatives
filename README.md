@@ -24,9 +24,9 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Monopoly on software development](https://itif.org/publications/2020/07/23/monopoly-myths-do-internet-platforms-threaten-competition/)
 * You are a curious person who always wants to learn something new
 * JS runtime like deno or another that does not work correctly in electron-js.
-* You want to create your own development platform. or you feel pressured into one or more of development platforms. Most of these development platforms work online on the web and are cross-platform, so you feel unmotivated to create a desktop solution with electron-js or any similar framework because you want to avoid doing anything unnecessary from a D.R.Y(Don't Repeat Yourself) perspective. That is, you don't want to do something over and over without much purpose or result.
-* You are used to the user experience on websites, webapps and applications on smartphones. And there are several rendering engines(gecko, khtml ...) or operating systems(haiku, amiga-os, redox-os ...) that electron-js does not support. And If you want to use these rendering engines, websites, apps or operating systems you would have to do a lot of portability work.
-* You do not agree with the software license provided by electron-js or the way electron-js is built. 
+* Development platform. 
+* You are used to the user experience on websites, webapps and applications on smartphones.
+* There are several rendering engines or operating systems that Electron-js does not support. And if you want to use these technologies, you will have to do a lot of portability work. You do not agree with the software license provided by electron-js or the way electron-js is built. 
 * You work with cloud computing models, such as serverless, database as a service, backend as a service or specific business models open core, freepremium, subscription model ... and most of these cloud computing models or business models work online on the web and are cross-platform. There is not much need to have a desktop version too.
 * You or your software development team are locked into a narrow set of solutions, frameworks(nw.js, tauri), softwares(dbdiagram), development platforms(airtable), programming paradigms(dataflow, visual, business oriented), technologies or programming language such as 8th, Xojo, cobol, delphi, r, julia, prograph, joule ...
 * It is possible to develop games with Electron-js, but for good game development it is not recommended
@@ -77,6 +77,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [dwt](https://github.com/d-widget-toolkit/dwt): DWT is a library for creating cross-platform GUI applications. It's a port of the SWT Java library from Eclipse. DWT is compatible with D2 using the standard library (Phobos) and D1 using Tango. Now available on 32 and 64 bit, Linux and Windows.
 
 ### Development platform
+You want to create your own development platform. or you feel pressured into one or more of development platforms. Most of these development platforms work online on the web and are cross-platform, so you feel unmotivated to create a desktop solution with electron-js or any similar framework because you want to avoid doing anything unnecessary from a D.R.Y(Don't Repeat Yourself) perspective. That is, you don't want to do something over and over without much purpose or result.
 #### No-code
 * [Kodular](https://www.kodular.io/): Much more than a modern app creator without coding.
 * [Bubble](https://bubble.io/): Design, develop, and launch production-grade applications without code.
