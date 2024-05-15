@@ -32,7 +32,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * maybe you do not agree with the software license provided by electron-js or the way electron-js is built.
 
 ## 👓 Alternatives to the [Electron.js](https://electronjs.org) ⚛
-List below contains a set of js runtimes\engines, browser engines as an alternative to electron-js in different types of software licenses:
+See a set of js runtimes\engines, browser engines as an alternative to electron-js in different types of software licenses:
 
 ### C#(.Net)
 * [Orleans](https://github.com/dotnet/Orleans): Cloud Native application framework for .NET
