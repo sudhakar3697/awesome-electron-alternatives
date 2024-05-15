@@ -44,7 +44,6 @@ Set of js runtimes\engines, browser engines as an alternative to electron-js in 
 * [foton](https://github.com/integrativesoft/foton): Prototype for an Electron alternative written in C# by Integrative Software LLC and contributors.
 * [cefglue\.Net (CEF1)](https://github.com/OutSystems/CefGlue): .NET binding for The Chromium Embedded Framework (CEF)
 * [CefGlue.Core](https://github.com/VitalElement/CefGlue.Core): Port of CefGlue to .net Core
-* [CefGlueHeadless](https://github.com/alexsaves/CefGlueHeadless): Example of how you could use Cef and CefGlue to create a simplified headless browser for testing, screenshotting, or video capture.
 * [WebView](https://github.com/OutSystems/WebView): Avalonia/WPF control that wraps CefGlue webview control
 * [cefglue\.Net/Mono (CEF3)](https://gitlab.com/xiliumhq/chromiumembedded/cefglue): .NET/Mono binding for The Chromium Embedded Framework (CEF)
 * [CefSharp\.Net (CEF3)](https://github.com/cefsharp/CefSharp): .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
