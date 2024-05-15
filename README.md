@@ -27,10 +27,12 @@ There are a number of good reasons to avoid Electron or consider something other
 * Development platform. 
 * You are used to the user experience on websites, webapps and applications on smartphones.
 * It is possible to develop games with Electron-js, but for good game development it is not recommended
-* create data analysis and statistics with js libraries and electron-js for dashboards, however it is also not recommended 
-  
+* There are several rendering engines or operating systems that Electron-js does not support. And if you want to use these technologies, you will have to do a lot of portability work.
+* create data analysis and statistics with js libraries and electron-js for dashboards, however it is also not recommended
+* maybe you do not agree with the software license provided by electron-js or the way electron-js is built.
+
 ## 👓 Alternatives to the [Electron.js](https://electronjs.org) ⚛
-There are several rendering engines or operating systems that Electron-js does not support. And if you want to use these technologies, you will have to do a lot of portability work. You do not agree with the software license provided by electron-js or the way electron-js is built. 
+List below contains a set of js runtimes\engines, browser engines as an alternative to electron-js in different types of software licenses:
 
 ### C#(.Net)
 * [Orleans](https://github.com/dotnet/Orleans): Cloud Native application framework for .NET
