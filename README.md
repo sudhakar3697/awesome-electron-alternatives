@@ -26,13 +26,11 @@ There are a number of good reasons to avoid Electron or consider something other
 * JS runtime like deno or another that does not work correctly in electron-js.
 * Development platform. 
 * You are used to the user experience on websites, webapps and applications on smartphones.
-* There are several rendering engines or operating systems that Electron-js does not support. And if you want to use these technologies, you will have to do a lot of portability work. You do not agree with the software license provided by electron-js or the way electron-js is built. 
-* You work with cloud computing models, such as serverless, database as a service, backend as a service or specific business models open core, freepremium, subscription model ... and most of these cloud computing models or business models work online on the web and are cross-platform. There is not much need to have a desktop version too.
-* You or your software development team are locked into a narrow set of solutions, frameworks(nw.js, tauri), softwares(dbdiagram), development platforms(airtable), programming paradigms(dataflow, visual, business oriented), technologies or programming language such as 8th, Xojo, cobol, delphi, r, julia, prograph, joule ...
 * It is possible to develop games with Electron-js, but for good game development it is not recommended
 * create data analysis and statistics with js libraries and electron-js for dashboards, however it is also not recommended 
   
 ## 👓 Alternatives to the [Electron.js](https://electronjs.org) ⚛
+There are several rendering engines or operating systems that Electron-js does not support. And if you want to use these technologies, you will have to do a lot of portability work. You do not agree with the software license provided by electron-js or the way electron-js is built. 
 
 ### C#(.Net)
 * [Orleans](https://github.com/dotnet/Orleans): Cloud Native application framework for .NET
@@ -274,6 +272,10 @@ You want to create your own development platform. or you feel pressured into one
 * [Bun vs node vs deno](https://blog.openreplay.com/bun-vs-node-vs-deno/): JavaScript and TypeScript have made it possible for developers in a range of fields to create dynamic and interactive programs. In today’s software development world, these languages are now indispensable. As the JavaScript ecosystem grows, developers frequently raise the question of which runtime is best. We compare three leading competitors, Bun, Node.js, and Deno, to decide which has the best runtime and assess their strengths and limitations in terms of security, ecosystem, performance, and package systems so you decide when and why you should choose one of these runtimes over the others. There is even an open source project that makes a series of comparisons with the js runtime [bench](https://github.com/denosaurs/bench) (Comparing deno, node and bun HTTP frameworks).
 
 ## 📚 Notes
+You work with cloud computing models, such as serverless, database as a service, backend as a service or specific business models open core, freepremium, subscription model ... and most of these cloud computing models or business models work online on the web and are cross-platform. There is not much need to have a desktop version too.
+
+You or your software development team are locked into a narrow set of solutions, frameworks(nw.js, tauri), softwares(dbdiagram), development platforms(airtable), programming paradigms(dataflow, visual, business oriented), technologies or programming language such as 8th, Xojo, cobol, delphi, r, julia, prograph, joule.
+
 This list is provided for informational purposes. The inclusion of any programming language, design pattern or tool as an alternative to electron-js does not imply endorsement or recommendation. Users are advised to conduct their own research before choosing a programming language or alternative to electron-js for their specific needs. That said, consider these alternatives:
 
 **[HTA/HTML Application](https://en.wikipedia.org/wiki/HTML_Application):** *"HTML Application or "HTA" is a Microsoft Windows program whose source code consists of HTML, Dynamic HTML, and one or more scripting languages supported by Internet Explorer, such as VBScript or JScript. The HTML is used to generate the user interface, and the scripting language is used for the program logic. An HTA executes without the constraints of the internet browser security model; in fact, it executes as a "fully trusted" application."*
