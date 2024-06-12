@@ -159,6 +159,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Tkinter](https://docs.python.org/3/library/tkinter.html): The Tkinter module or "Tk interface" is the standard Python interface to the Tk GUI toolkit. Both Tk and Tkinter are available on most Unix platforms, as well as on Windows systems. Tk itself is not part of Python; it is maintained at ActiveState.
 * [pywebview](https://github.com/r0x0r/pywebview): Build GUI for your Python program with JavaScript, HTML, and CSS.
 * [Pysimplegui](https://www.pysimplegui.com/): PySimpleGUI creates graphical user interfaces (GUIs) using Python, quickly and easily!.
+* [NiceGUI](https://nicegui.io/): NiceGUI is an approachable web-based UI toolkit for Python that can self-host with auto-refresh as you update the source, with a rich set of UI widgets. 
 
 ### R
 * [gWidgets](https://cran.r-project.org/src/contrib/Archive/gWidgets/): API for writing graphical user interfaces (GUIs) within R. The package is cross-platform (Linux/Mac/Windows) and cross-toolkit (RGtk2, qtbase, tcltk).
