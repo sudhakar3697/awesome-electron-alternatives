@@ -100,6 +100,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [WelsonJS](https://github.com/gnh1201/welsonjs): Build Windows desktop apps with JavaScript, HTML, and CSS based on WSH/HTA or GTK.
 * [Vuido](https://github.com/mimecorg/vuido): Creating native desktop applications based on Vue.js, based on [libui-node](https://github.com/parro-it/libui-node)
 * [quasar](https://quasar.dev): Vue.js based framework, which lets web developer to quickly create responsive websites/apps.
+* [Tauri](https://tauri.app): A toolkit that helps web developers to build desktop applications using already existing frontend frameworks.
 
 ### Julia
 * [MouseTrap](https://github.com/Clemapfel/mousetrap.jl): GUI Engine made for Julia
