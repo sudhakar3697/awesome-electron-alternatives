@@ -82,7 +82,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [webview](https://github.com/ronysfreitas/webview): Template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app.
 
 ### Javascript
-* [Sciter.JS](https://github.com/c-smile/sciter-js-sdk): Is a 5MB HTML/CSS/JS (ES6) runtime aimed as a direct Electron replacement.
+* [Sciter.JS](https://gitlab.com/sciter-engine/sciter-js-sdk): Is a 5MB HTML/CSS/JS (ES6) runtime aimed as a direct Electron replacement.
 * [electrino](https://github.com/pojala/electrino): Desktop runtime for apps built on web technologies, using the system's own web browser engine.
 * [nidium](https://www.nidium.com): A powerful rendering engine for modern mobile applications. Unlike many solution, nidium doesn't rely on webviews or native OS widgets. Instead, it uses its own high-performance rendering engine to draw custom widgets.
 * [modern-hta](https://github.com/joncasey/modern-hta): Run modern code in an HTML Application.
