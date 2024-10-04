@@ -188,6 +188,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [gtk-rs](https://github.com/gtk-rs): Rust bindings for GTK.
 * [revery-ui](https://github.com/revery-ui): Fast, native, cross-platform UI.
 * [tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
+* [GPUI](https://gpui.rs): A fast, productive UI framework for Rust from the creators of [Zed](https://zed.dev).
 
 ### V
 * [ui](https://github.com/pisaiah/ui): Isaiah's cross-platform GUI library for V. Inspired by the syntax of Java's Swing.
