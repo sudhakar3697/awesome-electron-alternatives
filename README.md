@@ -167,7 +167,10 @@ There are a number of good reasons to avoid Electron or consider something other
 * [gWidgets](https://cran.r-project.org/src/contrib/Archive/gWidgets/): API for writing graphical user interfaces (GUIs) within R. The package is cross-platform (Linux/Mac/Windows) and cross-toolkit (RGtk2, qtbase, tcltk).
 * [fGui](https://cran.r-project.org/web/packages/fgui/index.html): Rapidly create a GUI interface for a function you created by automatically creating widgets for arguments of the function. Automatically parses help routines for context-sensitive help to these arguments. The interface essentially a wrapper to some Tcl/Tk routines to both simplify and facilitate GUI creation. More advanced Tcl/Tk routines/GUI objects can be incorporated into the interface for greater customization for the more experienced.
 * [Shiny](https://shiny.posit.co/): Easy web apps for data science without the compromises
-  
+
+### Reason
+* [revery-ui](https://github.com/revery-ui): Fast, native, cross-platform UI.
+
 ### Rebol
 * [Native Gui](https://www.rebol.com/r3/docs/gui/gui.html): The primary objectives of the R3 GUI have been clearly stated in prior documents. However, to be sure we're all in sync: the GUI is designed to make simple apps simple, and sophisticated apps possible. That is, you really can write a useful app in just a few lines of GUI dialect, and a full scale app may require just a few dozen pages.
    
@@ -186,7 +189,6 @@ There are a number of good reasons to avoid Electron or consider something other
   
 ### Rust
 * [gtk-rs](https://github.com/gtk-rs): Rust bindings for GTK.
-* [revery-ui](https://github.com/revery-ui): Fast, native, cross-platform UI.
 * [tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 * [GPUI](https://gpui.rs): A fast, productive UI framework for Rust from the creators of [Zed](https://zed.dev).
 
