@@ -81,7 +81,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [OpenJFX or JavaFX](https://openjfx.io/): JavaFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java. It is a collaborative effort by many individuals and companies with the goal of producing a modern, efficient, and fully featured toolkit for developing rich client applications.
 * [webview](https://github.com/ronysfreitas/webview): Template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app.
 
-### Javascript
+### Javascript/TypeScript
 * [Sciter.JS](https://gitlab.com/sciter-engine/sciter-js-sdk): Is a 5MB HTML/CSS/JS (ES6) runtime aimed as a direct Electron replacement.
 * [electrino](https://github.com/pojala/electrino): Desktop runtime for apps built on web technologies, using the system's own web browser engine.
 * [nidium](https://www.nidium.com): A powerful rendering engine for modern mobile applications. Unlike many solution, nidium doesn't rely on webviews or native OS widgets. Instead, it uses its own high-performance rendering engine to draw custom widgets.
@@ -101,7 +101,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Vuido](https://github.com/mimecorg/vuido): Creating native desktop applications based on Vue.js, based on [libui-node](https://github.com/parro-it/libui-node)
 * [quasar](https://quasar.dev): Vue.js based framework, which lets web developer to quickly create responsive websites/apps.
 * [ProtonShell](https://github.com/r57zone/ProtonShell): Lightweight shell for websites, simple web applications, built on the Microsoft Edge system browser.
-
+* [Electrobun](https://electrobun.dev/): Electrobun aims to be a complete solution-in-a-box for building, updating, and shipping ultra-fast, tiny, and cross-platform desktop applications written in Typescript. Under the hood, it uses bun to execute the main process and to bundle webview typescript, and has native bindings written in zig.
 ### Julia
 * [MouseTrap](https://github.com/Clemapfel/mousetrap.jl): GUI Engine made for Julia
 
