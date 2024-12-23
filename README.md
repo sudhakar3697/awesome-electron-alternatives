@@ -64,6 +64,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [lorca](https://github.com/zserge/lorca): Build cross-platform modern desktop apps in Go + HTML5.
 * [wails](https://github.com/wailsapp/wails): Create beautiful applications using Go.
 * [muon](https://github.com/ImVexed/muon): Lightweight alternative to Electron written in Golang in about ~300 LoC, using Ultralight instead of Chromium.
+* [Fyne](https://github.com/fyne-io/fyne): Cross-platform GUI toolkit in Go inspired by Material Design.
 
 ### Guile
 * [guile-pstk](https://github.com/KikyTokamuro/guile-pstk): [PS/TK version](http://mirror.informatimago.com/scheme/www.t3x.org/pstk/index.html) fixed to work fine on modern GNU Guile.
