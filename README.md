@@ -163,6 +163,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Pysimplegui](https://www.pysimplegui.com/): PySimpleGUI creates graphical user interfaces (GUIs) using Python, quickly and easily!.
 * [NiceGUI](https://nicegui.io/): NiceGUI is an approachable web-based UI toolkit for Python that can self-host with auto-refresh as you update the source, with a rich set of UI widgets.
 * [Toga](https://toga.readthedocs.io/en/stable/): Toga is a Python native, OS native, cross-platform GUI toolkit. Toga consists of a library of base components with a shared interface to simplify platform-agnostic GUI development.
+* [Pyloid](https://github.com/pyloid/pyloid): Pyloid is the Python backend version of Electron and Tauri, providing an open-source project that allows you to easily utilize various Python integration features
 
 ### R
 * [gWidgets](https://cran.r-project.org/src/contrib/Archive/gWidgets/): API for writing graphical user interfaces (GUIs) within R. The package is cross-platform (Linux/Mac/Windows) and cross-toolkit (RGtk2, qtbase, tcltk).
