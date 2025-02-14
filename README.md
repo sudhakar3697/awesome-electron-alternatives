@@ -28,7 +28,7 @@ There are a number of good reasons to avoid Electron or consider something other
 
 ## 👓 Alternatives to the [Electron.js](https://electronjs.org) ⚛
 
-### C#(.Net)
+### [C# (.NET)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 * [Orleans](https://github.com/dotnet/Orleans): Cloud Native application framework for .NET
 * [Avalonia](https://avaloniaui.net): Avalonia UI creates pixel-perfect, native, create Multi-Platform Apps with .NET
 * [Uno](https://platform.uno): Pixel-Perfect Multi-Platform Applications with C# and WinUI.
@@ -37,7 +37,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Photino.NET](https://github.com/tryphotino/photino.NET): Photino uses the OSs built-in WebKit-based browser control for Windows, macOS and Linux. Photino is the lightest cross-platform framework. Compared to Electron, a Photino app is up to 110 times smaller! And it uses far less system memory too!.
 * [foton](https://github.com/integrativesoft/foton): Prototype for an Electron alternative written in C# by Integrative Software LLC and contributors.
 
-### C/C++
+### [C](https://www.cprogramming.com/)/[C++](https://cplusplus.com/)
 * [Qt](https://www.qt.io): Qt (pronounced "cute") is free and open-source cross-platform software for creating graphical user interfaces as well as cross-platform applications.
 * [wxWidgets](https://wxwidgets.org): wxWidgets is a C++ library that lets developers create applications for Windows, macOS, Linux and other platforms with a single code base. It has popular language bindings for Python, Ruby, Lua, Perl and several other languages.
 * [sciter](https://sciter.com): Embeddable HTML/CSS/JavaScript engine for modern UI development.
@@ -48,41 +48,41 @@ There are a number of good reasons to avoid Electron or consider something other
 * [tiny](https://github.com/Rafi993/tiny): This is a tiny alternative to electron.
 * [UnityHub](https://github.com/Ravbug/UnityHubNative): A native alternative to the heavy Electron Unity Hub, written in C++. UnityHubNative is a lightweight C++ / wxWidgets alternative to the unnecessarily heavy official Unity Hub, built using wxWidgets. This means that, instead of using heavy web components like the official Electron hub, it uses native GUI components on all platforms. It launches many times faster, uses far less memory and CPU, and is a fraction of the total size of the offical Unity Hub.
 
-### Crystal
+### [Crystal](https://crystal-lang.org/)
 * [Crystal Webview](https://github.com/naqvis/webview): Crystal language bindings for [webview](https://github.com/webview/webview), a tiny cross-platform webview library which uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and Edge on Windows 10).
 
-### Dart
+### [Dart](https://dart.dev/)
 * [flutter](https://flutter.dev): Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
 
-### Delphi
+### [Delphi](https://www.embarcadero.com/products/delphi)
 * [FMX (FireMonkey)](https://www.embarcadero.com/products/rad-studio/fm-application-platform): The FireMonkey® framework is the app development and runtime platform behind RAD Studio, Delphi and C++Builder. FireMonkey is designed for teams building multi-device, true native apps for Windows, OS X, Android and iOS, and getting them to app stores and enterprises fast.
 
-### Elm
+### [Elm](https://elm-lang.org/)
 * [Elm UI](https://elm-ui.netlify.app/): UI library for making web applications with Elm.
 
-### Go
+### [Go](https://go.dev/)
 * [lorca](https://github.com/zserge/lorca): Build cross-platform modern desktop apps in Go + HTML5.
 * [wails](https://github.com/wailsapp/wails): Create beautiful applications using Go.
 * [muon](https://github.com/ImVexed/muon): Lightweight alternative to Electron written in Golang in about ~300 LoC, using Ultralight instead of Chromium.
 * [Fyne](https://github.com/fyne-io/fyne): Cross-platform GUI toolkit in Go inspired by Material Design.
 
-### Guile
+### [Guile](https://www.gnu.org/software/guile/)
 * [guile-pstk](https://github.com/KikyTokamuro/guile-pstk): [PS/TK version](http://mirror.informatimago.com/scheme/www.t3x.org/pstk/index.html) fixed to work fine on modern GNU Guile.
 * [guile-webview](https://github.com/KikyTokamuro/guile-webview): Wrapper for using libwebview from GNU Guile.
 
-### Haskell 
+### [Haskell](https://haskell.org/) 
 - [Fudgets](http://www.altocumulus.org/Fudgets/): Fudgets is primarily a Graphical User Interface Toolkit for Haskell and the X Windows system. Fudgets also makes it easy to create client-server applications that communicate via the Internet. It runs on Unix but not on Windows.
 - [Keera Hails](https://github.com/keera-studios/keera-hails/): Keera Hails is a library to connect values that change with one another using rules or relations. Keera Hails is back-end agnostic and not exclusive to GUIs; it has backends for Gtk+ but also hardware (wiimotes), files, sockets and FRP-driven networks (using Yampa), and experimental backends for wx, qt, HTML DOM (using GHCJS) and Android's widget toolkit. It has been used commercially in production in medium-sized applications (10K-20K locs).
 - [Threepenny-gui](https://wiki.haskell.org/Threepenny-gui): Threepenny-gui is a GUI framework that uses the web browser as a display. It supports Functional Reactive Programming.
 - [webviewhs](https://lettier.github.io/webviewhs): webviewhs is a Haskell binding to the webview library created by Serge Zaitsev. This binding allows the creation of rich web-based UI experiences wrapped up in the powerful, type-safe embrace of Haskell. To render the UI it uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and MSHTML (IE10/11) on Windows.
 - [Monomer](https://github.com/fjvallarino/monomer): Monomer is an easy to use, cross platform, GUI library for writing native Haskell applications. It provides a framework similar to the Elm Architecture, allowing the creation of GUIs using an extensible set of widgets with pure Haskell.
 
-### Java
+### [Java](https://www.java.com/)
 * [Swing](https://en.wikipedia.org/wiki/Swing_(Java)): Swing is a GUI widget toolkit for Java.[1] It is part of Oracle's Java Foundation Classes (JFC) – an API for providing a graphical user interface (GUI) for Java programs.
 * [OpenJFX or JavaFX](https://openjfx.io/): JavaFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java. It is a collaborative effort by many individuals and companies with the goal of producing a modern, efficient, and fully featured toolkit for developing rich client applications.
 * [webview](https://github.com/ronysfreitas/webview): Template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app.
 
-### Javascript/TypeScript
+### [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/)/[TypeScript](https://www.typescriptlang.org/)
 * [Sciter.JS](https://gitlab.com/sciter-engine/sciter-js-sdk): Is a 5MB HTML/CSS/JS (ES6) runtime aimed as a direct Electron replacement.
 * [electrino](https://github.com/pojala/electrino): Desktop runtime for apps built on web technologies, using the system's own web browser engine.
 * [nidium](https://www.nidium.com): A powerful rendering engine for modern mobile applications. Unlike many solution, nidium doesn't rely on webviews or native OS widgets. Instead, it uses its own high-performance rendering engine to draw custom widgets.
@@ -103,13 +103,14 @@ There are a number of good reasons to avoid Electron or consider something other
 * [quasar](https://quasar.dev): Vue.js based framework, which lets web developer to quickly create responsive websites/apps.
 * [ProtonShell](https://github.com/r57zone/ProtonShell): Lightweight shell for websites, simple web applications, built on the Microsoft Edge system browser.
 * [Electrobun](https://electrobun.dev/): Electrobun aims to be a complete solution-in-a-box for building, updating, and shipping ultra-fast, tiny, and cross-platform desktop applications written in Typescript. Under the hood, it uses bun to execute the main process and to bundle webview typescript, and has native bindings written in zig.
-### Julia
+
+### [Julia](https://julialang.org/)
 * [MouseTrap](https://github.com/Clemapfel/mousetrap.jl): GUI Engine made for Julia
 
-### Kotlin
+### [Kotlin](https://kotlinlang.org/)
 * [Compose Multiplatform](https://www.jetbrains.com/lp/compose-mpp): Declarative framework for sharing UIs across multiple platforms. Based on Kotlin and Jetpack Compose. Developed by JetBrains and open-source contributors.
   
-### Nim
+### [Nim](https://nim-lang.org/)
 - [nimx](https://github.com/yglukhov/nimx): Desktop, Mobile & Web GUI framework in Nim.
 - [NiGui](https://github.com/trustable-code/NiGui): A cross-platform, desktop GUI toolkit.
 - [ui](https://github.com/nim-lang/ui): Wrapper for libui. Beginnings of what might become Nim's official UI library.
@@ -133,14 +134,14 @@ There are a number of good reasons to avoid Electron or consider something other
 - [nimetry](https://github.com/refaqtor/nimetry): Simple plotting in pure Nim.
 - [nimgraphviz](https://github.com/Aveheuzed/nimgraphviz): A Nim library for making graphs with GraphViz and DOT.
 
-### No-code\Low-code
+### No-code/Low-code
 - [Kodular](https://www.kodular.io/): Much more than a modern app creator without coding
 - [Bubble](https://bubble.io/): Design, develop, and launch production-grade applications without code. It doesn't matter if you’re starting out or on an enterprise team — Bubble is for anyone.
 
-### Pascal/FreePascal
+### Pascal/[FreePascal](https://www.freepascal.org/)
 * [Lazarus](https://www.lazarus-ide.org/): The professional Free Pascal RAD IDE. It is a Delphi compatible cross-platform IDE for Rapid Application Development.
 
-### Perl
+### [Perl](https://www.perl.org/)
 * [Gtk](https://metacpan.org/pod/Gtk3): Gtk3 - Perl interface to the 3.x series of the gtk+ toolkit.
 * [Prima](https://metacpan.org/pod/Prima): Prima - a perl graphic toolkit.
 * [Perl Executing Browser](https://github.com/ddmitov/perl-executing-browser): Perl Executing Browser (PEB) is an HTML user interface for Perl 5 desktop applications. It is a C++ Qt 5 application running local Perl scripts as child processes without server. Inspired by Electron and NW.js, PEB is another reuse of web technologies in desktop applications with Perl doing the heavy lifting instead of Node.js.
@@ -148,11 +149,11 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Tkx](https://metacpan.org/pod/Tkx): Tkx - Yet another Tk interface.
 * [Wx](https://metacpan.org/pod/Wx): The Wx module is a wrapper for the wxWidgets (formerly known as wxWindows) GUI toolkit.
 
-### PHP
+### [PHP](https://www.php.net/)
 * [NativePHP](https://nativephp.com/): NativePHP is a new framework for rapidly building rich, native desktop applications using PHP, HTML, CSS, Javascript.
 * [PHP TkUI](https://github.com/skoro/php-tkui): Build native desktop applications using PHP and Tcl/Tk.
 
-### Python
+### [Python](https://www.python.org/)
 * [fbs](https://build-system.fman.io): Python and Qt are great for writing lightweight desktop apps. But packaging, installers, code signing and automatic updates are a pain. fbs solves these problems and saves you months of development.
 * [PyQt](https://en.wikipedia.org/wiki/PyQt): PyQt is a Python binding of the cross-platform GUI toolkit Qt, implemented as a Python plug-in. PyQt is free software developed by the British firm Riverbank Computing.
 * [PySide](https://doc.qt.io/qtforpython-6/quickstart.html): PySide is a Python binding of the cross-platform GUI toolkit Qt.
@@ -168,15 +169,15 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Toga](https://toga.readthedocs.io/en/stable/): Toga is a Python native, OS native, cross-platform GUI toolkit. Toga consists of a library of base components with a shared interface to simplify platform-agnostic GUI development.
 * [Pyloid](https://github.com/pyloid/pyloid): Pyloid is the Python backend version of Electron and Tauri, providing an open-source project that allows you to easily utilize various Python integration features
 
-### R
+### [R](https://www.r-project.org/)
 * [gWidgets](https://cran.r-project.org/src/contrib/Archive/gWidgets/): API for writing graphical user interfaces (GUIs) within R. The package is cross-platform (Linux/Mac/Windows) and cross-toolkit (RGtk2, qtbase, tcltk).
 * [fGui](https://cran.r-project.org/web/packages/fgui/index.html): Rapidly create a GUI interface for a function you created by automatically creating widgets for arguments of the function. Automatically parses help routines for context-sensitive help to these arguments. The interface essentially a wrapper to some Tcl/Tk routines to both simplify and facilitate GUI creation. More advanced Tcl/Tk routines/GUI objects can be incorporated into the interface for greater customization for the more experienced.
 * [Shiny](https://shiny.posit.co/): Easy web apps for data science without the compromises
 
-### Reason
+### [Reason](https://reasonml.github.io/)
 * [revery-ui](https://github.com/revery-ui): Fast, native, cross-platform UI.
 
-### Rebol
+### [Rebol](http://www.rebol.com/)
 * [Native Gui](https://www.rebol.com/r3/docs/gui/gui.html): The primary objectives of the R3 GUI have been clearly stated in prior documents. However, to be sure we're all in sync: the GUI is designed to make simple apps simple, and sophisticated apps possible. That is, you really can write a useful app in just a few lines of GUI dialect, and a full scale app may require just a few dozen pages.
    
 ### [Red](https://www.red-lang.org/p/about.html)
@@ -184,7 +185,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Native GUI](https://github.com/red/docs/blob/master/en/view.adoc): The Red/View (or just View) component is a graphic system for the Red programming language.
 * [Layout](https://github.com/red/docs/blob/master/en/vid.adoc): VID stands for Visual Interface Dialect. Its purpose is to provide a simple dialect (DSL) for describing graphic user interfaces on top of the Red View engine.
 
-### Ruby
+### [Ruby](https://www.ruby-lang.org/en/)
 * [Glimmer](https://github.com/AndyObtiva/glimmer): A Domain-Specific Language & metaframework for building GUI apps using Ruby, with bindings for various GUI libraries and also Web.
 * [qtbindings](https://github.com/ryanmelt/qtbindings): Ruby bindings for Qt.
 * [tk](https://github.com/ruby/tk): Ruby bindings for Tcl/Tk.
@@ -192,12 +193,12 @@ There are a number of good reasons to avoid Electron or consider something other
 * [JRubyFX](https://github.com/jruby/jrubyfx): JRuby wrapper on JavaFX.
 * [traveling-ruby](https://github.com/phusion/traveling-ruby): Runtime to bundle Ruby applications into executables.
   
-### Rust
+### [Rust](https://www.rust-lang.org/)
 * [gtk-rs](https://github.com/gtk-rs): Rust bindings for GTK.
 * [tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 * [GPUI](https://gpui.rs): A fast, productive UI framework for Rust from the creators of [Zed](https://zed.dev).
 
-### V
+### [V](https://vlang.io/)
 * [ui](https://github.com/pisaiah/ui): Isaiah's cross-platform GUI library for V. Inspired by the syntax of Java's Swing.
 * [mui](https://github.com/malisipi/mui): A Cross-Platform UI Library in vlang
 * [viup](https://github.com/kjlaw89/viup): A V wrapper for the cross-platform UI library, IUP.
