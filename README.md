@@ -137,6 +137,9 @@ There are a number of good reasons to avoid Electron or consider something other
 - [Kodular](https://www.kodular.io/): Much more than a modern app creator without coding
 - [Bubble](https://bubble.io/): Design, develop, and launch production-grade applications without code. It doesn't matter if you’re starting out or on an enterprise team — Bubble is for anyone.
 
+### Pascal/FreePascal
+* [Lazarus](https://www.lazarus-ide.org/): The professional Free Pascal RAD IDE. It is a Delphi compatible cross-platform IDE for Rapid Application Development.
+
 ### Perl
 * [Gtk](https://metacpan.org/pod/Gtk3): Gtk3 - Perl interface to the 3.x series of the gtk+ toolkit.
 * [Prima](https://metacpan.org/pod/Prima): Prima - a perl graphic toolkit.
