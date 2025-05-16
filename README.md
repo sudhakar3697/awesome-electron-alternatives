@@ -81,6 +81,7 @@ There are a number of good reasons to avoid Electron or consider something other
 * [Swing](https://en.wikipedia.org/wiki/Swing_(Java)): Swing is a GUI widget toolkit for Java.[1] It is part of Oracle's Java Foundation Classes (JFC) – an API for providing a graphical user interface (GUI) for Java programs.
 * [OpenJFX or JavaFX](https://openjfx.io/): JavaFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java. It is a collaborative effort by many individuals and companies with the goal of producing a modern, efficient, and fully featured toolkit for developing rich client applications.
 * [webview](https://github.com/ronysfreitas/webview): Template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app.
+* [Vaadin] (https://vaadin.com/): Vaadin can integrate backend java (spring) with its own Hilla enviroment to connect in directly to React components - no need for api calls. Here is en example how to compile it in Electron for fully fledged desktop app: https://github.com/MarciaBM/electron-vaadin-hilla-template
 
 ### Javascript/TypeScript
 * [Sciter.JS](https://gitlab.com/sciter-engine/sciter-js-sdk): Is a 5MB HTML/CSS/JS (ES6) runtime aimed as a direct Electron replacement.
