@@ -236,10 +236,11 @@ _You can click of the license badges to learn more, try it out on this one:_
 
 ### PHP
 
-| Project                                       | Description                                                                                                           | License                                                                                                                   |
-| --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| [NativePHP](https://nativephp.com/)           | NativePHP is a new framework for rapidly building rich, native desktop applications using PHP, HTML, CSS, Javascript. | [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/NativePHP/laravel?tab=MIT-1-ov-file) |
-| [PHP TkUI](https://github.com/skoro/php-tkui) | Build native desktop applications using PHP and Tcl/Tk.                                                               | \*\*                                                                                                                      |
+| Project                                       | Description                                                                                                           | License                                                                                                                        |
+| --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------------------------------|
+| [NativePHP](https://nativephp.com/)           | NativePHP is a new framework for rapidly building rich, native desktop applications using PHP, HTML, CSS, Javascript. | [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/NativePHP/laravel?tab=MIT-1-ov-file)      |
+| [PHP TkUI](https://github.com/skoro/php-tkui) | Build native desktop applications using PHP and Tcl/Tk.                                                               | \*\*                                                                                                                           |
+| [BOSON](https://github.com/boson-php/boson)   | Build native desktop applications using PHP and your favorite framework.                                              | [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/boson-php/boson?tab=MIT-1-ov-file#readme) |
 
 \*\* No license provided, USE AT OWN RISK
 
