@@ -21,7 +21,6 @@ There are a number of good reasons to avoid Electron or consider something other
 - Resource (RAM) hogging
 - [Source code protection](https://www.contextis.com/en/blog/basic-electron-framework-exploitation)
 - We would already have a web component in the system that can be used.
-- Electron apps cannot be submitted to the [Apple store](https://news.ycombinator.com/item?id=21437255)
 - [Minimal resources](https://github.com/Elanis/web-to-desktop-framework-comparison)
 - Development platform like nodecode as Kodular, lowcode as Outsystems, database as a service as Astra DB, backend as service, mobile as a service, frontend as a service as Figma, banking as a service ...
 - visual programming paradigm (this includes solutions or technologies like development platform, blockly, serverless, dbdiagram and programming language as elm, python, v ...)
