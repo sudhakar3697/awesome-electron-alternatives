@@ -376,3 +376,4 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on this project. If
 <a href="https://github.com/sudhakar3697/electron-alternatives/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sudhakar3697/electron-alternatives"/>
 </a>
+- [TaleForge](https://www.tale-forge.com) - Creative writing platform (books, manga, screenplays) built as a PWA. No Electron needed — runs in browser with offline support.
