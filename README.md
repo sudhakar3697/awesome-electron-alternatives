@@ -332,6 +332,12 @@ _You can click of the license badges to learn more, try it out on this one:_
 | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | [Blockly](https://developers.google.com/blockly) | Blockly is a visual programming editor by Google that uses drag-and-drop blocks. It's the engine that powers the most popular coding education programs world. | [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/malisipi/mui?tab=Apache-2.0-1-ov-file) |
 
+### Zig
+
+| Project | Description | License |
+| ------- | ----------- | ------- |
+| [zero-native](https://github.com/vercel-labs/zero-native) | zero-native is a Zig desktop app shell for modern web frontends. Use the platform WebView when you want the smallest possible app, or bundle Chromium through CEF when rendering consistency matters. | [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/vercel-labs/zero-native?tab=Apache-2.0-1-ov-file) |
+
 ## 📖 Related work
 
 - [Livecode](https://livecode.com): Lightweight language with [native GUI], integrated IDE, and visual interface builder.
