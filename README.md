@@ -29,6 +29,9 @@ There are a number of good reasons to avoid Electron or consider something other
 
 ## 👓 Alternatives to the [Electron.js](https://electronjs.org) ⚛
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw. Tracks Gateway status, sessions, token usage & trends with Vue 3 + ECharts.
+
+
 _You can click of the license badges to learn more, try it out on this one:_
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/tealsnow/awesome-electron-alternatives?tab=License-1-ov-file)
 
