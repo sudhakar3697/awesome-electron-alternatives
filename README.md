@@ -98,8 +98,11 @@ _You can click of the license badges to learn more, try it out on this one:_
 | [wails](https://github.com/wailsapp/wails) | Create beautiful applications using Go.                                                                        | [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/wailsapp/wails?tab=MIT-1-ov-file)           |
 | [muon](https://github.com/ImVexed/muon)    | Lightweight alternative to Electron written in Golang in about ~300 LoC, using Ultralight instead of Chromium. | [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ImVexed/muon?tab=MIT-1-ov-file)\*           |
 | [Fyne](https://github.com/fyne-io/fyne)    | Cross-platform GUI toolkit in Go inspired by Material Design.                                                  | [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://github.com/fyne-io/fyne?tab=License-1-ov-file) |
+| [Aethium](https://github.com/A-Solo-Engineer/aethium)    | A minimal, high-performance UI framework for Go with immediate-mode rendering, supporting both browser (Wasm) and desktop targets.                                       | [![License](https://img.shields.io/badge/License-AGPLv3-green.svg)](https://github.com/A-Solo-Engineer?tab=License-1-ov-file) |
 
 \* Unmaintained
+
+\***** In Development Phase
 
 ### Guile
 
